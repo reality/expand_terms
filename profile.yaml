@@ -1,4 +1,10 @@
 - name: hypertrophic cardiomyopathy
 - name: atrial fibrillation
-- name: arthiritis
+- name: arthritis
+  strict: true
 - name: pulmonary embolism
+- name: glucocorticoid
+- name: cortisone
+- name: cancer
+- name: diabetes
+- name: hypertension

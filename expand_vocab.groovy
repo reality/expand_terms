@@ -3,9 +3,11 @@
 
 import org.yaml.snakeyaml.Yaml
 import groovyx.net.http.HTTPBuilder
+import groovy.transform.Field
 
 def http = new HTTPBuilder('http://aber-owl.net/')
 def profile = new Yaml().load(new File("${args[0]}").text)
+@Field def BANNED_ONTOLOGIES = ['GO-PLUS', 'MONDO', 'CCONT', 'jp/bio']
 
 def terms = [:]
 def strip(iri) {
@@ -17,7 +19,7 @@ def getSynonyms(http, term, cb) {
       def res = it[1].collect { x ->
         x.label = x.label.collect { l -> l.toLowerCase() }
 
-        if(x.label.contains(term)) {
+        if(x.label.contains(term) && !BANNED_ONTOLOGIES.any { o -> x.ontology == o || x.class.indexOf(o) != -1 }) {
           x.containsKey('synonyms') ? x.synonyms + x.label : x.label
         }
       }
@@ -33,8 +35,8 @@ def getSynonyms(http, term, cb) {
 def getSubclasses(http, iri, cb) {
   http.get(path: '/api/backend/', query: [ script: 'runQuery.groovy', type: 'subeq', query: iri ]) { resp, json ->
     cb(json.result.collect { 
-      if(!['MONDO'].any { o -> it.class.indexOf(o) != -1 } ) {
-        [it.label] + it.synonyms + it.hasExactSynonym
+      if(!BANNED_ONTOLOGIES.any { o -> it.ontology == o || it.class.indexOf(o) != -1 }) {
+        [it.label] + it.synonyms + it.hasExactSynonym + it.alternative_term 
       }
     }.flatten())
   }
@@ -45,10 +47,12 @@ profile.each { term ->
 }
 
 terms.each { name, cls ->
-  cls.each { iri, syn ->
-    getSubclasses(http, iri, { ts ->
-      cls[iri] = cls[iri] + ts
-    }) 
+  if(!profile.find { it.name == name }.containsKey('strict')) { 
+    cls.each { iri, syn -> 
+        getSubclasses(http, iri, { ts ->
+        cls[iri] = cls[iri] + ts
+      }) 
+    }
   }
 }
 
@@ -59,7 +63,7 @@ def finalTerms = terms.collectEntries { term, cls ->
             v.flatten().findAll { 
               it != null 
             }.collect{ 
-              it.toLowerCase()
+              it.toLowerCase()// + " (${c})"
             } 
           }.flatten().unique(false).findAll { 
             it.indexOf(term) == -1 
