@@ -6,7 +6,6 @@
 - name: glucocorticoid
 - name: cortisone
 - name: hypertension
-  strict: true
 - name: heart failure
 - name: hypertrophy
 - name: lvot obstruction
