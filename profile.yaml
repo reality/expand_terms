@@ -5,6 +5,12 @@
 - name: pulmonary embolism
 - name: glucocorticoid
 - name: cortisone
-- name: cancer
-- name: diabetes
 - name: hypertension
+  strict: true
+- name: heart failure
+- name: hypertrophy
+- name: lvot obstruction
+- name: syncope
+- name: hyperthyroidism
+- name: hypertension
+- name: anaemia

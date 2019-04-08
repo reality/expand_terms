@@ -7,7 +7,15 @@ import groovy.transform.Field
 
 def http = new HTTPBuilder('http://aber-owl.net/')
 def profile = new Yaml().load(new File("${args[0]}").text)
-@Field def BANNED_ONTOLOGIES = ['GO-PLUS', 'MONDO', 'CCONT', 'jp/bio']
+@Field def BANNED_ONTOLOGIES = [ 'GO-PLUS', 'MONDO', 'CCONT', 'jp/bio', 'phenX', 'ontoparonmed' ]
+@Field def BANNED_SYNONYMS = [
+                    "europe pmc",
+                    "kegg compound",
+                    "chemidplus",
+                    "lipid maps",
+                    "beilstein",
+                    "reaxys",
+                    "nist chemistry webbook", "cas registry number", "lipid maps instance", "beilstein registry number" ]
 
 def terms = [:]
 def strip(iri) {
@@ -24,7 +32,7 @@ def getSynonyms(http, term, cb) {
         }
       }
       res.removeAll([null])
-      if(res.size() != 0) { 
+      if(res.size() > 0) { 
         [(strip(it[0])): res]
       } else {
         [:]
@@ -61,12 +69,12 @@ def finalTerms = terms.collectEntries { term, cls ->
             v != false 
           }.collect { c, v -> 
             v.flatten().findAll { 
-              it != null 
+              it != null
             }.collect{ 
-              it.toLowerCase()// + " (${c})"
+              it.toLowerCase() //+ " (${c})" DEBUG
             } 
           }.flatten().unique(false).findAll { 
-            it.indexOf(term) == -1 
+            it.indexOf(term) == -1 && !BANNED_SYNONYMS.any{ s -> it.indexOf(s) != -1 }
           } 
   ]
 }
