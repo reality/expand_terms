@@ -41,7 +41,7 @@ def getSynonyms(http, term, cb) {
   }
 }
 def getSubclasses(http, iri, cb) {
-  http.get(path: '/api/backend/', query: [ script: 'runQuery.groovy', type: 'subeq', query: iri ]) { resp, json ->
+  http.get(path: '/api/backend/', query: [ script: 'runQuery.groovy', type: 'equivalent', query: iri ]) { resp, json ->
     cb(json.result.collect { 
       if(!BANNED_ONTOLOGIES.any { o -> it.ontology == o || it.class.indexOf(o) != -1 }) {
         [it.label] + it.synonyms + it.hasExactSynonym + it.alternative_term 
@@ -51,14 +51,16 @@ def getSubclasses(http, iri, cb) {
 }
 
 profile.each { term ->
-  getSynonyms(http, term.name, { syn -> terms[term.name] = syn })
+  getSynonyms(http, term.name, { syns -> 
+    terms[term.name] = syns 
+  })
 }
 
 terms.each { name, cls ->
   if(!profile.find { it.name == name }.containsKey('strict')) { 
     cls.each { iri, syn -> 
         getSubclasses(http, iri, { ts ->
-        cls[iri] = cls[iri] + ts
+          cls[iri] = cls[iri] + ts
       }) 
     }
   }
