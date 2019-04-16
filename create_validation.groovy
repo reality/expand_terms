@@ -24,8 +24,9 @@ def getSubclasses(http, iri, cb) {
 
 getSubclasses(http, parentClass, { cls ->
   Collections.shuffle(cls)
+  println cls.size()
   terms['train'] = cls.subList(0, trainCount).collect { [ name: it.label.toLowerCase() ] }
-  terms['test'] = cls.subList(trainCount, testCount).collect { [ name: it.label.toLowerCase() ] }
+  terms['test'] = cls.subList(trainCount, trainCount+testCount).collect { [ name: it.label.toLowerCase() ] }
 })
 
 new Yaml().dump(terms['train'], new FileWriter('train_terms.yaml'))

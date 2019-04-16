@@ -1,36 +1,75 @@
-intracranial hemorrhage: [intracranial hemorr nos, brain hemorrhage, 'hemorrhage,
-    brain', posterior fossa hemorrhages, chlamydia trachomatis infectious disease,
-  hemorrhage intracranial, 'hemorrhage, posterior fossa', posterior fossa hemorrhage,
-  'hemorrhages, posterior fossa', chlamydial infection, chlamydial disease, intracranial haemorrhage nos,
-  intracranial haemorrhage, 'hemorrhages, brain', 'hemorrhage, intracranial', 'hemorrhages,
-    intracranial', brain hemorrhages, 'bleeding, intracranial', intracranial bleeding,
-  hemorrhage brain, bleeding intracranial, haemorrhage intracranial, bleeding within the skull,
-  'hp:0002170']
-pulmonary arterial atherosclerosis: []
-endocardial fibroelastosis: [elastomyofibrosis, doid_12929, efe, 'hp:0001706']
-plaque-like facial hemangioma: ['hemangioma, facial, plaque-like']
-hyphema: [hypohéma, hyphéma, hyphaema, hyphemia, 'hp:0011886']
-abnormal qrs voltage: []
-anomalous origin of the left circumflex artery from the right coronary artery: []
-st segment depression: []
-non-pruritic urticaria: [non-itchy hives]
-mildly reduced ejection fraction: []
-sinoatrial block: [sinauricular block, s-a block, sa block, sinuatrial block]
-truncus arteriosus: [common arterial trunk, tac, common aorticopulmonary trunk, tronc artériel commun,
-  tronco arterioso, tronco aórtico-pulmonar común, tronco arterial común, gemeenschappelijke aortico-pulmonale stam,
-  gemeenschappelijke arteriële stam, persistent truncus arteriosis, single outflow tract,
-  pta, truncus arteriosis, 'hp:0001660', common aortico-pulmonary trunk, malformação do tronco arterial,
-  tronco arterioso comune]
-shortened pr interval: [reduced pr interval, decreased pr interval, electrocardiographic short pr interval,
-  short p-r interval, short pr interval, 'hp:0005165']
-telangiectasia macularis eruptiva perstans: [telangiëctasie macularis eruptiva perstans,
-  mastocytose cutanée maculeuse télangiectasique, 'mastocitose cutânea, telangiectasia
-    maculosa', 'mastocitoma cutáneo, telangiectasia maculosa', teleangectasia maculare eruttiva perstans]
-supraventricular tachycardia with an accessory connection mediated pathway: [atrioventricular re-entry tachycardia]
-coronary artery aneurysm: [coronary arterial aneurysm, coronary artery ectasia, coronary artery dilatation,
-  coronary arterial dilatation, 'hp:0030882']
-fusiform cerebral aneurysm: [intracranial fusiform aneurysm]
-absent left sided atrioventricular connection: []
-tricuspid atresia: [trikuspidalatresie, tricuspidalisatresie, atrésie tricuspide,
-  atresia tricúspide, tricuspid valve atresia, 'hp:0011662']
-unroofed coronary sinus: []
+congenital malformation of the right heart: []
+sinus venosus atrial septal defect: [sinus venosum asd, sinus venosus asd]
+transient ischemic attack: [transient cerebral ischemias, transient cerebral ischaemia nos,
+  'ischemia, transient brainstem', 'attacks, transient ischemic', 'brainstem ischemias,
+    transient', transient cerebral ischemia, transient brainstem ischemia, 'ischemia,
+    transient cerebral', 'attack, transient ischemic', 'brainstem ischemia, transient',
+  'ischemias, transient brainstem', tia, 'cerebral ischemia, transient', transient cerebral ischaemia,
+  'ischemic attacks, transient', brain tia, 'transient cerebral ischemia (disorder)
+    [ambiguous]', tia - transient ischaemic attack, 'brain stem ischemia, transient',
+  'tia, brain', 'ischemic attack, transient', 'cerebral ischemias, transient', 'ischemias,
+    transient cerebral', mini stroke]
+dysplastic pulmonary valve: [abnormal pulmonary valve morphology, anomaly of the pulmonary valve,
+  abnormality of the pulmonary valve, pulmonary valve dysplasia, abnormal pulmonic valve morphology,
+  pulmonary valvar abnormality]
+cerebral artery stenosis: [narrowing of a cerebral artery]
+supraventricular tachycardia with a manifest accessory pathway on the right free wall: []
+vulval varicose vein: []
+pericarditis: [inflammation of pericardium, pericardium inflammation, swelling or irritation of membrane around heart,
+  pericardium; inflammation, an inflammation of the membrane surrounding the heart,
+  péricardite, 心外膜炎, 心膜炎]
+abnormal systemic blood pressure: [abnormal systemic bp]
+abnormal size of nasopharyngeal adenoids: []
+single raphe bicuspid aortic valve: []
+left ventricular systolic dysfunction: [left cardiac ventricular systolic dysfunction,
+  impaired left ventricular systolic function, 左室収縮機能障害, left ventricular systolic heart failure]
+type iv truncus arteriosus: [type 4 truncus arteriosus, persistent truncus arteriosus type iv,
+  'pta, type iv', persistent truncus arteriosus type 4]
+remnants of the hyaloid vascular system: [persistent tunica vasculosa lentis, congenital retinal septum,
+  persistent fetal vasculature, persistent hyperplastic primary vitreous, persistent posterior fetal fibrovascular sheath of the lens,
+  persistent hypertrophic primary vitreous, persistent hyperplasia of primary vitreous,
+  retrolenticular membrane]
+abnormally loud pulmonic component of the second heart sound: [accentuation of the pulmonic component of the second heart sound]
+congenital malformation of the left heart: []
+calcification of the small brain vessels: []
+femoral arterial calcification: []
+abnormal mitral valve morphology: [abnormality of the mitral valve, mitral valve dysplasia,
+  abnormal bicuspid valve morphology, abnormal mitral valvar morphology, phenotypic abnormality of mitral valve]
+early progressive calcific cardiac valvular disease: []
+partial right sided absence of pericardium: []
+jejunal arteriovenous malformation: []
+aplasia/hypoplasia of the spleen: [absent/small spleen, absent/underdeveloped spleen]
+chronic idiopathic urticaria: [chronic spontaneous urticaria, csu, ciu, 慢性特発性蕁麻疹,
+  'idiopathic urticaria, chronic']
+abnormal ventriculoarterial connection: [abnormal ventriculo-arterial connection]
+attenuation of retinal blood vessels: [narrowing of blood vessels in back of eye]
+dilatation: [dilatação, aneurysm, aneurysms, wider than typical opening or gap]
+pulmonary artery hypoplasia: [underdeveloped lung artery, underdeveloped pulmonary artery,
+  pulmonary arterial hypoplasia, hypoplastic main pulmonary artery, pulmonalarterienhypoplasie,
+  longslagaderhypoplasie, hypoplasie des artères pulmonaires, hipoplasia arterial pulmonar]
+myocardial calcification: [calcified myocardium]
+chorioretinal dysplasia: []
+left-to-right shunt: []
+st segment elevation: [ｓｔ上昇, st上昇]
+retinal microaneurysm: []
+choroidal vascular hyperpermeability: [choroidal hyperpermeability]
+abnormal pulmonary artery physiology: []
+polypoidal choroidal vasculopathy: [ポリープ状脈絡膜血管症]
+intrapulmonary shunt: []
+fluctuating splenomegaly: []
+ventricular septal hypertrophy: [thickened interventricular septum]
+lymphangiectasis: [lymphangiectases (disorder), lymphectasia, lymphatic vessel dilation,
+  telangiectasia lymphatica, dilated lymphatic vessels, lymphangiectasia, リンパ管拡張症]
+primum atrial septal defect: ['atrial septal defect, primum type', primum atrioventricular canal defect,
+  septum primum defect, primum asd, ostium primum asd]
+infracardiac total anomalous pulmonary venous connection: [type 3 total anomalous pulmonary venous connection]
+common carotid artery dissection: []
+complete diaphragmatic absence of pericardium: []
+abnormality of nasopharyngeal adenoids: [abnormality of nasopharyngeal tonsil, abnormality of adenoids,
+  abnormality of pharyngeal tonsil, phenotypic abnormality of pharyngeal tonsil]
+double inlet to single ventricle of indeterminate morphology: []
+endocardial fibroelastosis: [elastomyofibrosis, efe, 心内膜線維弾性症, ecfe, endomyocardial fibroelastosis]
+lymphangioma of the orbit: []
+cerebral berry aneurysm: [cerebral saccular aneurysm]
+cutis marmorata: [telangiectatica congenita, livedo reticularis, skin marbling, marbled skin,
+  大理石様皮膚]

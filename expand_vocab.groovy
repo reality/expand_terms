@@ -27,7 +27,7 @@ def getSynonyms(http, term, cb) {
       def res = it[1].collect { x ->
         x.label = x.label.collect { l -> l.toLowerCase() }
 
-        if(x.label.contains(term) && !BANNED_ONTOLOGIES.any { o -> x.ontology == o || x.class.indexOf(o) != -1 }) {
+        if(x.label.contains(term) /*&& !BANNED_ONTOLOGIES.any { o -> x.ontology == o || x.class.indexOf(o) != -1 }*/) {
           x.containsKey('synonyms') ? x.synonyms + x.label : x.label
         }
       }
@@ -43,9 +43,9 @@ def getSynonyms(http, term, cb) {
 def getSubclasses(http, iri, cb) {
   http.get(path: '/api/backend/', query: [ script: 'runQuery.groovy', type: 'equivalent', query: iri ]) { resp, json ->
     cb(json.result.collect { 
-      if(!BANNED_ONTOLOGIES.any { o -> it.ontology == o || it.class.indexOf(o) != -1 }) {
+      //if(!BANNED_ONTOLOGIES.any { o -> it.ontology == o || it.class.indexOf(o) != -1 }) {
         [it.label] + it.synonyms + it.hasExactSynonym + it.alternative_term 
-      }
+      //}
     }.flatten())
   }
 }
@@ -76,7 +76,7 @@ def finalTerms = terms.collectEntries { term, cls ->
               it.toLowerCase() //+ " (${c})" DEBUG
             } 
           }.flatten().unique(false).findAll { 
-            it.indexOf(term) == -1 && !BANNED_SYNONYMS.any{ s -> it.indexOf(s) != -1 }
+            it.indexOf(term) == -1 && it.indexOf(':') == -1 && it.indexOf('_') == -1 // && !BANNED_SYNONYMS.any{ s -> it.indexOf(s) != -1 }
           } 
   ]
 }
