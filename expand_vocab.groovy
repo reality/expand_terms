@@ -16,6 +16,8 @@ def profile = new Yaml().load(new File("${args[0]}").text)
                     "beilstein",
                     "reaxys",
                     "nist chemistry webbook", "cas registry number", "lipid maps instance", "beilstein registry number" ]
+//@Field def BANNED_ONTOLOGIES = []
+//@Field def BANNED_SYNONYMS = []
 
 def terms = [:]
 def strip(iri) {
@@ -27,7 +29,7 @@ def getSynonyms(http, term, cb) {
       def res = it[1].collect { x ->
         x.label = x.label.collect { l -> l.toLowerCase() }
 
-        if(x.label.contains(term) /*&& !BANNED_ONTOLOGIES.any { o -> x.ontology == o || x.class.indexOf(o) != -1 }*/) {
+        if(x.label.contains(term) && !BANNED_ONTOLOGIES.any { o -> x.ontology == o || x.class.indexOf(o) != -1 }) {
           x.containsKey('synonyms') ? x.synonyms + x.label : x.label
         }
       }
@@ -41,23 +43,29 @@ def getSynonyms(http, term, cb) {
   }
 }
 def getSubclasses(http, iri, cb) {
-  http.get(path: '/api/backend/', query: [ script: 'runQuery.groovy', type: 'subeq', query: iri ]) { resp, json ->
+  http.get(path: '/api/backend/', query: [ script: 'runQuery.groovy', type: 'equivalent', query: iri ]) { resp, json ->
     cb(json.result.collect { 
       if(it) {
-      //if(!BANNED_ONTOLOGIES.any { o -> it.ontology == o || it.class.indexOf(o) != -1 }) {
+      if(!BANNED_ONTOLOGIES.any { o -> it.ontology == o || it.class.indexOf(o) != -1 }) {
         [it.label] + it.synonyms + it.hasExactSynonym + it.alternative_term 
-      //}
+      }
       }
     }.flatten())
   }
 }
 
+def fCount = 0
 profile.each { term ->
   getSynonyms(http, term.name, { syns -> 
     terms[term.name] = syns 
+    println "(${fCount}/${profile.size()})"
+    fCount++
   })
 }
 
+new Yaml().dump(terms, new FileWriter("save.yaml"))
+
+def zCount = 0
 terms.each { name, cls ->
   if(!profile.find { it.name == name }.containsKey('strict')) { 
     cls.each { iri, syn -> 
@@ -66,8 +74,11 @@ terms.each { name, cls ->
       }) 
     }
   }
+  println "(${zCount}/${terms.size()})"
+  zCount++
 }
 
+println 'collecting...'
 def finalTerms = terms.collectEntries { term, cls ->
   [(profile.find { it.name == term }.term): cls.findAll { c, v -> 
             v != false 
@@ -78,7 +89,7 @@ def finalTerms = terms.collectEntries { term, cls ->
               it.toLowerCase() //+ " (${c})" DEBUG
             } 
           }.flatten().unique(false).findAll { 
-            it.indexOf(term) == -1 && it.indexOf(':') == -1 && it.indexOf('_') == -1 // && !BANNED_SYNONYMS.any{ s -> it.indexOf(s) != -1 }
+            it.indexOf(term) == -1 && it.indexOf(':') == -1 && it.indexOf('_') == -1 && !BANNED_SYNONYMS.any{ s -> it.indexOf(s) != -1 }
           } + term 
   ]
 }

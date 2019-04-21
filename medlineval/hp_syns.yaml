@@ -1,33 +1,27 @@
-http://purl.obolibrary.org/obo/HP_0003361: [increased urine tryptophan level, high urine tryptophan levels,
-  トリプトファン尿, tryptophanuria]
+http://purl.obolibrary.org/obo/HP_0003361: [high urine tryptophan levels, tryptophanuria]
 http://purl.obolibrary.org/obo/HP_0030008: [absent cervix, aplasia of the cervix,
   cervical aplasia, cervical agenesis]
 http://purl.obolibrary.org/obo/HP_0040095: [outer ear tumor, neoplasm of the outer ear]
 http://purl.obolibrary.org/obo/HP_0011698: [supraventricular tachycardia with a manifest accessory pathway on the septum]
 http://purl.obolibrary.org/obo/HP_0003261: [iga hypergammaglobulinemia, increased serum iga,
-  increased levels of iga, elevated serum iga, elevated iga, increased iga level,
-  increased circulating iga level]
+  increased levels of iga, elevated serum iga, elevated iga, increased circulating iga level]
 http://purl.obolibrary.org/obo/HP_0006984: [distal sensory loss of all modalities]
 http://purl.obolibrary.org/obo/HP_0011185: [focal eeg abnormality, eeg with focal epileptiform discharges]
 http://purl.obolibrary.org/obo/HP_0410219: [disorder of mandibular and maxillary dental arch relationship,
   hypoplasia of mandible relative to maxilla]
 http://purl.obolibrary.org/obo/HP_0008733: [dysplastic testes]
-http://purl.obolibrary.org/obo/HP_0010514: [increased pituitary hormone secretion,
-  下垂体機能亢進症, pituitary activity increased, hyperpituitarism]
+http://purl.obolibrary.org/obo/HP_0010514: [hyperpituitarism]
 http://purl.obolibrary.org/obo/HP_0020080: [erythrocyte inclusion bodies]
 http://purl.obolibrary.org/obo/HP_0025522: [elongated chordae tendinae of the mitral valve]
 http://purl.obolibrary.org/obo/HP_0004331: [ossification defect of skull, hypoossification of skull,
-  deficient skull ossification, poorly ossified skull, poorly mineralized skull, poorly ossified skull bones,
-  '', decreased bone formation of skull, decreased skull ossification]
-http://purl.obolibrary.org/obo/HP_0002619: [vein varicose, varices, venous ectasia,
-  varix, venous varices, varicose disease, varicose vein, 静脈りゅう, varicosis, varicosity,
-  拡張蛇行静脈, 静脈瘤, varicose veins]
-http://purl.obolibrary.org/obo/HP_0005863: ['brachydactyly, type e', type e brachydactyly]
+  deficient skull ossification, decreased bone formation of skull, poorly ossified skull,
+  poorly mineralized skull, poorly ossified skull bones, decreased skull ossification]
+http://purl.obolibrary.org/obo/HP_0002619: [varicose veins]
+http://purl.obolibrary.org/obo/HP_0005863: [type e brachydactyly]
 http://purl.obolibrary.org/obo/HP_0031358: [vegetative state]
 http://purl.obolibrary.org/obo/HP_0003550: [predominantly lower limb lymphedema]
-http://purl.obolibrary.org/obo/HP_0031196: [thin myocardial compact layer, thin myocardium compact layer]
-http://purl.obolibrary.org/obo/HP_0100890: [choledochal cyst, biliary cyst, common bile duct cyst,
-  choledochocele, cyst of the ductus choledochus]
+http://purl.obolibrary.org/obo/HP_0031196: [thin myocardium compact layer]
+http://purl.obolibrary.org/obo/HP_0100890: [choledochal cyst, cyst of the ductus choledochus]
 http://purl.obolibrary.org/obo/HP_0007376: [abnormality of the choroid plexus]
 http://purl.obolibrary.org/obo/HP_0001092: [aplasia of lacrimal puncta, absent lacrimal puncta,
   lacrimal puncta aplasia, absent lacrimal openings, 'lacrimal punctum, absence',
@@ -36,40 +30,27 @@ http://purl.obolibrary.org/obo/HP_0040293: [hemiplegia (right), right hemiplegia
 http://purl.obolibrary.org/obo/HP_0009514: [bracket shaped end part of the middle long bone of the index finger,
   bracket epiphysis of the middle phalanx of the 2nd finger]
 http://purl.obolibrary.org/obo/HP_0003862: [aplasia of the humerus, aplastic humerus,
-  absent long bone in upper arm, congenital absence of humerus, absent humerus]
+  absent long bone in upper arm, absent humerus]
 http://purl.obolibrary.org/obo/HP_0011253: [type 1 cryptotia, type i cryptotia]
-http://purl.obolibrary.org/obo/HP_0005262: [phenotypic abnormality of synovial joint,
-  abnormality of the synovia]
-http://purl.obolibrary.org/obo/HP_0003431: [reduced motor nerve conduction velocity,
-  decreased motor nerve conduction velocities (ncv), decreased motor ncv, decreased motor nerve conduction velocities,
-  decreased motor nerve conduction velocity]
+http://purl.obolibrary.org/obo/HP_0005262: [abnormality of the synovia]
+http://purl.obolibrary.org/obo/HP_0003431: [decreased motor ncv, reduced motor nerve conduction velocity,
+  decreased motor nerve conduction velocities, decreased motor nerve conduction velocity]
 http://purl.obolibrary.org/obo/HP_0007076: [extrapyramidal muscular rigidity]
-http://purl.obolibrary.org/obo/HP_3000003: [abnormal mandible ramus morphology, abnormal mandibule ramus morphology,
-  abnormality of mandibular ramus, phenotypic abnormality of mandibular ramus, abnormal mandibular ramus morphology]
+http://purl.obolibrary.org/obo/HP_3000003: [abnormality of mandibular ramus, abnormal mandibular ramus morphology]
 http://purl.obolibrary.org/obo/HP_0410334: [allergy to fungi, fungus allergy, fungal allergy,
   fungi allergy]
-http://purl.obolibrary.org/obo/HP_0012121: [diffuse uveitis, total uveitis, panuvéite,
-  uvéite totale, panuveítis, uveítis total, panuveïtis, totale uveïtis, 'uveitis,
-    totale', 全ぶどう膜炎, panuveitis]
-http://purl.obolibrary.org/obo/HP_0011951: [acid aspiration syndrome, mendelsons syndrome,
-  'syndromes, acid aspiration', 'syndrome, mendelson''s', 'pneumonias, aspiration',
-  'syndrome, mendelson', acid aspiration syndromes, mendelson syndrome, gastric acid aspiration syndrome,
-  'syndrome, acid aspiration', mendelson's syndrome, 'pneumonia, aspiration', aspiration pneumonia]
-http://purl.obolibrary.org/obo/HP_0002563: ['pericarditis, constrictive', péricardite constrictive,
-  constrictive pericarditis]
+http://purl.obolibrary.org/obo/HP_0012121: [panuveitis]
+http://purl.obolibrary.org/obo/HP_0011951: [aspiration pneumonia]
+http://purl.obolibrary.org/obo/HP_0002563: [constrictive pericarditis]
 http://purl.obolibrary.org/obo/HP_0030484: [supernormal dark-adapted bright flash electroretinogram b-wave]
-http://purl.obolibrary.org/obo/HP_0002933: [hernia of anterior abdominal wall, 'hernia,
-    ventral', ventral hernia]
+http://purl.obolibrary.org/obo/HP_0002933: [ventral hernia]
 http://purl.obolibrary.org/obo/HP_0010013: [abnormality of the 5th long bone of hand,
-  phenotypic abnormality of metacarpal bone of digit 5, abnormality of the 5th metacarpal]
-http://purl.obolibrary.org/obo/HP_0002077: [migraine preceded or accompanied by transient focal neurological phenomena,
-  classical migraine, migraine with acute-onset aura, migraine equivalents, basilar migraine,
-  migraine triggered seizures, migraine with typical aura, retinal migraine, migraine with prolonged aura,
-  classic migraine, migraine classique, migraine avec aura, 前兆を伴う片頭痛, migraine with aura]
+  abnormality of the 5th metacarpal]
+http://purl.obolibrary.org/obo/HP_0002077: [migraine with aura]
 http://purl.obolibrary.org/obo/HP_0011221: [vertical forehead rhytids, vertical forehead wrinkles,
   frontal creases of face, vertical forehead creases]
 http://purl.obolibrary.org/obo/HP_0006716: [hereditary nonpolyposis colorectal carcinoma]
-http://purl.obolibrary.org/obo/HP_0009912: [phenotypic abnormality of tragus, abnormality of the tragus]
+http://purl.obolibrary.org/obo/HP_0009912: [abnormality of the tragus]
 http://purl.obolibrary.org/obo/HP_0012761: [mastoid agenesis, failure of development of mastoid,
   absent mastoid]
 http://purl.obolibrary.org/obo/HP_0031845: [abnormal libido]
@@ -80,50 +61,40 @@ http://purl.obolibrary.org/obo/HP_0004360: [abnormality of acid-base homeostasis
 http://purl.obolibrary.org/obo/HP_0004278: [synostosis involving bones of the hand]
 http://purl.obolibrary.org/obo/HP_0010396: [broad innermost bone of 2nd toe, broad proximal phalanx of the 2nd toe]
 http://purl.obolibrary.org/obo/HP_0031598: [notched p wave]
-http://purl.obolibrary.org/obo/HP_0001093: [abnormal optic nerve morphology, optic nerve abnormalities,
-  abnormal optic ii nerve morphology, abnormal cn-ii morphology, cranial nerve ii morphology,
-  optic nerve dysplasia]
-http://purl.obolibrary.org/obo/HP_0010716: [webbed 3rd-5th toes, toe syndactyly, 3-5 toe syndactyly]
+http://purl.obolibrary.org/obo/HP_0001093: [optic nerve dysplasia]
+http://purl.obolibrary.org/obo/HP_0010716: [webbed 3rd-5th toes, 3-5 toe syndactyly]
 http://purl.obolibrary.org/obo/HP_0025472: [recurrent plantar mycosis]
-http://purl.obolibrary.org/obo/HP_0031480: [abnormal mitral valve cusp morphology,
-  abnormal bicuspid valve leaflet morphology, abnormal bicuspid valve cusp morphology,
-  abnormal mitral valve leaflet morphology]
+http://purl.obolibrary.org/obo/HP_0031480: [abnormal mitral valve leaflet morphology]
 http://purl.obolibrary.org/obo/HP_0032219: [increased proportion of cd4 t cells]
 http://purl.obolibrary.org/obo/HP_0009684: [speckled calcifications in the end part of the outermost thumb bone,
   stippling of the epiphysis of the distal phalanx of the thumb]
-http://purl.obolibrary.org/obo/HP_0007973: [retinal dysgenesis, abnormal retina morphology,
-  retina abnormalities, retina dysplasia, retina morphology, 網膜形成不全, retinal dysplasia]
-http://purl.obolibrary.org/obo/HP_0011733: [abnormal adrenal gland physiology, abnormal adrenal gland function,
-  abnormality of adrenal physiology]
+http://purl.obolibrary.org/obo/HP_0007973: [retinal dysgenesis, retinal dysplasia]
+http://purl.obolibrary.org/obo/HP_0011733: [abnormality of adrenal physiology]
 http://purl.obolibrary.org/obo/HP_0007481: [hyperpigmented nevi]
 http://purl.obolibrary.org/obo/HP_0012155: [reduced corneal sensation, corneal hypaesthesia,
   corneal hypesthesia, decreased corneal sensation]
-http://purl.obolibrary.org/obo/HP_0000112: [renal insufficiency, kidney damage, kidney disease,
-  nephropathy]
+http://purl.obolibrary.org/obo/HP_0000112: [kidney damage, kidney disease, nephropathy]
 http://purl.obolibrary.org/obo/HP_0001751: [impaired vestibular function, vestibular function defect,
   vestibular dysfunction]
 http://purl.obolibrary.org/obo/HP_0000387: [absent ear lobes, 'earlobe, absent', lobeless ears,
-  absence of ear lobes, absent earlobe]
+  absent earlobe]
 http://purl.obolibrary.org/obo/HP_0009803: [shortened phalanges, phalangeal hypoplasia,
   rudimentary phalanges, short phalanges, hypoplastic/small phalanges of the hand,
-  short finger bones, hypoplastic phalanges, hypoplastic phalanges of hands, brachyphalangia,
-  short phalanx of finger]
+  short finger bones, hypoplastic phalanges, hypoplastic phalanges of hands, short phalanx of finger]
 http://purl.obolibrary.org/obo/HP_0008819: [narrow neck of thigh bone, narrow femoral neck]
 http://purl.obolibrary.org/obo/HP_0010357: [abnormality of the middle bone of the 2nd toe,
-  phenotypic abnormality of middle phalanx of pedal digit 2, abnormality of the middle phalanx of the 2nd toe]
+  abnormality of the middle phalanx of the 2nd toe]
 http://purl.obolibrary.org/obo/HP_0007450: [increased groin pigmentation with raindrop depigmentation]
-http://purl.obolibrary.org/obo/HP_0011171: [simple febrile convulsion, simple fever fit,
+http://purl.obolibrary.org/obo/HP_0011171: [simple fever fit, simple febrile convulsion,
   simple febrile seizures]
 http://purl.obolibrary.org/obo/HP_0031123: [recurrent gastroenteritis]
 http://purl.obolibrary.org/obo/HP_0040061: [osteosclerosis of the radius]
 http://purl.obolibrary.org/obo/HP_0007535: [hypopigmented streaks]
 http://purl.obolibrary.org/obo/HP_0008830: [hypoplastic pubic rami]
-http://purl.obolibrary.org/obo/HP_0002961: [dysgammaglobulinaemia, 低γグロブリン血症, hypogammaglobulinaemia,
-  hypogammaglobulinemia, hypoimmunoglobulinemia, dysimmunoglobulinemia, 免疫グロブリン血症,
-  異γグロブリン血症, gammopathy, dysgammaglobulinemia]
+http://purl.obolibrary.org/obo/HP_0002961: [dysgammaglobulinemia]
 http://purl.obolibrary.org/obo/HP_0100113: [cone-shaped end part of the middle bone of the 2nd toe,
   cone-shaped epiphysis of the middle phalanx of the 2nd toe]
-http://purl.obolibrary.org/obo/HP_0011523: [cyst of iris, cyst of the iris, iris cyst]
+http://purl.obolibrary.org/obo/HP_0011523: [iris cyst]
 http://purl.obolibrary.org/obo/HP_0410242: [abnormal igg level]
 http://purl.obolibrary.org/obo/HP_0006579: [prolonged yellowing of skin in newborn,
   neonatal jaundice, prolonged neonatal jaundice]
@@ -155,20 +126,14 @@ http://purl.obolibrary.org/obo/HP_0100226: [cone-shaped end part of the innermos
 http://purl.obolibrary.org/obo/HP_0000484: [hyperopic astigmatism]
 http://purl.obolibrary.org/obo/HP_0500226: [abnormal serine levels in cerebrospinal fluid,
   abnormal csf serine concentration]
-http://purl.obolibrary.org/obo/HP_0009798: [euthyroid goitre, euthyroid goiter]
-http://purl.obolibrary.org/obo/HP_0002315: [pain head, head pain, cephalalgia, head pressure,
-  head discomfort, fullness head, cephalgia, head fullness, head tightness, cephalodynia,
-  'cephalalgia ', dor de cabeça, 頭痛, maux de tête, migraine, mal de tête, céphalée,
-  céphalgie, gene dans la tete, cephalalgie, cephalodynias, mal de tete, céphalodynie,
-  douleur dans la tête, douleur crânienne, cephalees, head pain cephalgia, cranial pain,
-  pain in head, head ache, encephalalgia, cephalea, dolor capitis, cephalaea, headache]
+http://purl.obolibrary.org/obo/HP_0009798: [euthyroid goiter]
+http://purl.obolibrary.org/obo/HP_0002315: [headache]
 http://purl.obolibrary.org/obo/HP_0006895: [lower limb hypertonia]
 http://purl.obolibrary.org/obo/HP_0008625: [severe sensorineural hearing loss, severe sensorineural deafness,
   severe sensorineural hearing impairment]
 http://purl.obolibrary.org/obo/HP_0009375: [bullet-shaped pinky finger bones, bullet-shaped pinkie finger bones,
   bullet-shaped little finger bones, bullet-shaped phalanges of the 5th finger]
 http://purl.obolibrary.org/obo/HP_0030380: [decreased proportion of cd19+cd38+igm+ cells,
-  decreased transitional b cell count, decreased proportion of transitional b cells]
-http://purl.obolibrary.org/obo/HP_0001067: [neurofibromatosis, neurofibromata, increased neurofibroma incidence,
-  increased fibroneuroma incidence, neurofibromas]
+  decreased proportion of transitional b cells]
+http://purl.obolibrary.org/obo/HP_0001067: [neurofibromatosis, neurofibromata, neurofibromas]
 http://purl.obolibrary.org/obo/HP_0003142: [excessive purine production]

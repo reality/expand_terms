@@ -37,7 +37,7 @@ def evalAnnotations(goldStandard, filename) {
   goldStandard.each { pmid, codes ->
     codes.each { code ->
       if(!tagged.containsKey(pmid)) {
-        fn++
+//        fn++
       } else if(!tagged[pmid].contains(code)) {
         fn++
       }
@@ -56,4 +56,8 @@ def evalAnnotations(goldStandard, filename) {
 }
 
 evalAnnotations(goldStandard, 'baselineCONCEPTS.csv')
-evalAnnotations(goldStandard, 'testCONCEPTS.csv')
+evalAnnotations(goldStandard, 'true_baselineCONCEPTS.csv')
+evalAnnotations(goldStandard, 'newbaseCONCEPTS.csv')
+//evalAnnotations(goldStandard, 'smallersubCONCEPTS.csv')
+evalAnnotations(goldStandard, 'origwithnonlatinCONCEPTS.csv')
+

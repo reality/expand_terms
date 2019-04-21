@@ -10,7 +10,8 @@ def out = new File('/home/reality/dist/filesOBO/HPOdictold.txt').text
 
 profile.each { term, syns ->
   syns.each { syn ->
-    if(CharMatcher.ascii().matchesAllOf(syn)) {
+    //if(CharMatcher.ascii().matchesAllOf(syn)) {
+    if(syn.replaceAll("\\P{InBasic_Latin}", "").size() > 2) {
       out += '\n'+syn+' '+term
     }
   } 
