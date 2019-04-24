@@ -1,11 +1,15 @@
 @Grab('org.yaml:snakeyaml:1.17')
 @Grab(group='org.codehaus.groovy.modules.http-builder', module='http-builder', version='0.7.1')
+@Grab(group='org.codehaus.gpars', module='gpars', version='1.2.1')
 
 import org.yaml.snakeyaml.Yaml
 import groovyx.net.http.HTTPBuilder
 import groovy.transform.Field
+import java.util.concurrent.*
+import java.util.concurrent.atomic.*
+import groovyx.gpars.GParsPool
 
-def http = new HTTPBuilder('http://aber-owl.net/')
+
 def profile = new Yaml().load(new File("${args[0]}").text)
 @Field def BANNED_ONTOLOGIES = [ 'GO-PLUS', 'MONDO', 'CCONT', 'jp/bio', 'phenX', 'ontoparonmed' ]
 @Field def BANNED_SYNONYMS = [
@@ -29,8 +33,15 @@ def getSynonyms(http, term, cb) {
       def res = it[1].collect { x ->
         x.label = x.label.collect { l -> l.toLowerCase() }
 
-        if(x.label.contains(term) && !BANNED_ONTOLOGIES.any { o -> x.ontology == o || x.class.indexOf(o) != -1 }) {
-          x.containsKey('synonyms') ? x.synonyms + x.label : x.label
+        if(x.containsKey('synonyms')) {
+          x.synonyms = x.synonyms.collect { l -> l.toLowerCase() }
+          if(x.ontology == 'HP' && (x.label.contains(term) || x.synonyms.contains(term)) && !BANNED_ONTOLOGIES.any { o -> x.ontology == o || x.class.indexOf(o) != -1 }) {
+            x.label + x.synonyms
+          }
+        } else {
+          if(x.label.contains(term) && x.ontology == 'HP' && !BANNED_ONTOLOGIES.any { o -> x.ontology == o || x.class.indexOf(o) != -1 }) {
+            x.label
+          }
         }
       }
       res.removeAll([null])
@@ -46,7 +57,7 @@ def getSubclasses(http, iri, cb) {
   http.get(path: '/api/backend/', query: [ script: 'runQuery.groovy', type: 'equivalent', query: iri ]) { resp, json ->
     cb(json.result.collect { 
       if(it) {
-      if(!BANNED_ONTOLOGIES.any { o -> it.ontology == o || it.class.indexOf(o) != -1 }) {
+      if(it.ontology == 'HP' && !BANNED_ONTOLOGIES.any { o -> it.ontology == o || it.class.indexOf(o) != -1 }) {
         [it.label] + it.synonyms + it.hasExactSynonym + it.alternative_term 
       }
       }
@@ -55,27 +66,33 @@ def getSubclasses(http, iri, cb) {
 }
 
 def fCount = 0
-profile.each { term ->
-  getSynonyms(http, term.name, { syns -> 
-    terms[term.name] = syns 
-    println "(${fCount}/${profile.size()})"
-    fCount++
-  })
+GParsPool.withPool(100) { p ->
+  profile.eachParallel { term ->
+def http = new HTTPBuilder('http://aber-owl.net/')
+    getSynonyms(http, term.name, { syns -> 
+      terms[term.name] = syns 
+      println "(${fCount}/${profile.size()})"
+      fCount++
+    })
+  }
 }
 
 new Yaml().dump(terms, new FileWriter("save.yaml"))
 
 def zCount = 0
-terms.each { name, cls ->
-  if(!profile.find { it.name == name }.containsKey('strict')) { 
-    cls.each { iri, syn -> 
-        getSubclasses(http, iri, { ts ->
-          cls[iri] = cls[iri] + ts
-      }) 
+GParsPool.withPool(100) { p ->
+  terms.eachParallel { name, cls ->
+def http = new HTTPBuilder('http://aber-owl.net/')
+    if(cls && !profile.find { it.name == name }.containsKey('strict')) { 
+      cls.each { iri, syn -> 
+          getSubclasses(http, iri, { ts ->
+            cls[iri] = cls[iri] + ts
+        }) 
+      }
     }
+    println "(${zCount}/${terms.size()})"
+    zCount++
   }
-  println "(${zCount}/${terms.size()})"
-  zCount++
 }
 
 println 'collecting...'
@@ -95,3 +112,4 @@ def finalTerms = terms.collectEntries { term, cls ->
 }
 
 new Yaml().dump(finalTerms, new FileWriter("expanded_terms.yaml"))
+

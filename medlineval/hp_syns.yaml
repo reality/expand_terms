@@ -1,139 +1,1391 @@
-http://purl.obolibrary.org/obo/HP_0003361: [high urine tryptophan levels, tryptophanuria]
-http://purl.obolibrary.org/obo/HP_0030008: [absent cervix, aplasia of the cervix,
-  cervical aplasia, cervical agenesis]
-http://purl.obolibrary.org/obo/HP_0040095: [outer ear tumor, neoplasm of the outer ear]
-http://purl.obolibrary.org/obo/HP_0011698: [supraventricular tachycardia with a manifest accessory pathway on the septum]
-http://purl.obolibrary.org/obo/HP_0003261: [iga hypergammaglobulinemia, increased serum iga,
-  increased levels of iga, elevated serum iga, elevated iga, increased circulating iga level]
-http://purl.obolibrary.org/obo/HP_0006984: [distal sensory loss of all modalities]
-http://purl.obolibrary.org/obo/HP_0011185: [focal eeg abnormality, eeg with focal epileptiform discharges]
-http://purl.obolibrary.org/obo/HP_0410219: [disorder of mandibular and maxillary dental arch relationship,
-  hypoplasia of mandible relative to maxilla]
-http://purl.obolibrary.org/obo/HP_0008733: [dysplastic testes]
-http://purl.obolibrary.org/obo/HP_0010514: [hyperpituitarism]
-http://purl.obolibrary.org/obo/HP_0020080: [erythrocyte inclusion bodies]
-http://purl.obolibrary.org/obo/HP_0025522: [elongated chordae tendinae of the mitral valve]
+http://purl.obolibrary.org/obo/HP_0100770: [stomach churning, hyperperistalsis]
+http://purl.obolibrary.org/obo/HP_0001081: [gallstones, cholelithiasis]
+http://purl.obolibrary.org/obo/HP_0031024: [cylindroma]
+http://purl.obolibrary.org/obo/HP_0008031: [posterior y-sutural cataract]
+http://purl.obolibrary.org/obo/HP_0001103: [macular abnormality, abnormality of the macula,
+  macula abnormality, abnormal macular morphology]
+http://purl.obolibrary.org/obo/HP_0009754: [alveolar synechiae, fusion of the alveolar ridges,
+  fibrous syngnathia]
+http://purl.obolibrary.org/obo/HP_0025374: [duplicated odontoid process]
+http://purl.obolibrary.org/obo/HP_0025549: [eccentric fixation, eccentric visual fixation]
+http://purl.obolibrary.org/obo/HP_0008305: [exercise-induced myoglobinuria]
+http://purl.obolibrary.org/obo/HP_0032314: [abnormal areolar morphology]
+http://purl.obolibrary.org/obo/HP_0012848: [narrowing of small intestine, small intestinal stenosis]
+http://purl.obolibrary.org/obo/HP_0005620: [increased mobility of hinge joints, hypermobility of interphalangeal joints]
+http://purl.obolibrary.org/obo/HP_0001417: [x-linked, x-linked inheritance]
+http://purl.obolibrary.org/obo/HP_0002155: [increased triglycerides, increased serum triglycerides,
+  increased plasma triglycerides, increased plasma tg levels, increased circulating tg levels,
+  hypertriglyceridemia]
+http://purl.obolibrary.org/obo/HP_0030880: [raynaud's phenomenon, raynaud phenomenon]
+http://purl.obolibrary.org/obo/HP_0009465: [ulnar drift, finger bends toward pinky,
+  ulnar deviation of finger]
+http://purl.obolibrary.org/obo/HP_0007827: [nodular corneal dystrophy]
+http://purl.obolibrary.org/obo/HP_0025065: [abnormal erythrocyte volume, abnormal mcv,
+  abnormal mean corpuscular volume]
+http://purl.obolibrary.org/obo/HP_0200108: [shortened outer dynein arms]
+http://purl.obolibrary.org/obo/HP_0032125: [increased proportion of non-class-switched memory b cells]
+http://purl.obolibrary.org/obo/HP_0012184: [increased circulating high-density lipoprotein levels,
+  hyperalphalipoproteinemia, high blood hdl level, increased hdl cholesterol concentration]
+http://purl.obolibrary.org/obo/HP_0500033: [abnormal natural killer subset distribution]
+http://purl.obolibrary.org/obo/HP_0006144: [shortening of all innermost bones of the fingers,
+  shortening of all proximal phalanges of the fingers]
+http://purl.obolibrary.org/obo/HP_0009652: [bullet-shaped phalanges of the thumb,
+  bullet-shaped thumb bone, bullet-shaped thumb phalanx]
+http://purl.obolibrary.org/obo/HP_0500113: [positive urine opioid test]
+http://purl.obolibrary.org/obo/HP_0003529: [parathormone-independent increased renal tubular ca2+ reabsorption,
+  parathormone-independent increased renal tubular ca reabsorption, parathormone-independent increased renal tubular calcium reabsorption]
+http://purl.obolibrary.org/obo/HP_0010758: [abnormality of the intermaxillary segment of the maxilla,
+  abnormality of the primary palate bone, abnormality of the intermaxillary bone,
+  abnormality of the premaxilla]
+http://purl.obolibrary.org/obo/HP_0011078: [abnormality of eye tooth, abnormality of canine]
+http://purl.obolibrary.org/obo/HP_0001822: [bunion, lateral deviation of halluces,
+  lateral deviation of great toe, hallux valgus]
+http://purl.obolibrary.org/obo/HP_0011344: [severe global developmental delay]
+http://purl.obolibrary.org/obo/HP_0001382: [double-jointed, hyperextensible joints,
+  increased mobility of joints, joint hyperextensibility, extensible joints, flexible joints,
+  joint hypermobility]
+http://purl.obolibrary.org/obo/HP_0100381: [aplasia of the middle phalanx of the 3rd toe,
+  absent middle phalanx of the third toe, absent middle bone of the 3rd toe, absent middle phalanx of the 3rd toe]
+http://purl.obolibrary.org/obo/HP_0410248: [increased anti-house dust ige antibody level,
+  increased level of anti-house dust ige antibody, increased anti-house dust mite ige antibody level]
+http://purl.obolibrary.org/obo/HP_0030632: [hypo-autofluorescent macular lesion, hypoautofluorescent macular lesion]
+http://purl.obolibrary.org/obo/HP_0009281: [absent ring finger, aplasia of the 4th finger]
+http://purl.obolibrary.org/obo/HP_0100417: [partial duplication of the distal phalanx of the fourth toe,
+  partial duplication of the outermost bone of the fourth toe, partial duplication of the distal phalanx of the 4th toe]
+http://purl.obolibrary.org/obo/HP_0006519: [alveolar cell carcinoma]
+http://purl.obolibrary.org/obo/HP_0009589: [bilateral acoustic neuromas, bilateral vestibular schwannoma]
+http://purl.obolibrary.org/obo/HP_0006384: [club-shaped outermost end of thighbone,
+  club-shaped distal femora, club-shaped distal femur]
+http://purl.obolibrary.org/obo/HP_0410392: ['increased proportion of cd8-positive,
+    alpha-beta memory t cells']
+http://purl.obolibrary.org/obo/HP_0011195: [eeg with focal sharp slow waves]
+http://purl.obolibrary.org/obo/HP_0009395: [cone-shaped end part of the ring finger bones,
+  cone-shaped epiphyses of the 4th finger]
+http://purl.obolibrary.org/obo/HP_0005148: [pulmonary valve defects]
+http://purl.obolibrary.org/obo/HP_0006273: [pancreatic lymphangiectasis]
+http://purl.obolibrary.org/obo/HP_0004313: [hypogammaglobulinemia, immunoglobulin deficiency,
+  decreased serum immunoglobulin, reduced immunoglobulin levels, decreased immunoglobulin level,
+  decreased antibody level in blood]
+http://purl.obolibrary.org/obo/HP_0030291: [lower-limb metaphyseal irregularity]
+http://purl.obolibrary.org/obo/HP_0000336: [hyperplasia of supraorbital ridge, hypertrophy of supraorbital ridge,
+  prominent brow, hypertrophy of supraorbital margins, protruding supraorbital ridge,
+  supraorbital hyperostosis, prominent supraorbital margins, hyperplasia of supraorbital margins,
+  prominent supraorbital ridge, prominent supraorbital ridges]
+http://purl.obolibrary.org/obo/HP_0002762: [multiple exostoses]
+http://purl.obolibrary.org/obo/HP_0011580: [short chordae tendineae of the mitral valve]
+http://purl.obolibrary.org/obo/HP_0010375: [osteolytic defects of the phalanges of the 4th toe]
+http://purl.obolibrary.org/obo/HP_0032376: [anti-b2gpi positivity, anti-beta 2 glycoprotein i antibody positivity]
+http://purl.obolibrary.org/obo/HP_0030242: [blood clot in portal vein, portal vein thrombosis]
+http://purl.obolibrary.org/obo/HP_0032048: [focal cortical dysplasia type ia]
+http://purl.obolibrary.org/obo/HP_0025320: [fluorescein leakage, leakage of dye on fundus fluorescein angiography]
+http://purl.obolibrary.org/obo/HP_0007840: [increased length of upper eyelashes, ciliary trichomegaly of upper eyelashes,
+  long upper eyelashes]
+http://purl.obolibrary.org/obo/HP_0025361: [abnormality of medullary pyramid morphology]
+http://purl.obolibrary.org/obo/HP_0030882: [coronary arterial dilatation, coronary artery dilatation,
+  coronary artery ectasia, coronary artery aneurysm]
+http://purl.obolibrary.org/obo/HP_0100281: [chronic colitis]
+http://purl.obolibrary.org/obo/HP_0012471: [full lips, increased volume of lip, prominent lips,
+  increased volume of lip vermillion, thick lips, plump lips, thick vermilion border]
+http://purl.obolibrary.org/obo/HP_0030576: [pinhole visual acuity 0.8 logmar]
+http://purl.obolibrary.org/obo/HP_0031398: [elevated proportion of naive t cells]
+http://purl.obolibrary.org/obo/HP_0007359: [focal seizures, focal seizure, partial seizures,
+  seizure affecting one half of brain, focal-onset seizure]
+http://purl.obolibrary.org/obo/HP_0031960: [arm dystonia]
+http://purl.obolibrary.org/obo/HP_0100867: [duodenal stenosis]
+http://purl.obolibrary.org/obo/HP_0100789: [palatal torus, palate exostoses, maxillary torus,
+  palatal tori, torus palatinus]
+http://purl.obolibrary.org/obo/HP_0410067: [increased level of l-fucose in urine]
+http://purl.obolibrary.org/obo/HP_0011312: [fused nails]
+http://purl.obolibrary.org/obo/HP_0003860: [increased bone density in central part of long bone of upper limbs,
+  diaphyseal sclerosis of the upper limbs]
+http://purl.obolibrary.org/obo/HP_0100787: [prostate neoplasm]
+http://purl.obolibrary.org/obo/HP_0009711: [retinal hemangioblastoma, retinal capillary hemangioma]
+http://purl.obolibrary.org/obo/HP_0003172: [abnormality of the pubis, abnormality of the pubic bone]
+http://purl.obolibrary.org/obo/HP_0100160: [enlarged end part of the innermost bone of the 3rd toe,
+  enlarged epiphysis of the proximal phalanx of the 3rd toe]
+http://purl.obolibrary.org/obo/HP_0011204: [eeg with continuous slow activity]
+http://purl.obolibrary.org/obo/HP_0005300: [nodular inflammatory vasculitis]
+http://purl.obolibrary.org/obo/HP_0004754: [permanent atrial fibrillation]
+http://purl.obolibrary.org/obo/HP_0005063: ['fragmented, irregular end part of bone',
+  'fragmented, irregular epiphyses']
+http://purl.obolibrary.org/obo/HP_0009769: [conical bullet-shaped distal ends of phalanges,
+  bullet-shaped hand bones, bullet-shaped phalanges of the hand]
+http://purl.obolibrary.org/obo/HP_0100584: [endocarditis]
+http://purl.obolibrary.org/obo/HP_0011342: [mild global developmental delay]
+http://purl.obolibrary.org/obo/HP_0032025: [reduced serum alpha-1-antitrypsin]
+http://purl.obolibrary.org/obo/HP_0007362: [absent/underdeveloped brainstem, absent/small brainstem,
+  aplasia/hypoplasia of the brainstem]
+http://purl.obolibrary.org/obo/HP_0007274: [recurrent bacterial meningitis]
+http://purl.obolibrary.org/obo/HP_0009477: [fused innermost and middle bone of index finger,
+  proximal/middle symphalangism of 4th finger]
+http://purl.obolibrary.org/obo/HP_0003542: [increased serum pyruvic acid, increased serum pyruvate]
+http://purl.obolibrary.org/obo/HP_0003208: [fingerprint profiles ultrastructurally,
+  '''fingerprint profiles'' ultrastructurally in cells', fingerprint intracellular accumulation of autofluorescent lipopigment storage material]
+http://purl.obolibrary.org/obo/HP_0040253: [increased size of the clitoris]
+http://purl.obolibrary.org/obo/HP_0100957: [abnormality of the renal medulla, abnormal renal medulla morphology]
+http://purl.obolibrary.org/obo/HP_0031632: [anomalous origin of the right subclavian artery from the descending aorta]
+http://purl.obolibrary.org/obo/HP_0009290: [short distal phalanx of the fourth finger,
+  hypoplastic/small distal phalanx of the 4th finger, short outermost bone of ring finger,
+  short distal phalanx of the 4th finger]
+http://purl.obolibrary.org/obo/HP_0020087: [bcgosis]
+http://purl.obolibrary.org/obo/HP_0008111: [broad distal big toe, broad distal hallux]
+http://purl.obolibrary.org/obo/HP_0011259: ['helix, crus, expanded terminal portion',
+  expanded terminal portion of crus of helix]
+http://purl.obolibrary.org/obo/HP_0000576: [centrocecal scotoma]
+http://purl.obolibrary.org/obo/HP_0010433: [short distal phalanx of the second toe,
+  short outermost bone of the 2nd toe, hypoplastic/small distal phalanx of the 2nd toe,
+  short distal phalanx of the 2nd toe]
+http://purl.obolibrary.org/obo/HP_0200085: [involuntary shaking of limb, limb tremor]
+http://purl.obolibrary.org/obo/HP_0002293: [pathologic hair loss from scalp, absence of scalp hair,
+  scalp hair loss, baldness, missing scalp hair, alopecia of scalp]
+http://purl.obolibrary.org/obo/HP_0007453: [flexural lichenification]
+http://purl.obolibrary.org/obo/HP_0010521: [gait apraxia]
+http://purl.obolibrary.org/obo/HP_0000870: [hyperprolactinaemia, hyperprolactinemia,
+  prolactin excess]
+http://purl.obolibrary.org/obo/HP_0011700: [automatic atrial tachycardia]
+http://purl.obolibrary.org/obo/HP_0004844: [direct coombs positive, coombs-positive hemolytic anemia]
+http://purl.obolibrary.org/obo/HP_0032316: [family history]
+http://purl.obolibrary.org/obo/HP_0005584: [renal carcinoma, cancer starting in small tubes in kidneys,
+  hypernephroma, renal cell carcinoma]
+http://purl.obolibrary.org/obo/HP_0012266: [t-wave alternans]
+http://purl.obolibrary.org/obo/HP_0010538: [hypoplasia of pituitary fossa, hypoplasia of hypophseal fossa,
+  small pituitary fossa, small hypophyseal fossa, hypoplasia of sella turcica, small sella turcica]
+http://purl.obolibrary.org/obo/HP_0031026: [snail-like pelvis, snail-shaped ilia,
+  snail-like ilia]
+http://purl.obolibrary.org/obo/HP_0008883: [mild prenatal growth deficiency, mild intrauterine growth retardation]
+http://purl.obolibrary.org/obo/HP_0009110: [diaphragmatic eventration]
 http://purl.obolibrary.org/obo/HP_0004331: [ossification defect of skull, hypoossification of skull,
   deficient skull ossification, decreased bone formation of skull, poorly ossified skull,
   poorly mineralized skull, poorly ossified skull bones, decreased skull ossification]
-http://purl.obolibrary.org/obo/HP_0002619: [varicose veins]
-http://purl.obolibrary.org/obo/HP_0005863: [type e brachydactyly]
-http://purl.obolibrary.org/obo/HP_0031358: [vegetative state]
-http://purl.obolibrary.org/obo/HP_0003550: [predominantly lower limb lymphedema]
-http://purl.obolibrary.org/obo/HP_0031196: [thin myocardium compact layer]
-http://purl.obolibrary.org/obo/HP_0100890: [choledochal cyst, cyst of the ductus choledochus]
-http://purl.obolibrary.org/obo/HP_0007376: [abnormality of the choroid plexus]
-http://purl.obolibrary.org/obo/HP_0001092: [aplasia of lacrimal puncta, absent lacrimal puncta,
-  lacrimal puncta aplasia, absent lacrimal openings, 'lacrimal punctum, absence',
-  absent lacrimal gland puncta, absent lacrimal punctum]
-http://purl.obolibrary.org/obo/HP_0040293: [hemiplegia (right), right hemiplegia]
-http://purl.obolibrary.org/obo/HP_0009514: [bracket shaped end part of the middle long bone of the index finger,
-  bracket epiphysis of the middle phalanx of the 2nd finger]
-http://purl.obolibrary.org/obo/HP_0003862: [aplasia of the humerus, aplastic humerus,
-  absent long bone in upper arm, absent humerus]
-http://purl.obolibrary.org/obo/HP_0011253: [type 1 cryptotia, type i cryptotia]
-http://purl.obolibrary.org/obo/HP_0005262: [abnormality of the synovia]
-http://purl.obolibrary.org/obo/HP_0003431: [decreased motor ncv, reduced motor nerve conduction velocity,
-  decreased motor nerve conduction velocities, decreased motor nerve conduction velocity]
-http://purl.obolibrary.org/obo/HP_0007076: [extrapyramidal muscular rigidity]
-http://purl.obolibrary.org/obo/HP_3000003: [abnormality of mandibular ramus, abnormal mandibular ramus morphology]
-http://purl.obolibrary.org/obo/HP_0410334: [allergy to fungi, fungus allergy, fungal allergy,
-  fungi allergy]
-http://purl.obolibrary.org/obo/HP_0012121: [panuveitis]
-http://purl.obolibrary.org/obo/HP_0011951: [aspiration pneumonia]
-http://purl.obolibrary.org/obo/HP_0002563: [constrictive pericarditis]
-http://purl.obolibrary.org/obo/HP_0030484: [supernormal dark-adapted bright flash electroretinogram b-wave]
-http://purl.obolibrary.org/obo/HP_0002933: [ventral hernia]
-http://purl.obolibrary.org/obo/HP_0010013: [abnormality of the 5th long bone of hand,
-  abnormality of the 5th metacarpal]
-http://purl.obolibrary.org/obo/HP_0002077: [migraine with aura]
-http://purl.obolibrary.org/obo/HP_0011221: [vertical forehead rhytids, vertical forehead wrinkles,
-  frontal creases of face, vertical forehead creases]
-http://purl.obolibrary.org/obo/HP_0006716: [hereditary nonpolyposis colorectal carcinoma]
-http://purl.obolibrary.org/obo/HP_0009912: [abnormality of the tragus]
-http://purl.obolibrary.org/obo/HP_0012761: [mastoid agenesis, failure of development of mastoid,
-  absent mastoid]
+http://purl.obolibrary.org/obo/HP_0002017: [nausea and vomiting]
+http://purl.obolibrary.org/obo/HP_0007613: [spinous keratoses of palms and soles]
+http://purl.obolibrary.org/obo/HP_0031011: [fatty streak]
+http://purl.obolibrary.org/obo/HP_0000923: [beaded ribs]
+http://purl.obolibrary.org/obo/HP_0005170: [complete heart block with broad qrs complexes]
+http://purl.obolibrary.org/obo/HP_0031165: [multifocal onset seizures, multifocal seizures]
+http://purl.obolibrary.org/obo/HP_0040162: [orthokeratosis]
+http://purl.obolibrary.org/obo/HP_0009512: [triangular end part of the outermost bone of the index finger,
+  triangular epiphysis of the distal phalanx of the 2nd finger]
+http://purl.obolibrary.org/obo/HP_3000010: [abnormality of orbicularis oris muscle]
+http://purl.obolibrary.org/obo/HP_0002846: [abnormal b cells, abnormality of b cells,
+  abnormal b cell morphology]
+http://purl.obolibrary.org/obo/HP_0031833: [hypometric upward saccades]
+http://purl.obolibrary.org/obo/HP_0025005: [thickening of glomerular capillary wall]
+http://purl.obolibrary.org/obo/HP_0040240: [increased ratio of vwf propeptide to vwf antigen]
+http://purl.obolibrary.org/obo/HP_0030624: [subretinal hyporeflective spaces on macular oct]
+http://purl.obolibrary.org/obo/HP_0010084: [duplication of the outermost bone of big toe,
+  duplication of the distal phalanx of the hallux]
+http://purl.obolibrary.org/obo/HP_0003384: [peripheral axonal atrophy]
+http://purl.obolibrary.org/obo/HP_0003152: [increased serum calcitriol, 'increased
+    serum 1,25-dihydroxyvitamin d3']
+http://purl.obolibrary.org/obo/HP_0005121: [posterior vertebral body scalloping, posterior scalloping of vertebral bodies]
+http://purl.obolibrary.org/obo/HP_0010697: [anterior pyramidal cataract]
+http://purl.obolibrary.org/obo/HP_0008400: [detachment of outermost fingernails, onycholysis of distal fingernails]
+http://purl.obolibrary.org/obo/HP_0032342: [an abnormal reduction in the amount of air a person can forcefully expel in one second.,
+  reduced forced expiratory volume in one second]
+http://purl.obolibrary.org/obo/HP_0000904: [anterior flaring of ribs, flaring of rib cage]
+http://purl.obolibrary.org/obo/HP_0500027: [absence of the colon, aplasia of the colon,
+  aplastic colon]
+http://purl.obolibrary.org/obo/HP_0025449: [apically displaced papillary muscles,
+  apically displaced anterolateral papillary muscle]
+http://purl.obolibrary.org/obo/HP_0006773: [cutaneous angiolipomas]
+http://purl.obolibrary.org/obo/HP_0032459: [abnormal phosphoribosylpyrophosphate synthetase activity]
+http://purl.obolibrary.org/obo/HP_0000969: [fluid retention, dropsy, water retention,
+  hydrops, edema]
+http://purl.obolibrary.org/obo/HP_0010219: [structural foot deformity]
+http://purl.obolibrary.org/obo/HP_0012762: [cerebral white matter atrophy]
+http://purl.obolibrary.org/obo/HP_0040204: [elevated csf neopterin level]
+http://purl.obolibrary.org/obo/HP_0003041: [humeral-radial synostosis, radiohumeral synostosis of elbow,
+  humeral radial synostosis, synostosis of radius and humerus, fusion of upper and lower arm bones,
+  humeroradial synostosis]
+http://purl.obolibrary.org/obo/HP_0001638: [disease of the heart muscle, cardiomyopathy]
+http://purl.obolibrary.org/obo/HP_0006824: [cranial nerve paresis, cranial nerve palsy,
+  cranial nerve palsies, cranial nerve paralysis]
+http://purl.obolibrary.org/obo/HP_0030671: [abnormality of the common tendinous ring,
+  abnormal common tendinous ring morphology]
+http://purl.obolibrary.org/obo/HP_0004271: [cortical thickening of hand bones]
+http://purl.obolibrary.org/obo/HP_0009275: [contracture of the distal interphalangeal joint of the 4th finger]
+http://purl.obolibrary.org/obo/HP_0010254: [small end part of the outermost hand bones,
+  small epiphyses of the distal phalanges of the hand]
+http://purl.obolibrary.org/obo/HP_0010344: [displacement of the pinky toe, displacement of the pinkie toe,
+  displacement of the 5th toe, displacement of the little toe, deviation of the 5th toe]
+http://purl.obolibrary.org/obo/HP_0200073: [respiratory insufficiency due to defective ciliary clearance]
+http://purl.obolibrary.org/obo/HP_0001350: [slurred speech]
+http://purl.obolibrary.org/obo/HP_0007545: [congenital palmoplantar keratosis]
+http://purl.obolibrary.org/obo/HP_0001746: [absent spleen, asplenia]
+http://purl.obolibrary.org/obo/HP_0030713: [median prosencephalic arteriovenous fistula,
+  vein of galen malformation, vein of galen aneurysm, vein of galen aneurysmal malformation]
+http://purl.obolibrary.org/obo/HP_0030118: [reduced muscle fiber emerin]
+http://purl.obolibrary.org/obo/HP_0003616: [premature separation of centromeric heterochromatin]
+http://purl.obolibrary.org/obo/HP_0005400: [reduction of neutrophil motility]
+http://purl.obolibrary.org/obo/HP_0031786: [eyelid twitch, lid twitch, cogan eyelid twitch,
+  cogan lid twitch]
+http://purl.obolibrary.org/obo/HP_0011730: [abnormality of central sensory function]
+http://purl.obolibrary.org/obo/HP_0010353: [fused bones of 2nd toe, symphalangism affecting the phalanges of the 2nd toe]
+http://purl.obolibrary.org/obo/HP_0410321: [allergy to animal dander, animal dander allergy]
+http://purl.obolibrary.org/obo/HP_0000488: [noninflammatory retina disease, retinopathy]
+http://purl.obolibrary.org/obo/HP_0004218: [fused pinkie finger bones, symphalagism of the little finger,
+  fused little finger bones, fused pinky finger bones, symphalangism of the 5th finger]
+http://purl.obolibrary.org/obo/HP_0500017: [abnormal cardiac cath, abnormal cardiac catheterization]
+http://purl.obolibrary.org/obo/HP_0005155: [ventricular escape rhythm]
+http://purl.obolibrary.org/obo/HP_0500150: [decreased blood glutamate concentrations,
+  low blood glutamate levels, hypoglutamatemia]
+http://purl.obolibrary.org/obo/HP_0012561: [unicuspid aortic valve]
+http://purl.obolibrary.org/obo/HP_0010147: [speckled calcifications in the end part of the outermost bone of the big toe,
+  stippling of the epiphysis of the distal phalanx of the hallux]
+http://purl.obolibrary.org/obo/HP_0000867: [secondary hyperparathyroidism]
+http://purl.obolibrary.org/obo/HP_0002160: [homocystinemia, elevated blood homocystine,
+  hyperhomocystinemia]
+http://purl.obolibrary.org/obo/HP_0031805: [intraretinal hemorrhage]
+http://purl.obolibrary.org/obo/HP_0100089: [abnormality of the end part of the middle bone of the 2nd toe,
+  abnormality of the epiphysis of the middle phalanx of the 2nd toe]
+http://purl.obolibrary.org/obo/HP_0011528: [single isolated congenital hypertrophy of retinal pigment epithelium,
+  single isolated chrpe, solitary congenital hypertrophy of retinal pigment epithelium]
+http://purl.obolibrary.org/obo/HP_0030923: [5-minute apgar score of 3]
+http://purl.obolibrary.org/obo/HP_0002984: [hypoplastic radius, radial hypoplasia,
+  shortening of radius, underdeveloped outer large forearm bone, short radius, hypoplastic radii,
+  short radii, hypoplasia of the radius]
+http://purl.obolibrary.org/obo/HP_0012666: [severely reduced ejection fraction]
+http://purl.obolibrary.org/obo/HP_0032255: [opportunistic fungal infection]
+http://purl.obolibrary.org/obo/HP_0003473: [myasthenic weakness, myasthenia, proximal muscle weakness due to defect at the neuromuscular junction,
+  generalized muscle weakness due to defect at the neuromuscular junction, fatigable weakness]
+http://purl.obolibrary.org/obo/HP_0006282: [generalized hypoplasia of tooth enamel,
+  generalized hypoplasia of dental enamel]
+http://purl.obolibrary.org/obo/HP_0100189: [speckled calcifications in the end part of the middle bone of the 4th toe,
+  stippling of the epiphysis of the middle phalanx of the 4th toe]
+http://purl.obolibrary.org/obo/HP_0005249: [functional intestinal obstruction]
+http://purl.obolibrary.org/obo/HP_0031823: [reduced 6-mercaptopurine phosphoribosyltransferase level,
+  reduced gmp pyrophosphorylase level, reduced 6-hydroxypurine phosphoribosyltransferase level,
+  reduced hypoxanthine-guanine phosphoribosyltransferase level]
+http://purl.obolibrary.org/obo/HP_0100624: [corpus cavernosum sclerosis]
+http://purl.obolibrary.org/obo/HP_0012367: [extra fontanelles]
+http://purl.obolibrary.org/obo/HP_0030931: [1-minute apgar score of 4]
+http://purl.obolibrary.org/obo/HP_0410259: [hepatic pulmonary fusion, hepatopulmonary fusion]
+http://purl.obolibrary.org/obo/HP_0100513: [alpha-tocopherol deficiency, vitamin e deficiency]
+http://purl.obolibrary.org/obo/HP_0500032: [aberrant neuronal branching, abnormal neuronal branching,
+  abnormal neuron branching]
+http://purl.obolibrary.org/obo/HP_0012229: [cerebrospinal fluid pleocytosis, increased leukocyte count in csf,
+  csf pleocytosis]
+http://purl.obolibrary.org/obo/HP_0012829: [profound]
+http://purl.obolibrary.org/obo/HP_0007543: [increased thickness of skin epidermis,
+  epidermal hyperkeratosis]
+http://purl.obolibrary.org/obo/HP_0011543: [superior-inferior ventricles without criss-cross atrioventricular valves]
+http://purl.obolibrary.org/obo/HP_0003184: [limited hip abduction, decreased hip abduction]
+http://purl.obolibrary.org/obo/HP_0003003: [colon cancer]
+http://purl.obolibrary.org/obo/HP_0005219: [intrinsic factor absent from gastric juice,
+  absence of intrinsic factor]
+http://purl.obolibrary.org/obo/HP_0007811: ['nystagmus, congenital horizontal', horizontal pendular nystagmus]
+http://purl.obolibrary.org/obo/HP_0030719: [rudimentary tricuspid valve leaflets,
+  unguarded tricuspid valve]
+http://purl.obolibrary.org/obo/HP_0006725: [pancreatic adenocarcinoma]
+http://purl.obolibrary.org/obo/HP_0030329: [retinal thinning]
+http://purl.obolibrary.org/obo/HP_0003044: [shoulder flexion contracture]
+http://purl.obolibrary.org/obo/HP_0006888: [meningoencephalocele]
+http://purl.obolibrary.org/obo/HP_0410176: [abnormal g6pd level, abnormal glucose-6-phosphate dehydrogenase level]
+http://purl.obolibrary.org/obo/HP_0025561: [anterior chamber cells grade 1+]
+http://purl.obolibrary.org/obo/HP_0009385: [enlarged end part of the pinkie finger bones,
+  enlarged end part of the pinky finger bones, enlarged end part of the little finger bones,
+  enlarged epiphyses of the 5th finger]
+http://purl.obolibrary.org/obo/HP_0000630: [retinal arterial abnormality, abnormality of retinal arteries,
+  abnormal retinal artery morphology]
+http://purl.obolibrary.org/obo/HP_0010585: [small end part of bone, small epiphyses]
+http://purl.obolibrary.org/obo/HP_0031221: [abnormal radioactive iodine uptake test result]
+http://purl.obolibrary.org/obo/HP_0007957: [corneal clouding, reduction of corneal clarity,
+  corneal opacities, scarring or clouding of the cornea of the eye, corneal opacity]
+http://purl.obolibrary.org/obo/HP_0004863: [compensated hemolytic anemia]
+http://purl.obolibrary.org/obo/HP_0032281: [abnormal base excess]
+http://purl.obolibrary.org/obo/HP_0500008: [vortex keratopathy, cornea verticillata]
+http://purl.obolibrary.org/obo/HP_0032305: [decreased mannose-binding protein level]
+http://purl.obolibrary.org/obo/HP_0009336: [bracket shaped end part of the outermost bone of the middle finger,
+  bracket epiphysis of the distal phalanx of the 3rd finger]
+http://purl.obolibrary.org/obo/HP_0000221: [lingual furrow, scrotal tongue, prominent tongue grooves,
+  lingue plicata, plicated tongue, grooved tongue, fissured tongue, furrowed tongue]
+http://purl.obolibrary.org/obo/HP_0100366: [hypoplastic/small phalanges of the 3rd toe,
+  short 3rd toe bone, short phalanx of the third toe, short phalanx of the 3rd toe]
+http://purl.obolibrary.org/obo/HP_0010752: [cleft lower jaw, mandibular cleft, cleft mandible]
+http://purl.obolibrary.org/obo/HP_0500134: [increased tryptophan in blood, high blood tryptophan concentration,
+  hypertryptophanemia]
+http://purl.obolibrary.org/obo/HP_0031958: [spastic paraparetic gait]
+http://purl.obolibrary.org/obo/HP_0010690: [mirror image dupliction of fingers, mirror image hand polydactyly]
+http://purl.obolibrary.org/obo/HP_0012347: [abnormal protein n-linked glycosylation]
+http://purl.obolibrary.org/obo/HP_0011307: [splayed toes]
+http://purl.obolibrary.org/obo/HP_0030405: [pancreatic endocrine tumor]
+http://purl.obolibrary.org/obo/HP_0011398: [central hypotonia]
+http://purl.obolibrary.org/obo/HP_0410394: ['increased proportion of effector memory
+    cd4-positive, alpha-beta t cells']
+http://purl.obolibrary.org/obo/HP_0025301: [nocturnal]
+http://purl.obolibrary.org/obo/HP_0004216: [lytic defects of the phalanges of the little finger,
+  osteolytic defects of the phalanges of the 5th finger]
+http://purl.obolibrary.org/obo/HP_0012878: [delayed ejaculation, retarded ejaculation]
+http://purl.obolibrary.org/obo/HP_0003566: [elevated prostaglandin e2, increased serum prostaglandin e2]
+http://purl.obolibrary.org/obo/HP_0012205: [globozoospermia]
+http://purl.obolibrary.org/obo/HP_0011294: [eeg with frontal sharp waves]
+http://purl.obolibrary.org/obo/HP_0100352: [contracture of the distal interphalangeal joint of the second toe,
+  contracture of the distal interphalangeal joint of the 2nd toe]
+http://purl.obolibrary.org/obo/HP_0030979: [dilated choroidal vessels, dilatation of large choroidal vessels]
+http://purl.obolibrary.org/obo/HP_0007233: [clusters of axonal regeneration]
+http://purl.obolibrary.org/obo/HP_0001348: [brisk reflexes]
+http://purl.obolibrary.org/obo/HP_0009720: [facial angiofibromas, sebaceous adenoma,
+  adenoma sebaceum]
+http://purl.obolibrary.org/obo/HP_0004631: [contracture of post-cervical muscles,
+  inability to touch chin to chest, decreased cervical spine flexion due to contractures of posterior cervical muscles]
+http://purl.obolibrary.org/obo/HP_0009603: [displacement of the thumb, deviated thumb,
+  abnormal thumb placement, deviation of the thumb]
+http://purl.obolibrary.org/obo/HP_0012183: [hyperplastic colonic polyposis]
+http://purl.obolibrary.org/obo/HP_0002009: [potter facies]
+http://purl.obolibrary.org/obo/HP_0003278: [square pelvis, square pelvis bone]
+http://purl.obolibrary.org/obo/HP_0002859: [rhabdomyosarcoma]
+http://purl.obolibrary.org/obo/HP_0006443: [absent patellas, absent kneecap, absent patellae,
+  aplastic patellae, absent patella, patellar aplasia]
+http://purl.obolibrary.org/obo/HP_0005613: [absent/small thighbone, hypoplastic to absent femora,
+  absent/underdeveloped thighbone, hypoplastic/aplastic femora, aplasia/hypoplasia of the femur]
+http://purl.obolibrary.org/obo/HP_0006149: [increased laxity of fingers]
+http://purl.obolibrary.org/obo/HP_0100009: [intracranial meningioma]
+http://purl.obolibrary.org/obo/HP_0100296: [perifascicular muscle fiber atrophy]
+http://purl.obolibrary.org/obo/HP_0010415: [bullet-shaped outermost bone of the 2nd toe,
+  bullet-shaped distal phalanx of the 2nd toe]
+http://purl.obolibrary.org/obo/HP_0001691: [muscular subaortic stenosis, muscular subvalvular aortic stenosis]
+http://purl.obolibrary.org/obo/HP_0025324: [arterial occlusion]
+http://purl.obolibrary.org/obo/HP_0410287: [chest hemangioma, intrathoracic hemangioma]
+http://purl.obolibrary.org/obo/HP_0010074: [triangular shaped 1st long bone of foot,
+  triangular shaped 1st metatarsal]
+http://purl.obolibrary.org/obo/HP_0011989: [ectopic ossification in ligament tissue]
+http://purl.obolibrary.org/obo/HP_0025072: [increased u wave amplitude, prominent u wave]
+http://purl.obolibrary.org/obo/HP_0012421: [aposthia, absent foreskin, congenital absence of foreskin]
+http://purl.obolibrary.org/obo/HP_0012882: [enlarged labia majora, hyperplasia of labia majora,
+  enlarged vaginal lips, hyperplastic labia majora]
+http://purl.obolibrary.org/obo/HP_0032205: [an increased circulation of galectin-3 in the blood circulation.,
+  increased circulating galectin-3 level]
+http://purl.obolibrary.org/obo/HP_0000851: ['hypothyroidism, congenital', underactive thyroid gland from birth,
+  congenital hypothyroidism]
+http://purl.obolibrary.org/obo/HP_0002173: [hypoglycemic seizures]
+http://purl.obolibrary.org/obo/HP_0001450: [y-linked inheritance]
+http://purl.obolibrary.org/obo/HP_0001907: [blood clot in blood vessel, thromboembolic events,
+  thromboembolic disease, thromboembolism]
+http://purl.obolibrary.org/obo/HP_0025506: [anomalous coronary artery with aortic origin and course between the great arteries,
+  coronary artery sandwich anomaly]
+http://purl.obolibrary.org/obo/HP_0010366: [triangular shaped 3rd toe bones, triangular shaped phalanges of the 3rd toe]
+http://purl.obolibrary.org/obo/HP_0030913: [scrotum-like labia majora, exaggerated rugosity of the labia majora]
+http://purl.obolibrary.org/obo/HP_0000325: [triangular facial shape, triangular facies,
+  face with broad temples and narrow chin, triangular face]
+http://purl.obolibrary.org/obo/HP_0009939: [failure of development of mandible, absence of lower jaw,
+  aplasia of the lower jaw bone, absent mandible, absence of lower jaw bone, missing lower jaw,
+  failure of development of lower jaw, agenesis of the mandible, absence of lower jaw bones,
+  agnathia, absence of mandible, mandibular aplasia]
+http://purl.obolibrary.org/obo/HP_0001633: [abnormality of the mitral valve, abnormal mitral valve morphology]
+http://purl.obolibrary.org/obo/HP_0410277: [sternal pit]
+http://purl.obolibrary.org/obo/HP_0032044: [decreased vigilance]
+http://purl.obolibrary.org/obo/HP_0012633: [asymmetry of intraocular pressure]
+http://purl.obolibrary.org/obo/HP_0011039: [abnormal helices, helix abnormal, abnormality of the helix]
+http://purl.obolibrary.org/obo/HP_0005136: [premature calcification of mitral annulus,
+  mitral annular calcification]
+http://purl.obolibrary.org/obo/HP_0031818: [abnormal waist to hip ratio]
 http://purl.obolibrary.org/obo/HP_0031845: [abnormal libido]
-http://purl.obolibrary.org/obo/HP_0031753: [medial rectus muscle weakness]
-http://purl.obolibrary.org/obo/HP_0010422: [complete duplication of the innermost 2nd toe bone,
-  complete duplication of the proximal phalanx of the second toe, complete duplication of the proximal phalanx of the 2nd toe]
-http://purl.obolibrary.org/obo/HP_0004360: [abnormality of acid-base homeostasis]
-http://purl.obolibrary.org/obo/HP_0004278: [synostosis involving bones of the hand]
-http://purl.obolibrary.org/obo/HP_0010396: [broad innermost bone of 2nd toe, broad proximal phalanx of the 2nd toe]
-http://purl.obolibrary.org/obo/HP_0031598: [notched p wave]
-http://purl.obolibrary.org/obo/HP_0001093: [optic nerve dysplasia]
-http://purl.obolibrary.org/obo/HP_0010716: [webbed 3rd-5th toes, 3-5 toe syndactyly]
-http://purl.obolibrary.org/obo/HP_0025472: [recurrent plantar mycosis]
-http://purl.obolibrary.org/obo/HP_0031480: [abnormal mitral valve leaflet morphology]
-http://purl.obolibrary.org/obo/HP_0032219: [increased proportion of cd4 t cells]
-http://purl.obolibrary.org/obo/HP_0009684: [speckled calcifications in the end part of the outermost thumb bone,
-  stippling of the epiphysis of the distal phalanx of the thumb]
-http://purl.obolibrary.org/obo/HP_0007973: [retinal dysgenesis, retinal dysplasia]
-http://purl.obolibrary.org/obo/HP_0011733: [abnormality of adrenal physiology]
+http://purl.obolibrary.org/obo/HP_0400005: [short ear]
+http://purl.obolibrary.org/obo/HP_0005943: [breathing cessation, respiratory arrest]
+http://purl.obolibrary.org/obo/HP_0009077: [weakness of long finger extensor muscles]
+http://purl.obolibrary.org/obo/HP_0006983: [slowly progressive spastic quadriparesis]
+http://purl.obolibrary.org/obo/HP_0100280: [granulomatous enteritis and colitis, morbus crohn,
+  crohn's disease]
+http://purl.obolibrary.org/obo/HP_0011702: [abnormal electrophysiology of sinoatrial node origin]
+http://purl.obolibrary.org/obo/HP_0009915: [asymmetry of the corneas, corneal asymmetry]
+http://purl.obolibrary.org/obo/HP_0031796: [intermittent, recurrent]
+http://purl.obolibrary.org/obo/HP_0002340: [caudate degeneration, caudate atrophy]
+http://purl.obolibrary.org/obo/HP_0031236: [predominantly dermal neutrophilic infiltrate]
+http://purl.obolibrary.org/obo/HP_0006446: [dysplastic patella]
+http://purl.obolibrary.org/obo/HP_0009820: [lower limb peromelia]
+http://purl.obolibrary.org/obo/HP_0000494: [antimongoloid slanted palpebral fissures,
+  antimongoloid eye slant, downward-slanting palpebral fissures, downslanting palpebral fissures,
+  down-slanted palpebral fissures, antimongoloid slant of palpebral fissures, palpebral fissures down-slanted,
+  downward slanting palpebral fissures, down-slanting palpebral fissure, downward slanted palpebral fissures,
+  down slanting palpebral fissures, down-slanting palpebral fissures, downslanting palpebral fissure,
+  downward slanting of the opening between the eyelids, downslanted palpebral fissures]
+http://purl.obolibrary.org/obo/HP_0005176: [dysplastic aortic valve]
+http://purl.obolibrary.org/obo/HP_0001373: [joint dislocation]
+http://purl.obolibrary.org/obo/HP_0100788: [fusion of upper and lower lips, adhesion of upper and lower lips,
+  fused lips]
+http://purl.obolibrary.org/obo/HP_0011555: [double inlet left ventricle]
+http://purl.obolibrary.org/obo/HP_0100137: [cone-shaped end part of the outermost bone of the 3rd toe,
+  cone-shaped epiphysis of the distal phalanx of the 3rd toe]
+http://purl.obolibrary.org/obo/HP_0011573: [underdeveloped tricuspid valve, tricuspid valve hypoplasia,
+  hypoplastic tricuspid valve]
+http://purl.obolibrary.org/obo/HP_0005525: [spontaneous hemolytic crises]
+http://purl.obolibrary.org/obo/HP_0011052: [agenesis of maxillary bicuspid, failure of development of maxillary premolar,
+  failure of development of maxillary bicuspid, agenesis of maxillary premolar]
+http://purl.obolibrary.org/obo/HP_0004977: [bilateral absence of radius, bilateral radial aplasia]
+http://purl.obolibrary.org/obo/HP_0010881: [umbilical cord issue, abnormality of the umbilical cord]
+http://purl.obolibrary.org/obo/HP_0006342: [peg shaped upper lateral incisors, peg laterals,
+  peg-shaped maxillary lateral incisors]
+http://purl.obolibrary.org/obo/HP_0410032: [cleft of uvula]
+http://purl.obolibrary.org/obo/HP_0005974: ['ketoacidosis, episodic', episodic ketoacidosis]
+http://purl.obolibrary.org/obo/HP_0001425: [heterogeneity, genetic heterogeneity,
+  heterogeneous]
+http://purl.obolibrary.org/obo/HP_0010951: [abnormality of the third ventricle]
+http://purl.obolibrary.org/obo/HP_0007542: [absent pigmentation of the ventral chest]
+http://purl.obolibrary.org/obo/HP_0011458: [abdominal symptom]
+http://purl.obolibrary.org/obo/HP_0030946: [conjunctival papillae]
+http://purl.obolibrary.org/obo/HP_0000561: [agenesis of eyelashes, aplasia of eyelashes,
+  failure of development of eyelashes, atrichia of eyelashes, absent eyelashes]
+http://purl.obolibrary.org/obo/HP_0030302: [agenesis of the anterior commissure]
+http://purl.obolibrary.org/obo/HP_0005246: [giant hypertrophic gastritis]
+http://purl.obolibrary.org/obo/HP_0031947: [tongue tremor]
+http://purl.obolibrary.org/obo/HP_0031756: [medial rectus muscle underaction]
+http://purl.obolibrary.org/obo/HP_0000220: [velopharyngeal incompetence, velopharyngeal dysfunction,
+  velopharyngeal insufficiency]
+http://purl.obolibrary.org/obo/HP_0030054: [perifollicular fibrosis]
+http://purl.obolibrary.org/obo/HP_0004284: [notched hand bones]
+http://purl.obolibrary.org/obo/HP_0008368: [tarsal bone fusion, fused ankle bones,
+  synostosis of tarsal bones, synostosis involving tarsal bones, tarsal fusion, tarsal bone synostosis,
+  tarsal fusions, tarsal synostosis]
+http://purl.obolibrary.org/obo/HP_0032141: [precordial pain]
+http://purl.obolibrary.org/obo/HP_0031663: [reversed splitting of the second heart sound,
+  paradoxical splitting of s2, reversed splitting of s2, paradoxical splitting of the second heart sound]
+http://purl.obolibrary.org/obo/HP_0025016: [abnormal capillary morphology]
+http://purl.obolibrary.org/obo/HP_0012593: [nephrotic range proteinuria]
+http://purl.obolibrary.org/obo/HP_0003021: [metaphyseal cupping]
+http://purl.obolibrary.org/obo/HP_0003712: [muscle hypertrophy, increased skeletal muscle cells,
+  muscular hypertrophy, hypertrophic muscles, skeletal muscle hypertrophy]
+http://purl.obolibrary.org/obo/HP_0000802: [difficulty getting an erection, erectile dysfunction,
+  difficulty getting a full erection, impotence]
+http://purl.obolibrary.org/obo/HP_0000035: [abnormality of the testis, anomaly of the testes,
+  abnormal testis morphology]
+http://purl.obolibrary.org/obo/HP_0009775: [amniotic bands, pseudoainhum, amniotic constriction ring]
+http://purl.obolibrary.org/obo/HP_0005208: [secretory diarrhea]
+http://purl.obolibrary.org/obo/HP_0040318: [red urine]
+http://purl.obolibrary.org/obo/HP_0025082: [abnormal cutaneous elastic fiber morphology]
+http://purl.obolibrary.org/obo/HP_0010095: [partial duplication of the innermost bone of big toe,
+  partial duplication of the proximal phalanx of the hallux]
+http://purl.obolibrary.org/obo/HP_0001970: ['nephritis, tubulointerstitial', interstitial nephritis,
+  tubulointerstitial nephritis]
+http://purl.obolibrary.org/obo/HP_0011915: [cardiovascular calcification]
+http://purl.obolibrary.org/obo/HP_0010717: [osseous syndactyly of the toes, osseous syndactyly of toes]
+http://purl.obolibrary.org/obo/HP_0010557: [overlapping fingers]
+http://purl.obolibrary.org/obo/HP_0008346: [increased sickling of erythrocytes, increased sickling of red cells,
+  increased red cell sickling tendency]
+http://purl.obolibrary.org/obo/HP_0031251: [abnormal subclavian artery morphology]
+http://purl.obolibrary.org/obo/HP_0500251: [abnormal urine decanedioic acid concentration,
+  abnormal urine sebacic acid concentration]
+http://purl.obolibrary.org/obo/HP_0010376: [patchy sclerosis of the phalanges of the 4th toe,
+  uneven increase in bone density in 4th toe bone, patchy sclerosis of 4th toe phalanx]
+http://purl.obolibrary.org/obo/HP_0032071: [pulmonary eosinophilic infiltrate, eosinophilic pulmonary infiltration,
+  pulmonary eosinophilic infiltration]
+http://purl.obolibrary.org/obo/HP_0030341: [decreased circulating follicle stimulating hormone level]
+http://purl.obolibrary.org/obo/HP_0032353: [leucinuria]
+http://purl.obolibrary.org/obo/HP_0008780: [congenital bilateral hip dislocation]
+http://purl.obolibrary.org/obo/HP_0000069: [ureter issue, ureteral anomalies, abnormality of the ureter]
+http://purl.obolibrary.org/obo/HP_0045044: [complement component 4b deficiency, c4b deficiency,
+  decreased serum complement c4b]
+http://purl.obolibrary.org/obo/HP_0012448: [delayed myelination]
+http://purl.obolibrary.org/obo/HP_0010235: [pseudoepiphysis of the fingers, pseudoepiphyses of the phalanges of the hand]
+http://purl.obolibrary.org/obo/HP_0031487: [capillary malformation of the lip]
+http://purl.obolibrary.org/obo/HP_0003958: [cross-fusion of the forearm bones]
+http://purl.obolibrary.org/obo/HP_0031204: [bacterial cell casts]
+http://purl.obolibrary.org/obo/HP_0007658: [large hyperpigmented retinal spots]
+http://purl.obolibrary.org/obo/HP_0010636: [schizencephaly]
+http://purl.obolibrary.org/obo/HP_0006812: [white mater abnormalities in the posterior periventricular region]
+http://purl.obolibrary.org/obo/HP_0005994: [nodular goiter]
+http://purl.obolibrary.org/obo/HP_0005798: [posterior radial head dislocation]
+http://purl.obolibrary.org/obo/HP_0030017: [vaginismus]
+http://purl.obolibrary.org/obo/HP_0010144: [increased bone density of end part of the outermost bone of the big toe,
+  ivory epiphysis of the distal phalanx of the hallux]
+http://purl.obolibrary.org/obo/HP_0020075: [leucine crystalluria]
+http://purl.obolibrary.org/obo/HP_0100102: [cone-shaped end part of the outermost bone of the 2nd toe,
+  cone-shaped epiphysis of the distal phalanx of the 2nd toe]
+http://purl.obolibrary.org/obo/HP_0009407: [triangular shaped bone of ring finger,
+  triangular shaped phalanges of the 4th finger]
+http://purl.obolibrary.org/obo/HP_0009092: [increasing size of gum ridge, progressive hypertrophy of alveolar process of jaw,
+  progressive alveolar ridge hypertropy]
+http://purl.obolibrary.org/obo/HP_0012178: [reduced natural killer cell activity]
+http://purl.obolibrary.org/obo/HP_0011288: [eeg with parietal sharp slow waves]
+http://purl.obolibrary.org/obo/HP_0004722: [thickening of the glomerular basement membrane]
+http://purl.obolibrary.org/obo/HP_0001593: [decreased size of maxillary lateral incisor,
+  decreased size of upper lateral incisor, hypotrophic upper lateral incisor, decreased width of upper lateral incisor,
+  hypotrophic maxillary lateral incisor, small upper lateral incisor, small maxillary lateral incisor,
+  maxillary lateral incisor microdontia]
+http://purl.obolibrary.org/obo/HP_0005764: [polyarticular arthritis]
+http://purl.obolibrary.org/obo/HP_0005490: ['macrocephaly, postnatal', postnatal macrocephaly]
+http://purl.obolibrary.org/obo/HP_0010247: [bracket shaped end part of the outermost hand bones,
+  bracket epiphyses of the distal phalanges of the hand]
+http://purl.obolibrary.org/obo/HP_0000634: [impaired ocular abduction]
+http://purl.obolibrary.org/obo/HP_0040310: [sterile arthritis]
+http://purl.obolibrary.org/obo/HP_0012650: [perisylvian polymicrogyria]
+http://purl.obolibrary.org/obo/HP_0005479: [decreased ige, ige deficiency, decreased circulating total ige]
+http://purl.obolibrary.org/obo/HP_0009688: [cone-shaped thumb epiphyses, cone-shaped end part of thumb long bone,
+  cone-shaped epiphyses of the thumb, cone-shaped epiphysis of the thumb]
+http://purl.obolibrary.org/obo/HP_0000683: [gray colored tooth enamel, gray tooth shade,
+  greyish enamel, grayish enamel]
+http://purl.obolibrary.org/obo/HP_0002490: [increased csf lactic acid, increased cerebrospinal fluid lactate,
+  hyperlactatorachia, increased csf lactate]
+http://purl.obolibrary.org/obo/HP_0006237: [prominent hinge joints, prominent interphalangeal joints]
+http://purl.obolibrary.org/obo/HP_0009246: [absent outermost pinky finger bone, absent outermost pinkie finger bone,
+  absent outermost little finger bone, aplasia of the distal phalanx of the 5th finger]
+http://purl.obolibrary.org/obo/HP_0012844: [tricholemmoma, trichilemmoma]
+http://purl.obolibrary.org/obo/HP_0006119: [pointed proximal metacarpals, pointed innermost long bone of hand,
+  proximal tapering of metacarpals]
+http://purl.obolibrary.org/obo/HP_0030045: [s-shaped calf bone, serpentine fibula]
+http://purl.obolibrary.org/obo/HP_0031466: [impairment in personality functioning]
+http://purl.obolibrary.org/obo/HP_0025208: [triggered by carbohydrate ingestion]
+http://purl.obolibrary.org/obo/HP_0009697: [contracture of the distal interphalangeal joint of the fingers]
+http://purl.obolibrary.org/obo/HP_0030433: [osteoid osteoma]
+http://purl.obolibrary.org/obo/HP_0030909: [anti-liver cytosol antibody-1 positivity,
+  anti-liver cytosolic antigen type 1 antibody positivity]
+http://purl.obolibrary.org/obo/HP_0003859: [cortical diaphyseal thickening of the upper limbs]
+http://purl.obolibrary.org/obo/HP_0025598: [inferior oblique palsy, inferior oblique muscle weakness]
+http://purl.obolibrary.org/obo/HP_0007595: [excess skin in infancy, redundant skin in infancy]
+http://purl.obolibrary.org/obo/HP_0000243: [wedge shaped skull, triangular skull shape,
+  wedge shaped cranium, triangular cranium shape, triangular head shape, wedge shaped head,
+  trigonocephaly]
+http://purl.obolibrary.org/obo/HP_0005546: [increased red cell osmotic resistance]
+http://purl.obolibrary.org/obo/HP_0012607: [abnormal urine magnesium concentration]
+http://purl.obolibrary.org/obo/HP_0031096: [delayed vertebral ossification]
+http://purl.obolibrary.org/obo/HP_0000511: [vertical gaze palsy, vertical supranuclear gaze palsy]
+http://purl.obolibrary.org/obo/HP_0100665: [angioneurotic oedema, quincke edema, angiooedema,
+  angioedema]
+http://purl.obolibrary.org/obo/HP_0001369: [joint inflammation, arthritis]
+http://purl.obolibrary.org/obo/HP_0045063: [increased prothrombin induced by vitamin k absence-ii,
+  increased pivka-ii]
+http://purl.obolibrary.org/obo/HP_0001135: [chorioretinal dystrophy]
+http://purl.obolibrary.org/obo/HP_0008455: [absence of some of the sacral and coccygeal bones,
+  sacral dysgenesis, partial sacral agenesis, dysplastic sacrum]
+http://purl.obolibrary.org/obo/HP_0500015: [abnormal cardiac test]
+http://purl.obolibrary.org/obo/HP_0100621: [dysgerminoma]
+http://purl.obolibrary.org/obo/HP_0007208: [irregular myelin loops]
+http://purl.obolibrary.org/obo/HP_0000695: [natal teeth, teeth present at birth, born with teeth,
+  neonatal teeth, natal tooth]
+http://purl.obolibrary.org/obo/HP_0008839: [hypoplastic pelvic bones, small pelvis,
+  hypoplastic pelvis]
+http://purl.obolibrary.org/obo/HP_0030965: [aortic stiffness]
+http://purl.obolibrary.org/obo/HP_0008523: ['ear, posterior helical notch', pits in posterior aspect of ear helices,
+  indentation in back of outer ear, 'ear, posterior helical groove', 'helix, posterior
+    pit', posterior helix pit]
+http://purl.obolibrary.org/obo/HP_0031280: [increased lh response to gonadotropin-releasing hormone stimulation test]
 http://purl.obolibrary.org/obo/HP_0007481: [hyperpigmented nevi]
-http://purl.obolibrary.org/obo/HP_0012155: [reduced corneal sensation, corneal hypaesthesia,
-  corneal hypesthesia, decreased corneal sensation]
-http://purl.obolibrary.org/obo/HP_0000112: [kidney damage, kidney disease, nephropathy]
+http://purl.obolibrary.org/obo/HP_0005766: [disproportionate shortening of the shinbone,
+  disproportionate shortening of the shankbone, disproportionate shortening of the tibia]
+http://purl.obolibrary.org/obo/HP_0004451: [postauricular fibroepithelial polyp, postauricular acrochordon,
+  skin tag behind the ear, postauricular skin tag]
+http://purl.obolibrary.org/obo/HP_0011183: [eeg with hyperventilation-induced focal epileptiform discharges]
+http://purl.obolibrary.org/obo/HP_0010110: [absent bone of big toe, aplasia of the phalanges of the hallux]
+http://purl.obolibrary.org/obo/HP_0009736: [tibial pseudoarthrosis]
+http://purl.obolibrary.org/obo/HP_0025511: [nevus sebaceus]
+http://purl.obolibrary.org/obo/HP_0025608: [cicatricial ectropion]
+http://purl.obolibrary.org/obo/HP_0030072: [tumor of the paranasal sinuses, neoplasm of the paranasal sinuses,
+  paranasal sinus neoplasm]
+http://purl.obolibrary.org/obo/HP_0006386: [hypoplastic distal radial epiphyses]
+http://purl.obolibrary.org/obo/HP_0500201: [low glutamic acid levels in cerebrospinal fluid,
+  decreased csf glutamate concentration]
+http://purl.obolibrary.org/obo/HP_0002296: [progressive hypotrichosis]
+http://purl.obolibrary.org/obo/HP_0031615: [hypopyon]
+http://purl.obolibrary.org/obo/HP_0006887: [progressive mental retardation, 'mental
+    retardation, progressive', 'intellectual disability, progressive']
+http://purl.obolibrary.org/obo/HP_0006866: [midline cns lipomas, midline central nervous system lipomas]
+http://purl.obolibrary.org/obo/HP_0100833: [small intestine tumor, neoplasm of the small intestine]
+http://purl.obolibrary.org/obo/HP_0011116: [abnormality of interferon secretion]
+http://purl.obolibrary.org/obo/HP_0007286: [horizontal jerk nystagmus]
+http://purl.obolibrary.org/obo/HP_0001582: [redundant skin]
+http://purl.obolibrary.org/obo/HP_0005245: [underdeveloped instestine, hypoplastic intestines,
+  intestinal hypoplasia]
+http://purl.obolibrary.org/obo/HP_0009403: [delta-shaped epiphyses of the 4th finger,
+  triangular end part of ring finger bone, triangular epiphyses of the 4th finger]
+http://purl.obolibrary.org/obo/HP_0010892: [abnormal circulating branched chain amino acid concentration]
+http://purl.obolibrary.org/obo/HP_0031547: [abnormal qt interval]
+http://purl.obolibrary.org/obo/HP_0007020: [progressive spastic paraplegia]
+http://purl.obolibrary.org/obo/HP_0000902: [fused ribs, rib fusion]
+http://purl.obolibrary.org/obo/HP_0004383: [underdeveloped left heart, left ventricular hypoplasia,
+  heart left ventricle hypoplasia, hypoplastic left heart]
+http://purl.obolibrary.org/obo/HP_0010090: [uneven increase in bone density in the innermost bone of the big toe,
+  patchy sclerosis of the proximal phalanx of the hallux]
+http://purl.obolibrary.org/obo/HP_0000083: [renal failure, renal failure in adulthood,
+  renal insufficiency]
+http://purl.obolibrary.org/obo/HP_0032131: [cervical dysplasia]
+http://purl.obolibrary.org/obo/HP_0005701: [multiple enchondromatosis]
+http://purl.obolibrary.org/obo/HP_0032192: [hydatidiform mole]
+http://purl.obolibrary.org/obo/HP_0007411: [hypoplastic-absent sebaceous glands]
+http://purl.obolibrary.org/obo/HP_0032029: [floppy eyelid]
+http://purl.obolibrary.org/obo/HP_0009940: [uneven mandible, tilted lower jaw, crooked lower jaw,
+  deviation of lower jaw, lower jaw shifted to one side, tilted mandible, uneven lower jaw,
+  asymmetry of lower jaw, canted mandible, deviation of mandible, canted lower jaw,
+  asymmetry of the mandible]
+http://purl.obolibrary.org/obo/HP_0002015: [poor swallowing, swallowing difficulties,
+  swallowing difficulty, dysphagia]
+http://purl.obolibrary.org/obo/HP_0006467: [limited shoulder movement]
+http://purl.obolibrary.org/obo/HP_0011906: [reduced beta/alpha synthesis ratio]
+http://purl.obolibrary.org/obo/HP_0011763: [pituitary carcinoma]
+http://purl.obolibrary.org/obo/HP_0012271: [episodic upper airway obstruction]
+http://purl.obolibrary.org/obo/HP_0005248: [intrahepatic atresia of biliary duct,
+  bile duct paucity, intrahepatic biliary atresia]
+http://purl.obolibrary.org/obo/HP_0007017: [forgetfullness, progressive forgetfulness]
+http://purl.obolibrary.org/obo/HP_0008321: [decreased factor x activity, reduced factor x activity]
+http://purl.obolibrary.org/obo/HP_0012642: [cerebellar agenesis]
+http://purl.obolibrary.org/obo/HP_0410219: [disorder of mandibular and maxillary dental arch relationship,
+  hypoplasia of mandible relative to maxilla]
+http://purl.obolibrary.org/obo/HP_0010735: [polyostotic fibrous dysplasia]
+http://purl.obolibrary.org/obo/HP_0410180: [abnormal g6pd level in dried blood spot,
+  abnormal glucose-6-phosphate dehydrogenase level in dbs, abnormal glucose-6-phosphate dehydrogenase level in dried blood spot]
+http://purl.obolibrary.org/obo/HP_0002574: [episodic abdominal pain]
+http://purl.obolibrary.org/obo/HP_0008818: [large iliac wings]
+http://purl.obolibrary.org/obo/HP_0031794: [decreased circulating glycerol level]
+http://purl.obolibrary.org/obo/HP_0005472: [orbital craniosynostosis]
+http://purl.obolibrary.org/obo/HP_0012474: [obstructed carotid artery, carotid artery occlusion]
+http://purl.obolibrary.org/obo/HP_0012477: [shakey voice, vocal tremor]
+http://purl.obolibrary.org/obo/HP_0012766: [widened cerebral subarachnoid space]
+http://purl.obolibrary.org/obo/HP_0100320: [rosenthal fibres]
+http://purl.obolibrary.org/obo/HP_0031452: [lichenoid skin lesion]
+http://purl.obolibrary.org/obo/HP_0011818: [naso-frontal encephalocele, nasofrontal encephalocele]
+http://purl.obolibrary.org/obo/HP_0001929: [low factor xi activity, reduced factor xi activity]
+http://purl.obolibrary.org/obo/HP_0031406: [abnormal cytokine signaling]
+http://purl.obolibrary.org/obo/HP_0009949: [partial/complete duplication of the middle bones of the index finger,
+  duplication of the middle phalanx of the 2nd finger]
+http://purl.obolibrary.org/obo/HP_0002656: [abnormal development of end part of bone,
+  abnormal development of the ends of long bones in arms and legs, epiphyseal dysplasia]
+http://purl.obolibrary.org/obo/HP_0032030: [lateral canthal tendon laxity]
+http://purl.obolibrary.org/obo/HP_0031856: [hobby horse gait]
+http://purl.obolibrary.org/obo/HP_0003951: [irregular metaphyses of elbow, irregular wide portion of elbow bone,
+  distal humeral metaphyseal irregularity]
+http://purl.obolibrary.org/obo/HP_0005227: [adenomatous polyposis coli, multiple colonic adenomatous polyps,
+  multiple adenomatous colon polyps, adenomatous colonic polyposis]
+http://purl.obolibrary.org/obo/HP_0009214: [absent end part of the middle bone of the ring finger,
+  absent epiphysis of the middle phalanx of the 4th finger]
+http://purl.obolibrary.org/obo/HP_0004789: [milk intolerance, lactose intolerance]
+http://purl.obolibrary.org/obo/HP_0030896: [abnormal gi transit time, abnormal gastrointestinal transit time]
+http://purl.obolibrary.org/obo/HP_0000523: [subcapsular lenticular cataracts, subcapsular opacities,
+  subcapsular cataract]
+http://purl.obolibrary.org/obo/HP_0011282: [abnormal shape of hindbrain, abnormality of the hindbrain,
+  abnormality of hindbrain morphology]
+http://purl.obolibrary.org/obo/HP_0011122: [abnormality of skin physiology]
+http://purl.obolibrary.org/obo/HP_0008003: [jerky smooth pursuit, jerky ocular pursuit movements]
+http://purl.obolibrary.org/obo/HP_0100825: [inflammation of the lips, cheilitis]
+http://purl.obolibrary.org/obo/HP_0100925: [sclerosis of bones of the feet, increased bone density in foot bone,
+  sclerosis of foot bone]
+http://purl.obolibrary.org/obo/HP_0005199: [absent abdominal musculature, aplasia of the abdominal wall musculature]
+http://purl.obolibrary.org/obo/HP_0006329: [small alveolar ridge, underdevelopment of alveolar process of jaw,
+  hypoplastic alveolar bone, decreased size of alveolar process of jaw, small alveolar process of jaw,
+  hypoplasia of alveolar ridge, decreased size of alveolar ridge, underdevelopment of alveolar ridge,
+  alveolar process hypoplasia]
+http://purl.obolibrary.org/obo/HP_0031397: [reduced proportion of naive t cells]
+http://purl.obolibrary.org/obo/HP_0012403: [decreased urinary 2-oxoglutarate, decreased urine alpha-ketoglutarate concentration]
+http://purl.obolibrary.org/obo/HP_0005684: [distal arthrogryposis]
+http://purl.obolibrary.org/obo/HP_0011457: [milphosis, missing eyelashes, eyelashes fell out,
+  ciliary madarosis, loss of eyelashes]
+http://purl.obolibrary.org/obo/HP_0000185: [cleft of soft palate, cleft muscular palate,
+  cleft velum, cleft soft palate]
+http://purl.obolibrary.org/obo/HP_0012024: [hypergalactosemia]
+http://purl.obolibrary.org/obo/HP_0032370: [blood group a]
+http://purl.obolibrary.org/obo/HP_0010163: [bracket shaped end part of the toe bones,
+  bracket epiphyses of the toes]
+http://purl.obolibrary.org/obo/HP_0007529: [hidrotic ectodermal dysplasia]
+http://purl.obolibrary.org/obo/HP_0011758: [pituitary acidophilic stem cell adenoma]
+http://purl.obolibrary.org/obo/HP_0011324: [multisutural craniosynostosis, multiple suture craniosynostosis]
+http://purl.obolibrary.org/obo/HP_0001646: [abnormality of the aortic valve, abnormal aortic valve morphology]
+http://purl.obolibrary.org/obo/HP_0010762: [chordoma]
+http://purl.obolibrary.org/obo/HP_0100872: [minor feet anomalies, abnormality of the plantar skin of foot]
+http://purl.obolibrary.org/obo/HP_0007987: [progressive visual field defects]
+http://purl.obolibrary.org/obo/HP_0030791: [abnormal jaw morphology]
+http://purl.obolibrary.org/obo/HP_0000503: [tortuosity of conjunctival vessels]
+http://purl.obolibrary.org/obo/HP_0002383: [brain inflammation, encephalitis]
+http://purl.obolibrary.org/obo/HP_0012591: [abnormal urinary electrolyte concentration]
+http://purl.obolibrary.org/obo/HP_0003916: [normal-density transverse humeral bands]
+http://purl.obolibrary.org/obo/HP_0006768: [localized neuroblastoma]
+http://purl.obolibrary.org/obo/HP_0008011: [peripheral corneal opacity, peripheral opacification of the cornea]
+http://purl.obolibrary.org/obo/HP_0010861: [incomplete breech presentation]
+http://purl.obolibrary.org/obo/HP_0005868: [metaphyseal enchondromatosis]
+http://purl.obolibrary.org/obo/HP_0031276: [obstructive shock]
+http://purl.obolibrary.org/obo/HP_0005831: [type b brachydactyly]
+http://purl.obolibrary.org/obo/HP_0003743: [genetic anticipation]
+http://purl.obolibrary.org/obo/HP_0410339: [allergy to insect bites, insect bite allergy]
+http://purl.obolibrary.org/obo/HP_0012377: [hemianopsia, hemianopia]
+http://purl.obolibrary.org/obo/HP_0030953: [conjunctival vascular congestion, conjunctival hyperaemia,
+  conjunctival injection, conjunctival hyperemia]
+http://purl.obolibrary.org/obo/HP_0100048: [fragmentation of the end part of the 2nd toe bone,
+  fragmentation of the epiphyses of the 2nd toe]
+http://purl.obolibrary.org/obo/HP_0500229: [abnormal glycine levels in cerebrospinal fluid.,
+  abnormal csf glycine concentration]
+http://purl.obolibrary.org/obo/HP_0009573: [uneven increase in bone density in the middle bone of the index finger,
+  patchy sclerosis of the middle phalanx of the 2nd finger]
+http://purl.obolibrary.org/obo/HP_0009844: [broad middle phalanges of finger, broad middle finger bones,
+  broad middle phalanges of the hand, broad middle phalanx of finger]
+http://purl.obolibrary.org/obo/HP_0031314: [carotid artery calcification]
+http://purl.obolibrary.org/obo/HP_0032424: [increased hdl2b concentration]
+http://purl.obolibrary.org/obo/HP_0002492: [abnormality of the corticospinal tract]
+http://purl.obolibrary.org/obo/HP_0007550: [lack of sweating or excessive sweating,
+  hypohidrosis or hyperhidrosis]
+http://purl.obolibrary.org/obo/HP_0030731: [carcinoma]
+http://purl.obolibrary.org/obo/HP_0005274: [bulbous tip of nose, pronounced tip of nose,
+  large tip of nose, prominent tip of nose, pronounced nasal tip, large nasal tip,
+  prominent nasal tip]
+http://purl.obolibrary.org/obo/HP_0000045: [abnormality of the scrotum]
+http://purl.obolibrary.org/obo/HP_0100350: [camptodactyly of the 4th toe, camptodactyly of the fourth toe,
+  contracture of the innermost hinge joint of the 4th toe, contracture of the proximal interphalangeal joint of the 4th toe]
+http://purl.obolibrary.org/obo/HP_0005365: [absent b cells, severe b lymphocytopenia]
+http://purl.obolibrary.org/obo/HP_0012088: [abnormal urine smell, abnormal urinary odour,
+  abnormal urinary odor]
+http://purl.obolibrary.org/obo/HP_0002524: [cataplexy]
+http://purl.obolibrary.org/obo/HP_0004808: [acute myeloblastic leukemia, acute myelocytic leukemia,
+  aml, acute myelogenous leukemia, acute myeloid leukemia]
+http://purl.obolibrary.org/obo/HP_0200159: [failure of development of deciduous mandibular lateral incisor,
+  agenesis of deciduous mandibular lateral incisor, failure of development of primary mandibular lateral incisor,
+  agenesis of primary mandibular lateral incisor]
+http://purl.obolibrary.org/obo/HP_0002101: [defective lung lobation, lung segmentation defects,
+  abnormal lung lobation]
+http://purl.obolibrary.org/obo/HP_0005526: [lymphoid leukemia]
+http://purl.obolibrary.org/obo/HP_0012684: [abnormal pineal volume]
+http://purl.obolibrary.org/obo/HP_0002087: [upper respiratory tract issues, abnormality of the upper respiratory tract]
+http://purl.obolibrary.org/obo/HP_0031763: [cyclic esotropia]
+http://purl.obolibrary.org/obo/HP_0100078: [bracket shaped end part of pinky toe bone,
+  bracket shaped end part of little toe bone, bracket shaped end part of pinkie toe bone,
+  bracket epiphyses of the 5th toe]
+http://purl.obolibrary.org/obo/HP_0031582: [tessier number 10 facial cleft]
+http://purl.obolibrary.org/obo/HP_0002636: [aneurysm of an abdominal artery, dilatation of an abdominal artery]
+http://purl.obolibrary.org/obo/HP_0005676: [rudimentary postaxial polydactyly of hands]
+http://purl.obolibrary.org/obo/HP_0030424: [epididymal cyst]
+http://purl.obolibrary.org/obo/HP_0012301: [type 2 transferrin isoform profile, 'abnormal
+    isoelectric focusing of serum transferrin, type ii pattern', isoelectric focusing of serum transferrin consistent with cdg type ii,
+  type ii transferrin isoform profile]
 http://purl.obolibrary.org/obo/HP_0001751: [impaired vestibular function, vestibular function defect,
   vestibular dysfunction]
-http://purl.obolibrary.org/obo/HP_0000387: [absent ear lobes, 'earlobe, absent', lobeless ears,
-  absent earlobe]
+http://purl.obolibrary.org/obo/HP_0007417: [discoid lupus erythematosus, discoid lupus rash]
+http://purl.obolibrary.org/obo/HP_0008610: [infantile sensorineural hearing loss,
+  infantile sensorineural hearing impairment]
+http://purl.obolibrary.org/obo/HP_0000544: [paralysis or weakness of muscles within or surrounding outer part of eye,
+  ophthalmoplegia externa, progressive paralysis or weakness of muscles of eye movement,
+  cpeo, progressive paralysis or weakness of muscles of eye motility, external ophthalmoplegia]
+http://purl.obolibrary.org/obo/HP_0030820: [hooded eyelid]
+http://purl.obolibrary.org/obo/HP_0001106: [pigmentation around the eyes, darkening around the eyes,
+  dark circles around the eyes, idiopathic cutaneous hyperchromia at the orbital region,
+  periorbital melanosis, infraorbital pigmentation, dark circles under the eyes, periorbital hyperpigmentation]
+http://purl.obolibrary.org/obo/HP_0002792: [decreased vital capacity, reduced vital capacity]
+http://purl.obolibrary.org/obo/HP_0003226: [rectilinear profiles ultrastructurally,
+  rectilinear intracellular accumulation of autofluorescent lipopigment storage material]
+http://purl.obolibrary.org/obo/HP_0020079: [beta-alaninuria]
+http://purl.obolibrary.org/obo/HP_0004712: [malrotation of the kidney, abnormal rotation of the kidneys,
+  renal malrotation]
+http://purl.obolibrary.org/obo/HP_0030878: [abnormal pulmonary function test, abnormality on pulmonary function testing]
+http://purl.obolibrary.org/obo/HP_0000216: [secondary alveolar ridges, broad secondary alveolar ridge]
+http://purl.obolibrary.org/obo/HP_0011375: [absent cochlea, cochlear aplasia]
+http://purl.obolibrary.org/obo/HP_0011778: [thyroid atypical adenoma]
+http://purl.obolibrary.org/obo/HP_0100384: [aplasia of the proximal phalanx of the 3rd toe,
+  absent innermost bone of the 3rd toe, absent proximal phalanx of the 3rd toe]
+http://purl.obolibrary.org/obo/HP_0005696: [postaxial polydactyly type a]
+http://purl.obolibrary.org/obo/HP_0031838: ['the presence of a xenobiotic in body
+    tissues or fluids can be the result of ingestion of or exposure to substances
+    such as drugs, environmental pollutants, food additives, hydrocarbons, and pesticides.',
+  presence of xenobiotic]
+http://purl.obolibrary.org/obo/HP_0040218: [reduced natural killer cell number, reduced nk cell number,
+  reduced natural killer cell count]
+http://purl.obolibrary.org/obo/HP_0025629: [anti-myelin-associated glycoprotein antibody positivity]
+http://purl.obolibrary.org/obo/HP_0030228: [abnormal muscle fiber valosin-containing protein]
+http://purl.obolibrary.org/obo/HP_0002810: [dumbbell shaped metaphysis, dumbbell shaped metaphyses,
+  dumbbell shaped wide portion of long bone, dumbbell-shaped metaphyses]
+http://purl.obolibrary.org/obo/HP_0006779: [alveolar rhabdomyosarcoma]
+http://purl.obolibrary.org/obo/HP_0007973: [retinal dysgenesis, retinal dysplasia]
+http://purl.obolibrary.org/obo/HP_0008428: [vertebral clefts, vertebral clefting]
+http://purl.obolibrary.org/obo/HP_0003426: [first dorsal interossei muscle atrophy]
+http://purl.obolibrary.org/obo/HP_0008233: [decreased serum progesterone, decreased circulating progesterone]
+http://purl.obolibrary.org/obo/HP_0007344: [atrophic and degenerative changes in the spinal cord,
+  atrophy/degeneration involving the spinal cord]
+http://purl.obolibrary.org/obo/HP_0003445: ['emg: neuropathic changes']
+http://purl.obolibrary.org/obo/HP_0100052: [small end part of the 2nd toe bone, small epiphyses of the 2nd toe]
+http://purl.obolibrary.org/obo/HP_0012360: [decreased fucosylation of o-linked protein glycosylation]
+http://purl.obolibrary.org/obo/HP_0012143: [abnormality of cells of the megakaryocyte lineage,
+  abnormal megakaryocyte morphology]
+http://purl.obolibrary.org/obo/HP_0005498: [midline skin dimples over anterior/posterior fontanelles]
+http://purl.obolibrary.org/obo/HP_0009671: [pseudoepiphysis of the proximal phalanx of the thumb]
+http://purl.obolibrary.org/obo/HP_0031072: [abnormal endocrine physiology]
+http://purl.obolibrary.org/obo/HP_0003831: [age dependent penetrance, age-dependent penetrance]
+http://purl.obolibrary.org/obo/HP_0006012: [broad shaft of long bone of hand, widened metacarpal shaft]
+http://purl.obolibrary.org/obo/HP_0002548: [parkinsonism with favorable response to dopaminergic medication]
+http://purl.obolibrary.org/obo/HP_0001896: [reticulocytopenia]
+http://purl.obolibrary.org/obo/HP_0004043: [lytic defects of ulnar metaphysis]
+http://purl.obolibrary.org/obo/HP_0010347: [absent/small bones of 2nd toe, absent/underdeveloped bones of 2nd toe,
+  aplasia/hypoplasia of the phalanges of the 2nd toe]
+http://purl.obolibrary.org/obo/HP_0002061: [lower limb spasticity]
+http://purl.obolibrary.org/obo/HP_0012654: [abnormal csf dopamine level]
+http://purl.obolibrary.org/obo/HP_0011551: [right sided atrium to left ventricle and absent left sided atrioventricular connection]
+http://purl.obolibrary.org/obo/HP_0004972: [elevated mean arterial pressure]
+http://purl.obolibrary.org/obo/HP_0012049: [spasmodic dysphonia, laryngeal dystonia]
+http://purl.obolibrary.org/obo/HP_0003127: [low urine calcium levels, hypocalciuria]
+http://purl.obolibrary.org/obo/HP_0008935: [generalized low muscle tone in neonate,
+  'hypotonia, neonatal, generalized', generalized neonatal hypotonia]
+http://purl.obolibrary.org/obo/HP_0012351: [increased sialylation of n-linked protein glycosylation]
+http://purl.obolibrary.org/obo/HP_0006518: [pulmonary venous stenosis, pulmonary venous occlusion]
+http://purl.obolibrary.org/obo/HP_0030449: [therapeutic abortion]
+http://purl.obolibrary.org/obo/HP_0012391: [hyporeflexia of upper limbs]
+http://purl.obolibrary.org/obo/HP_0003693: [distal muscle wasting, distal limb muscle atrophy,
+  'muscle atrophy, distal', amyotrophy of distal limb muscles, 'distal muscle atrophy,
+    upper and lower limbs', distal muscular atrophy, distal muscle degeneration, distal muscle atrophy,
+  distal amyotrophy]
+http://purl.obolibrary.org/obo/HP_0003196: [nasal hypoplasia, shortened nose, decreased length of nose,
+  hypoplastic nose, short nose]
+http://purl.obolibrary.org/obo/HP_0005428: [severe recurrent varicella]
+http://purl.obolibrary.org/obo/HP_0006265: [absent/small fingers, absent/underdeveloped fingers,
+  aplasia/hypoplasia of fingers]
+http://purl.obolibrary.org/obo/HP_0012667: [regional left ventricular wall motion abnormality]
+http://purl.obolibrary.org/obo/HP_0030445: [lung carcinoid tumor, pulmonary carcinoid tumor]
+http://purl.obolibrary.org/obo/HP_0011955: [hepatic granulomatosis]
+http://purl.obolibrary.org/obo/HP_0008955: [progressive distal muscular atrophy]
+http://purl.obolibrary.org/obo/HP_0008162: ['hyperammonemia, asymptomatic', asymptomatic hyperammonemia]
+http://purl.obolibrary.org/obo/HP_0010159: [triangular end part of the 1st long bone of foot,
+  triangular epiphysis of the 1st metatarsal]
+http://purl.obolibrary.org/obo/HP_0012504: [abnormal size of pituitary gland]
+http://purl.obolibrary.org/obo/HP_0030932: [1-minute apgar score of 5]
+http://purl.obolibrary.org/obo/HP_0030177: [abnormal nerve conduction study, abnormality of peripheral nervous system electrophysiology]
+http://purl.obolibrary.org/obo/HP_0410337: [allergy to parasites, parasite allergy]
+http://purl.obolibrary.org/obo/HP_0004924: [abnormal glucose oral tolerance test,
+  abnormal oral glucose tolerance]
+http://purl.obolibrary.org/obo/HP_0008311: [spinal cord posterior columns myelin loss]
+http://purl.obolibrary.org/obo/HP_0031117: [purely bicuspid aortic valve]
+http://purl.obolibrary.org/obo/HP_0002654: [multiple epiphyseal dysplasia]
+http://purl.obolibrary.org/obo/HP_0010224: [abnormality of the end part of the 4th long bone of hand,
+  abnormality of the epiphysis of the 4th metacarpal]
+http://purl.obolibrary.org/obo/HP_0002860: [squamous cell cancer, squamous cell carcinoma]
+http://purl.obolibrary.org/obo/HP_0011278: [intrapulmonary sequestration]
+http://purl.obolibrary.org/obo/HP_0009194: [small end part of the long bone of hand,
+  small epiphyses of the metacarpals]
+http://purl.obolibrary.org/obo/HP_0010998: [increased susceptibility to spontaneous sister chromatid exchange]
+http://purl.obolibrary.org/obo/HP_0030684: [abnormal adiponectin level]
+http://purl.obolibrary.org/obo/HP_0004264: [decreased carpal joint angles, narrow carpal joint spaces]
+http://purl.obolibrary.org/obo/HP_0011378: [hypoplasia of the vestibule of the inner ear]
+http://purl.obolibrary.org/obo/HP_0045004: [abnormal ossification of the trapezoid bone]
+http://purl.obolibrary.org/obo/HP_0000531: [corneal deposits, corneal crystals]
+http://purl.obolibrary.org/obo/HP_0010900: [abnormality of threonine metabolism, abnormal circulating threonine concentration]
+http://purl.obolibrary.org/obo/HP_0100242: [cancer of connective tissue, malignant connective tissue tumor,
+  sarcoma]
+http://purl.obolibrary.org/obo/HP_0009795: [branchial cleft fistula, branchial fistula]
+http://purl.obolibrary.org/obo/HP_0001468: [absent/underdeveloped upper arm muscles,
+  absent/small upper arm muscles, aplasia/hypoplasia involving the musculature of the upper arm]
+http://purl.obolibrary.org/obo/HP_0032229: [p-anca positivity, perinuclear antineutrophil antibody positivity]
+http://purl.obolibrary.org/obo/HP_0000201: [robin sequence, pierre robin sequence,
+  pierre-robin anomaly, pierre-robin malformation, pierre-robin deformity, pierre-robin sequence]
+http://purl.obolibrary.org/obo/HP_0500226: [abnormal serine levels in cerebrospinal fluid,
+  abnormal csf serine concentration]
+http://purl.obolibrary.org/obo/HP_0100660: [dyskinesis, disorder of involuntary muscle movements,
+  dyskinesia]
+http://purl.obolibrary.org/obo/HP_0012076: ['emotionally unstable personality disorder,
+    borderline type', bpd, borderline personality disorder]
+http://purl.obolibrary.org/obo/HP_0025285: [exacerbated by, aggravated by]
+http://purl.obolibrary.org/obo/HP_0008322: [abnormal mitochondrion morphology, abnormal mitochondrial morphology]
+http://purl.obolibrary.org/obo/HP_0002193: [pseudobulbar behavioral symptoms]
+http://purl.obolibrary.org/obo/HP_0030389: [abnormal circulating thromboxane concentration]
+http://purl.obolibrary.org/obo/HP_0410267: [bowel hemangioma, intestinal hemangioma]
+http://purl.obolibrary.org/obo/HP_0006558: [decreased mitochondrial complex iii activity in liver tissue]
+http://purl.obolibrary.org/obo/HP_0031871: [abnormal langerhans cell morphology]
+http://purl.obolibrary.org/obo/HP_0004573: [wedge-shaped 11th thoracic vertebra, anterior wedging of the 11th thoracic vertebra,
+  anterior wedging of t11]
+http://purl.obolibrary.org/obo/HP_0008026: [horizontal opticokinetic nystagmus]
+http://purl.obolibrary.org/obo/HP_0011770: [tertiary hyperparathyroidism]
+http://purl.obolibrary.org/obo/HP_0100766: [abnormality of the lymphatic vessels,
+  abnormal lymphatic vessel morphology]
+http://purl.obolibrary.org/obo/HP_0011001: [osteosclerosis, osteosclerosis of bones,
+  increased bone density, increased bone mineral density]
+http://purl.obolibrary.org/obo/HP_0100116: [irregular end part of the middle bone of the 2nd toe,
+  irregular epiphysis of the middle phalanx of the 2nd toe]
+http://purl.obolibrary.org/obo/HP_0010732: [eyelid nodules, nodular changes affecting the eyelids]
+http://purl.obolibrary.org/obo/HP_0004968: [recurrent hemorrhagic stroke, recurrent cerebral hemorrhage]
+http://purl.obolibrary.org/obo/HP_0002754: [bone infection, osteomyelitis]
+http://purl.obolibrary.org/obo/HP_0002174: [postural tremor]
+http://purl.obolibrary.org/obo/HP_0030387: [increased proportion of cd19+cd27+igd- cells,
+  increased proportion of class-switched memory b cells]
+http://purl.obolibrary.org/obo/HP_0012897: [abnormal motor evoked potentials in the upper limb,
+  abnormal upper-limb motor evoked potentials]
+http://purl.obolibrary.org/obo/HP_0005312: [pulmonary aterial intimal fibrosis]
+http://purl.obolibrary.org/obo/HP_0410068: [increased level of l-glutamic acid in blood]
+http://purl.obolibrary.org/obo/HP_0007747: [monocular horizontal nystagmus]
+http://purl.obolibrary.org/obo/HP_0005469: [posterior flattening of the skull, flat back of the skull,
+  flat posterior cranium, flat back of skull, flat back of the head, flat posterior head,
+  flat occiput]
+http://purl.obolibrary.org/obo/HP_0012786: [recurrent bladder infections, recurrent cystitis]
+http://purl.obolibrary.org/obo/HP_0011038: [abnormality of renal resorption]
+http://purl.obolibrary.org/obo/HP_0003164: [hypothalamic gnrh deficiency, hypothalamic gonadotropin-releasing hormone deficiency]
+http://purl.obolibrary.org/obo/HP_0100047: [enlarged end part of the 2nd toe bone,
+  enlarged epiphyses of the 2nd toe]
+http://purl.obolibrary.org/obo/HP_0410334: [allergy to fungi, fungus allergy, fungal allergy,
+  fungi allergy]
+http://purl.obolibrary.org/obo/HP_0002672: [gi carcinoma, gastrointestinal carcinoma]
+http://purl.obolibrary.org/obo/HP_0032285: [ultra-low vision with retained light projection]
+http://purl.obolibrary.org/obo/HP_0003928: [cortical thickening of humeral diaphysis]
+http://purl.obolibrary.org/obo/HP_0100904: [increased bone density in the middle bone of the index finger,
+  sclerosis of the middle phalanx of the 2nd finger]
+http://purl.obolibrary.org/obo/HP_0000748: [inappropriate laughter]
+http://purl.obolibrary.org/obo/HP_0100392: [short middle phalanx of the third toe,
+  hypoplastic/small middle phalanx of the 3rd toe, short middle phalanx of the 3rd toe]
+http://purl.obolibrary.org/obo/HP_0006114: [multiple palm lines, multiple palmar creases]
+http://purl.obolibrary.org/obo/HP_0008738: [partially duplicated kidney]
+http://purl.obolibrary.org/obo/HP_0025424: [abnormal larynx physiology]
+http://purl.obolibrary.org/obo/HP_0031819: [increased whr, increased waist-to-hip ratio,
+  increased waist-hip ratio, increased waist to hip ratio]
+http://purl.obolibrary.org/obo/HP_0003359: [decreased urinary sulfate]
+http://purl.obolibrary.org/obo/HP_0030912: [duplicated clitoris]
+http://purl.obolibrary.org/obo/HP_0011911: [abnormality of the knuckle, abnormality of metacarpophalangeal joint]
+http://purl.obolibrary.org/obo/HP_0020080: [erythrocyte inclusion bodies]
+http://purl.obolibrary.org/obo/HP_0030163: [abnormal vascular physiology]
+http://purl.obolibrary.org/obo/HP_0008178: [abnormal cartilage matrix]
+http://purl.obolibrary.org/obo/HP_0011639: [anomalous origin of right coronary artery from the pulmonary artery]
+http://purl.obolibrary.org/obo/HP_0032200: [perivascular fibrosis]
+http://purl.obolibrary.org/obo/HP_0100303: [muscle fiber cytoplasmic bodies, muscle fiber cytoplasmatic inclusion bodies]
+http://purl.obolibrary.org/obo/HP_0032263: [increased bp, increased blood pressure]
+http://purl.obolibrary.org/obo/HP_0003361: [high urine tryptophan levels, tryptophanuria]
+http://purl.obolibrary.org/obo/HP_0012234: [agranulocytosis]
+http://purl.obolibrary.org/obo/HP_0009576: [absent middle bone of index finger, absent middle phalanx of index finger,
+  aplasia of the middle phalanx of the 2nd finger, absent middle phalanx of 2nd finger]
+http://purl.obolibrary.org/obo/HP_0005562: [multiple kidney cysts, multiple renal cysts]
+http://purl.obolibrary.org/obo/HP_0040156: [elevated urinary carboxylic acid]
+http://purl.obolibrary.org/obo/HP_0009718: [subependymal giant-cell astrocytoma]
+http://purl.obolibrary.org/obo/HP_0031216: [increased circulating progesterone]
+http://purl.obolibrary.org/obo/HP_0000464: [deformity of the neck, malformation of the neck,
+  anomaly of the neck, abnormality of the neck]
+http://purl.obolibrary.org/obo/HP_0031088: [vaginal dryness]
+http://purl.obolibrary.org/obo/HP_0030417: [vulval squamous cell carcinoma, squamous cell carcinoma of the vulva]
+http://purl.obolibrary.org/obo/HP_0010919: [abnormal circulating homocysteine concentration]
+http://purl.obolibrary.org/obo/HP_0025338: [ciliary limbus, circumlimbal hyperaemia,
+  circumlimbal hyperemia]
+http://purl.obolibrary.org/obo/HP_0009964: [duplication of the proximal bone of the middle finger,
+  duplication of the proximal phalanx of the 3rd finger]
+http://purl.obolibrary.org/obo/HP_0005403: [low t cell count, t lymphocytopenia, reduced number of t cells,
+  decreased numbers of circulating t cells, decrease in t cell number, decrease in t cell count]
+http://purl.obolibrary.org/obo/HP_0004014: [wide radial epiphyseal plates, broad radial epiphyseal plate]
+http://purl.obolibrary.org/obo/HP_0100175: [increased bone density of end part of the outermost bone of the 4th toe,
+  ivory epiphysis of the distal phalanx of the 4th toe]
+http://purl.obolibrary.org/obo/HP_0100408: [complete duplication of the distal phalanx of the fourth toe,
+  complete duplication of the outermost bone of the 4th toe, complete duplication of the distal phalanx of the 4th toe]
+http://purl.obolibrary.org/obo/HP_0030243: [blood clot in liver vein, hepatic venous thrombosis,
+  hepatic vein thrombosis]
+http://purl.obolibrary.org/obo/HP_0025203: [palm tree sign, caput medusae]
+http://purl.obolibrary.org/obo/HP_0030560: [best corrected visual acuity 0.6 logmar]
+http://purl.obolibrary.org/obo/HP_0032233: [increased circulating ck bb isoform, increased circulating creatine kinase bb isoform]
+http://purl.obolibrary.org/obo/HP_0004442: ['craniosynostosis, sagittal suture', 'craniosynostosis,
+    sagittal', midline skull joint closes early, sagittal suture synostosis, early closure of midline skull joint,
+  sagittal craniosynostosis]
+http://purl.obolibrary.org/obo/HP_0006112: [expanded phalanges with widened medullary cavities]
+http://purl.obolibrary.org/obo/HP_0011801: [increased size of parotid gland, hyperplasia of parotid gland,
+  enlargement of parotid gland]
+http://purl.obolibrary.org/obo/HP_0002014: [watery stool, diarrhoea, diarrhea]
+http://purl.obolibrary.org/obo/HP_0002463: [language impairment]
+http://purl.obolibrary.org/obo/HP_0025596: [abnormal inferior oblique muscle physiology]
+http://purl.obolibrary.org/obo/HP_0100324: [scleroderma]
+http://purl.obolibrary.org/obo/HP_0031716: [cyclic exotropia]
+http://purl.obolibrary.org/obo/HP_0100465: [uneven increase in bone density in the innermost bone of the 4th toe,
+  patchy sclerosis of the proximal phalanx of the 4th toe]
+http://purl.obolibrary.org/obo/HP_0030373: [abnormal proportion of memory b cells]
+http://purl.obolibrary.org/obo/HP_0025026: [h-type rectovestibular fistula]
+http://purl.obolibrary.org/obo/HP_0032337: [monoclonal elevation of circulating ige]
+http://purl.obolibrary.org/obo/HP_0009399: [increased bone density of end part of the ring finger bone,
+  ivory epiphyses of the 4th finger]
+http://purl.obolibrary.org/obo/HP_0100951: [enlarged basal cistern, enlarged interpeduncular cistern,
+  enlarged fossa interpeduncularis]
+http://purl.obolibrary.org/obo/HP_0045009: [abnormal morphology of the radius]
+http://purl.obolibrary.org/obo/HP_0002179: [opisthotonos, opisthotonus]
+http://purl.obolibrary.org/obo/HP_0004734: [cortical microcysts, multiple small renal cortical cysts,
+  renal cortical microcysts]
+http://purl.obolibrary.org/obo/HP_0004188: [abnormality of the ring finger, abnormality of the 4th finger,
+  abnormal 4th finger morphology]
+http://purl.obolibrary.org/obo/HP_0410199: [increased cerebrospinal fluid urate, elevated csf urate concentration,
+  increased csf urate concentration]
+http://purl.obolibrary.org/obo/HP_0410137: [solar urticaria]
+http://purl.obolibrary.org/obo/HP_0007875: [blindness present at birth, congenital amaurosis,
+  congenital blindness]
+http://purl.obolibrary.org/obo/HP_0011255: ['helix, crus, absent', absent crus of helix]
+http://purl.obolibrary.org/obo/HP_0100614: [muscle inflammation, myositis]
+http://purl.obolibrary.org/obo/HP_0025382: [hypodipsia]
+http://purl.obolibrary.org/obo/HP_0007975: [hypometric horizontal saccades]
+http://purl.obolibrary.org/obo/HP_0430028: [upper jaw excess, increased size of maxilla,
+  maxillary excess, large upper jaw, big upper jaw, maxillary prominence, hyperplasia of upper jaw,
+  prominent upper jaw, maxillary hyperplasia, upper jaw bone excess, increased projection of maxilla,
+  big maxilla, increased size of upper jaw, increased projection of upper jaw, large maxilla,
+  maxillary macrognathia, prominent maxilla, hyperplasia of the maxilla]
+http://purl.obolibrary.org/obo/HP_0007281: [developmental arrest, developmental stagnation]
+http://purl.obolibrary.org/obo/HP_0500021: [reduced brain gamma-aminobutyric acid level by mrs]
+http://purl.obolibrary.org/obo/HP_0010687: [low intestinal alp, low intestinal alkaline phosphatase]
+http://purl.obolibrary.org/obo/HP_0003349: [low cholesterol esterification rate]
+http://purl.obolibrary.org/obo/HP_0001620: [high-pitched voice, high pitched voice]
+http://purl.obolibrary.org/obo/HP_0002996: [decreased elbow mobility, restricted elbow motion,
+  limited elbow mobility, limited elbow movement]
+http://purl.obolibrary.org/obo/HP_0012485: [abnormal surface-connected open canalicular system]
+http://purl.obolibrary.org/obo/HP_0002135: [calcification of the basal ganglia, basal ganglion calcification,
+  basal ganglia calcification]
+http://purl.obolibrary.org/obo/HP_0006712: [absent/underdeveloped ribs, hypoplastic or missing ribs,
+  absent/small ribs, aplasia/hypoplasia of the ribs]
+http://purl.obolibrary.org/obo/HP_0025219: [triggered by immunization, triggered by vaccination]
+http://purl.obolibrary.org/obo/HP_0002791: [under breathing, slow breathing, hypoventilation]
+http://purl.obolibrary.org/obo/HP_0000568: [abnormally small eyeball, decreased size of globe of eye,
+  decreased size of eyeball, microphthalmos, abnormally small globe of eye, microphthalmia]
+http://purl.obolibrary.org/obo/HP_0030516: [homonymous hemianopsia, homonymous hemianopia]
+http://purl.obolibrary.org/obo/HP_0009982: [partial duplication of the middle bone of the ring finger,
+  partial duplication of the middle phalanx of the 4th finger]
+http://purl.obolibrary.org/obo/HP_0011822: [increased width of chin, wide chin, increased width of menton region,
+  broad chin]
+http://purl.obolibrary.org/obo/HP_0030682: [left ventricular noncompaction]
+http://purl.obolibrary.org/obo/HP_0032003: [green urine]
+http://purl.obolibrary.org/obo/HP_0011087: [dens evaginatus, extra cusp on inside of front tooth,
+  talon cusp]
+http://purl.obolibrary.org/obo/HP_0005848: [notched outermost bone of thumb, bifid thumb distal phalanx]
+http://purl.obolibrary.org/obo/HP_0002834: [flared metaphysis of thigh bone, flared femoral metaphysis]
+http://purl.obolibrary.org/obo/HP_0200119: [acute liver inflammation, acute hepatitis]
+http://purl.obolibrary.org/obo/HP_0006755: [cutaneous leiomyosarcoma]
+http://purl.obolibrary.org/obo/HP_0009106: [abnormal ossification involving the bones of the pelvis,
+  abnormal pelvis bone ossification]
+http://purl.obolibrary.org/obo/HP_0005194: [flattened head of long bone of foot, flattened metatarsal heads]
+http://purl.obolibrary.org/obo/HP_0500112: [positive urine amphetamine test]
+http://purl.obolibrary.org/obo/HP_0030571: [pinhole visual acuity 0.3 logmar]
+http://purl.obolibrary.org/obo/HP_0012108: [open angle glaucoma]
+http://purl.obolibrary.org/obo/HP_0000098: [increased body height, accelerated linear growth,
+  increased linear growth, tall stature]
+http://purl.obolibrary.org/obo/HP_0025318: [ovarian epithelial cancer, ovarian carcinoma]
+http://purl.obolibrary.org/obo/HP_0031668: [diastolic heart murmur]
+http://purl.obolibrary.org/obo/HP_0011925: [decreased activity of mitochondrial atp synthase complex]
+http://purl.obolibrary.org/obo/HP_0006921: [axial muscle stiffness]
+http://purl.obolibrary.org/obo/HP_0500162: [decreased blood carnosine concentraion,
+  low blood carnosine levels, decreased level of carnosine in blood]
+http://purl.obolibrary.org/obo/HP_0100293: [muscle fibre hypertrophy, muscle fiber hypertrophy]
+http://purl.obolibrary.org/obo/HP_0030374: [decreased proportion of memory b cells]
+http://purl.obolibrary.org/obo/HP_0410243: [abnormal igm level]
+http://purl.obolibrary.org/obo/HP_0032325: [lacunar stroke]
+http://purl.obolibrary.org/obo/HP_0004780: [hypertrichosis cubiti, hairy elbow, hairy elbow syndrome,
+  elbow hypertrichosis]
+http://purl.obolibrary.org/obo/HP_0012524: [abnormal platelet shape]
+http://purl.obolibrary.org/obo/HP_0031937: [tachylogia, tachylalia]
+http://purl.obolibrary.org/obo/HP_0200016: [acral keratosis, acrokeratosis]
+http://purl.obolibrary.org/obo/HP_0006200: [widened outermost bone of limb, widened distal phalanges]
+http://purl.obolibrary.org/obo/HP_0032158: [unusual infection by anatomical site]
+http://purl.obolibrary.org/obo/HP_0003390: [axonal sensory neuropathy, sensory axonal neuropathy]
+http://purl.obolibrary.org/obo/HP_0011152: [early onset petit mal seizures, early onset absence seizures]
+http://purl.obolibrary.org/obo/HP_0025064: [thalamic haemorrhage, thalamic hemorrhage]
+http://purl.obolibrary.org/obo/HP_0031488: [atypical connection between arteries and veins,
+  arteriovenous malformation of the lip]
+http://purl.obolibrary.org/obo/HP_0410186: [increased g6pd level in tissue, increased glucose-6-phosphate dehydrogenase level in tissue]
+http://purl.obolibrary.org/obo/HP_0011784: [thyrotoxicosis with diffuse goitre, thyrotoxicosis with diffuse goiter]
+http://purl.obolibrary.org/obo/HP_0100069: [enlarged end part of the 4th toe bone,
+  enlarged epiphyses of the 4th toe]
+http://purl.obolibrary.org/obo/HP_0001924: [hypersideremic anemia, sideroblastic anemia]
+http://purl.obolibrary.org/obo/HP_0002526: [deficit in nonword repetition]
+http://purl.obolibrary.org/obo/HP_0100745: [abnormality of the humeroulnar joint]
+http://purl.obolibrary.org/obo/HP_0030219: [semantic dementia]
+http://purl.obolibrary.org/obo/HP_0008964: [nonprogressive muscular atrophy]
+http://purl.obolibrary.org/obo/HP_0031430: [oligoclonal t cell expansion]
+http://purl.obolibrary.org/obo/HP_0000534: [abnormality of the eyebrow, abnormal eyebrow morphology]
+http://purl.obolibrary.org/obo/HP_0007418: [alopecia totalis]
+http://purl.obolibrary.org/obo/HP_0001376: [limited joint mobility, decreased mobility of joints,
+  decreased joint mobility, limited joint motion, limitation of joint mobility]
+http://purl.obolibrary.org/obo/HP_0100489: [symphalangism of the middle and proximal phalanges of the 2nd toe,
+  fused middle and innermost bones of 2nd toe, proximal/middle symphalangism of 2nd toe]
+http://purl.obolibrary.org/obo/HP_0031767: [consecutive esotropia]
+http://purl.obolibrary.org/obo/HP_0007285: [facial palsy caused by overgrowth of cranial bones,
+  facial palsy secondary to hypertrophy of cranial bones, facial palsy caused by enlargement of cranial bones,
+  facial palsy caused by excessive growth of facial bones, facial palsy secondary to cranial hyperostosis]
+http://purl.obolibrary.org/obo/HP_0100202: [absent end part of the outermost bone of the pinky toe,
+  absent end part of the outermost bone of the little toe, absent end part of the outermost bone of the pinkie toe,
+  absent epiphysis of the distal phalanx of the 5th toe]
+http://purl.obolibrary.org/obo/HP_0005288: [malformation of the nares, anomaly of the nares,
+  abnormality of the nostrils, deformity of the nostrils, deformity of the nares,
+  malformation of the nostrils, abnormality of the nares]
+http://purl.obolibrary.org/obo/HP_0030050: [narcolepsy]
+http://purl.obolibrary.org/obo/HP_0007549: [desquamation of skin soon after birth]
+http://purl.obolibrary.org/obo/HP_0007479: [nonbullous congenital ichthyosiform erythroderma,
+  ichthyosis lammellaris, 'ichthyosis, congenital, nonblistering', congenital lamellar ichthyosis,
+  congenital non-bullous ichthyosis, nonbullous congenital ichthyosis, collodion baby,
+  congenital nonbullous ichthyosiform erythroderma]
+http://purl.obolibrary.org/obo/HP_0004912: [hypophosphatemic rickets]
+http://purl.obolibrary.org/obo/HP_0008314: [decreased activity of mitochondrial complex ii]
+http://purl.obolibrary.org/obo/HP_0006747: [ganglioneuroblastoma]
+http://purl.obolibrary.org/obo/HP_0100256: [braindruse, neuritic plaques, senile druse,
+  senile plaques]
+http://purl.obolibrary.org/obo/HP_0002621: [plaque build-up in arteries, narrowing and hardening of arteries,
+  atherosclerotic cardiovascular disease, atherosclerosis]
+http://purl.obolibrary.org/obo/HP_0031294: [hypoplastic right atrium]
+http://purl.obolibrary.org/obo/HP_0410292: [abnormal level of natural antibody to blood group agents,
+  abnormal isohemagglutinin level]
+http://purl.obolibrary.org/obo/HP_0031782: [microtropia without identity]
+http://purl.obolibrary.org/obo/HP_0025140: [decreased serum estrone]
+http://purl.obolibrary.org/obo/HP_0010604: [lesion of the eyelid, eyelid mass, eyelid bump,
+  cyst of the eyelid]
+http://purl.obolibrary.org/obo/HP_0001258: [spastic paraplegia]
+http://purl.obolibrary.org/obo/HP_0100120: [speckled calcifications in of the end part of the middle bone of the 2nd toe,
+  stippling of the epiphysis of the middle phalanx of the 2nd toe]
+http://purl.obolibrary.org/obo/HP_0008833: [irregular acetabular roof]
+http://purl.obolibrary.org/obo/HP_0005947: [decreased sensitivity to hypoxaemia, decreased sensitivity to hypoxemia]
+http://purl.obolibrary.org/obo/HP_0009972: [duplication of bones of the ring finger,
+  partial/complete duplication of phalanges of the 4th finger, duplication of phalanx of 4th finger]
+http://purl.obolibrary.org/obo/HP_0032133: [transient decreased circulating total igg]
+http://purl.obolibrary.org/obo/HP_0004918: [hyperchloremic metabolic acidosis]
+http://purl.obolibrary.org/obo/HP_0003010: [increased bleeding time, prolonged bleeding time]
+http://purl.obolibrary.org/obo/HP_0011599: [mesocardia]
+http://purl.obolibrary.org/obo/HP_0030131: [abnormal von willebrand factor multimer distribution]
+http://purl.obolibrary.org/obo/HP_0012292: [gingival synechia, partial fusion of the gums,
+  fusion of the gingiva, upper and lower gums fused together, synechia of the gums,
+  fusion of gums]
+http://purl.obolibrary.org/obo/HP_0010802: [increased pigmentation around the mouth,
+  darkening of skin around the mouth, perioral hyperpigmentation]
+http://purl.obolibrary.org/obo/HP_0003998: [constricted radial neck]
+http://purl.obolibrary.org/obo/HP_0003150: [glutarate aciduria, increased glutarate level in urine,
+  glutaricaciduria, glutaric aciduria]
+http://purl.obolibrary.org/obo/HP_0003846: [broad epiphyseal plates of the upper limbs,
+  broad growth plates of upper limbs, wide epiphyseal plates of the upper limbs]
+http://purl.obolibrary.org/obo/HP_0030103: [abnormal muscle fiber beta sarcoglycan]
+http://purl.obolibrary.org/obo/HP_0002932: [aldehyde oxidase deficiency]
+http://purl.obolibrary.org/obo/HP_0100454: [osteolytic defects of the middle phalanx of the 5th toe]
+http://purl.obolibrary.org/obo/HP_0009833: [abnormality of the middle finger bones of the hand,
+  abnormality of the middle phalanges of the hand, abnormal middle phalanx morphology of the hand]
+http://purl.obolibrary.org/obo/HP_0001978: [extramedullary hematopoiesis]
+http://purl.obolibrary.org/obo/HP_0000431: [broadened nasal bridge, increased breadth of nasal bridge,
+  increased width of bridge of nose, 'nasal bridge, wide', broad nasal root, widened nasal bridge,
+  wide bridge of nose, increased width of nasal bridge, increased breadth of bridge of nose,
+  broad nasal bridge, nasal bridge broad, wide nasal bridge]
 http://purl.obolibrary.org/obo/HP_0009803: [shortened phalanges, phalangeal hypoplasia,
   rudimentary phalanges, short phalanges, hypoplastic/small phalanges of the hand,
   short finger bones, hypoplastic phalanges, hypoplastic phalanges of hands, short phalanx of finger]
-http://purl.obolibrary.org/obo/HP_0008819: [narrow neck of thigh bone, narrow femoral neck]
+http://purl.obolibrary.org/obo/HP_0012480: [abnormality of cerebral veins]
+http://purl.obolibrary.org/obo/HP_0030686: [increased adiponectin level]
+http://purl.obolibrary.org/obo/HP_0003538: [increased serum iduronate sulfatase activity]
+http://purl.obolibrary.org/obo/HP_0010053: [abnormality of the outermost bone of the big toe,
+  abnormality of the distal phalanx of the hallux]
+http://purl.obolibrary.org/obo/HP_0032310: [granulocytosis]
+http://purl.obolibrary.org/obo/HP_0011415: [calcified placenta]
+http://purl.obolibrary.org/obo/HP_0410366: [increased globoside gb4 concentration,
+  increased globoside gb4 level]
+http://purl.obolibrary.org/obo/HP_0011585: [thoracic ectopia cordis]
+http://purl.obolibrary.org/obo/HP_0031969: [reduced bun, reduced blood urea nitrogen]
+http://purl.obolibrary.org/obo/HP_0031154: [beaded vitreous appearance]
+http://purl.obolibrary.org/obo/HP_0031879: [abnormal eyelid physiology]
+http://purl.obolibrary.org/obo/HP_0010730: [duplication of eyebrow, double eyebrow]
+http://purl.obolibrary.org/obo/HP_0002608: [celiac sprue, celiac disease]
+http://purl.obolibrary.org/obo/HP_0010221: [pseudoepiphysis of the 2nd metacarpal]
+http://purl.obolibrary.org/obo/HP_0040121: [abnormal auditory reflex, abnormal middle-ear-muscles (mem) reflex,
+  abnormality of stapedial reflex, abnormality of the acoustic reflex]
+http://purl.obolibrary.org/obo/HP_0002206: [pulmonary fibrosis]
+http://purl.obolibrary.org/obo/HP_0006573: [acute fatty liver, acute hepatic steatosis]
+http://purl.obolibrary.org/obo/HP_0009912: [abnormality of the tragus]
+http://purl.obolibrary.org/obo/HP_0100937: [increased bone density in the middle bone of the 4th toe,
+  sclerosis of the middle phalanx of the 4th toe]
+http://purl.obolibrary.org/obo/HP_0008078: [thin metatarsal cortices]
+http://purl.obolibrary.org/obo/HP_0010994: [abnormality of the striate nucleus, abnormality of the neostriatum,
+  abnormality of the striatum, abnormal corpus striatum morphology]
+http://purl.obolibrary.org/obo/HP_0010062: [osteolytic defects of the phalanges of the hallux]
+http://purl.obolibrary.org/obo/HP_0004003: [medially flattened radial epiphyses]
+http://purl.obolibrary.org/obo/HP_0005421: [decreased serum c3, decreased serum complement c3]
+http://purl.obolibrary.org/obo/HP_0011377: [absent vestibule, aplasia of the vestibule]
+http://purl.obolibrary.org/obo/HP_0002486: [delayed relaxation of muscle fibers after contraction,
+  myotonia]
+http://purl.obolibrary.org/obo/HP_0009641: [absent/underdeveloped outermost thumb bone,
+  absent/small outermost thumb bone, aplasia/hypoplasia of the distal phalanx of the thumb]
+http://purl.obolibrary.org/obo/HP_0012137: [abnormal number of granulocyte precursors]
+http://purl.obolibrary.org/obo/HP_0007880: [marginal corneal dystrophy]
+http://purl.obolibrary.org/obo/HP_0010953: [noncommunicating hydrocephalus]
+http://purl.obolibrary.org/obo/HP_0030282: [dorsal rib defect, posterior rib gap]
+http://purl.obolibrary.org/obo/HP_0003277: [constricted iliac wings]
+http://purl.obolibrary.org/obo/HP_0012734: [ketotic low blood sugar, ketotic hypoglycemia]
+http://purl.obolibrary.org/obo/HP_0200107: [shortened inner dynein arms]
+http://purl.obolibrary.org/obo/HP_0031132: [impaired annexin v binding to platelet phosphatidylserine]
+http://purl.obolibrary.org/obo/HP_0025159: [hypo-autofluorescent retinal lesion, hypoautofluorescent retinal lesion]
+http://purl.obolibrary.org/obo/HP_0003071: [flat end part of bone, flat epiphyses,
+  flattened epiphysis]
+http://purl.obolibrary.org/obo/HP_0010825: [abnormality of cranial nerve xi, abnormality of the accessory nerve,
+  abnormality of the eleventh cranial nerve]
+http://purl.obolibrary.org/obo/HP_0008589: [underdeveloped helices, hypoplastic helices]
+http://purl.obolibrary.org/obo/HP_0007675: [progressive night blindness]
+http://purl.obolibrary.org/obo/HP_0040170: [abnormality of hair growth]
+http://purl.obolibrary.org/obo/HP_0100036: [looser zones, pseudo-fractures]
+http://purl.obolibrary.org/obo/HP_0100765: [abnormality of the tonsils]
+http://purl.obolibrary.org/obo/HP_0008250: [infantile hypercalcemia]
+http://purl.obolibrary.org/obo/HP_0012885: [accessory fallopian tube, fallopian tube duplication]
+http://purl.obolibrary.org/obo/HP_0030212: [compulsive hoarding, collectionism]
+http://purl.obolibrary.org/obo/HP_0011393: [absent the eighth cranial nerve, absent cranial nerve viii,
+  absent vestribular nerve, aplasia of the eighth cranial nerve, aplasia of the vestibular nerve.]
+http://purl.obolibrary.org/obo/HP_0010877: [unilateral strabismus, monocular strabismus]
+http://purl.obolibrary.org/obo/HP_0100786: [excessive sleepiness, hypersomnia]
+http://purl.obolibrary.org/obo/HP_0011947: [respiratory infection, respiratory tract infection]
+http://purl.obolibrary.org/obo/HP_0007352: [cerebellar calcifications]
+http://purl.obolibrary.org/obo/HP_0001469: [abnormality of the musculature of the pelvis]
+http://purl.obolibrary.org/obo/HP_0004172: [abnormal middle finger bone of the middle finger,
+  abnormality of the middle phalanx of the 3rd finger]
+http://purl.obolibrary.org/obo/HP_0009299: [absent/small middle ring finger bone,
+  absent/underdeveloped middle ring finger bone, aplasia/hypoplasia of the middle phalanx of the 4th finger]
+http://purl.obolibrary.org/obo/HP_0025125: [white lesion of the oral mucosa]
+http://purl.obolibrary.org/obo/HP_0009283: [abnormal middle bone of ring finger, abnormality of the middle phalanx of the ring finger,
+  abnormality of the middle phalanx of the 4th finger]
+http://purl.obolibrary.org/obo/HP_0004272: [cortical thinning of hand bones]
+http://purl.obolibrary.org/obo/HP_0009200: [pseudoepiphysis of the proximal phalanx of the 5th finger]
+http://purl.obolibrary.org/obo/HP_0010936: [abnormality of the lower urinary tract]
+http://purl.obolibrary.org/obo/HP_0032421: [decreased hdl2a concentration]
+http://purl.obolibrary.org/obo/HP_0011113: [abnormality of cytokine secretion]
+http://purl.obolibrary.org/obo/HP_0008277: [abnormality of zinc homeostasis, abnormal blood zinc concentration]
+http://purl.obolibrary.org/obo/HP_0002744: [bilateral cleft lip and cleft palate,
+  right and left cleft lip and palate, bilateral cleft lip and palate]
+http://purl.obolibrary.org/obo/HP_0012658: [abnormal brain fdg pet scan, abnormal brain fdg positron emission tomography]
+http://purl.obolibrary.org/obo/HP_0002162: [low hairline at back of neck, low posterior hair line,
+  low posterior hairline]
+http://purl.obolibrary.org/obo/HP_0002832: [calcific stippling]
+http://purl.obolibrary.org/obo/HP_0001540: [gap between large left and right abdominal muscles,
+  diastasis recti]
+http://purl.obolibrary.org/obo/HP_0010337: [absent/underdeveloped 4th toe, absent/small 4th toe,
+  aplasia/hypoplasia of the 4th toe]
+http://purl.obolibrary.org/obo/HP_0005147: [bidirectional ventricular ectopy]
+http://purl.obolibrary.org/obo/HP_0000816: [abnormality of citric acid cycle, abnormality of the tricarboxylic cycle,
+  abnormality of krebs cycle metabolism]
+http://purl.obolibrary.org/obo/HP_0030628: [foveal subretinal hyporeflective spaces on macular oct]
+http://purl.obolibrary.org/obo/HP_0011045: [agenesis of adult maxillary central incisor,
+  failure of development of permanent maxillary central incisor, agenesis of permanent maxillary central incisor]
+http://purl.obolibrary.org/obo/HP_0004276: [exostoses of hand bones]
+http://purl.obolibrary.org/obo/HP_0032392: [nodular subcortical heterotopia in peritrigonal regions]
+http://purl.obolibrary.org/obo/HP_0100025: [overfriendliness]
+http://purl.obolibrary.org/obo/HP_0032472: [abnormal urine urobilinogen level]
+http://purl.obolibrary.org/obo/HP_0025592: [superior oblique palsy, superior oblique muscle weakness]
+http://purl.obolibrary.org/obo/HP_0003273: [flexion contractures of hips, hip flexion contractures,
+  flexion contracture of hips, hip contracture]
+http://purl.obolibrary.org/obo/HP_0100463: [uneven increase in bone density in the middle bone of the little toe,
+  uneven increase in bone density in the middle bone of the pinky toe, uneven increase in bone density in the middle bone of the pinkie toe,
+  patchy sclerosis of the middle phalanx of the 5th toe]
+http://purl.obolibrary.org/obo/HP_0006202: [osteolysis of scaphoids]
+http://purl.obolibrary.org/obo/HP_0008542: [low-frequency hearing loss]
+http://purl.obolibrary.org/obo/HP_0003239: [high urine phosphoethanolamine levels,
+  phosphoethanolaminuria]
+http://purl.obolibrary.org/obo/HP_0032427: [abnormal hdl3c concentration]
+http://purl.obolibrary.org/obo/HP_0100500: [lateral deviation of toes, fibular deviation of toes]
+http://purl.obolibrary.org/obo/HP_0011176: [eeg with constitutional variants]
+http://purl.obolibrary.org/obo/HP_0009242: [osteolytic defects of the distal phalanx of the 5th finger]
+http://purl.obolibrary.org/obo/HP_0012001: [eeg with generalized polyspikes]
+http://purl.obolibrary.org/obo/HP_0200028: [graves dermopathy, pretibial myxedema]
+http://purl.obolibrary.org/obo/HP_0040272: [hyperintensity of mri t2 signal of the spinal cord]
+http://purl.obolibrary.org/obo/HP_0010916: [abnormality of alanine metabolism, abnormal circulating alanine concentration]
+http://purl.obolibrary.org/obo/HP_0031981: [elevated urine glycolate]
+http://purl.obolibrary.org/obo/HP_0031407: [cytokine signaling defect, impaired cytokine signaling]
+http://purl.obolibrary.org/obo/HP_0010704: [webbed thumb and index finger, webbed 1st-2nd finger,
+  1-2 finger syndactyly]
+http://purl.obolibrary.org/obo/HP_0006510: [copd, chronic obstructive pulmonary disease]
+http://purl.obolibrary.org/obo/HP_0030673: [erosive vitreoretinopathy]
+http://purl.obolibrary.org/obo/HP_0040191: [atrophy of the rectus femoris muscles,
+  rectus femoris muscle atrophy]
+http://purl.obolibrary.org/obo/HP_0032015: [dysmetric horizontal saccades]
+http://purl.obolibrary.org/obo/HP_0030748: [germinal matrix hemorrhage, grade i preterm intraventricular hemorrhage]
+http://purl.obolibrary.org/obo/HP_0008984: [decreased size of neck muscle, small neck muscle,
+  underdevelopment of neck muscle, neck muscle hypoplasia]
+http://purl.obolibrary.org/obo/HP_0032088: [aortic smooth muscle cell disorganization]
+http://purl.obolibrary.org/obo/HP_0005825: [mixed sclerosis of humeral metaphyses]
+http://purl.obolibrary.org/obo/HP_0031210: [abnormal circulating hyaluronic acid concentration]
+http://purl.obolibrary.org/obo/HP_0011422: [abnormal blood cl- concentration, abnormal blood cl concentration,
+  abnormality of chloride homeostasis, abnormal blood chloride concentration]
+http://purl.obolibrary.org/obo/HP_0032450: [positive blood arsenic test]
+http://purl.obolibrary.org/obo/HP_0003259: [increased serum creatinine, elevated creatinine,
+  high blood creatinine level, increased creatinine, elevated serum creatinine]
+http://purl.obolibrary.org/obo/HP_0100199: [small end part of the innermost bone of the 4th toe,
+  small epiphysis of the proximal phalanx of the 4th toe]
+http://purl.obolibrary.org/obo/HP_0100177: [small end part of the outermost bone of the 4th toe,
+  small epiphysis of the distal phalanx of the 4th toe]
+http://purl.obolibrary.org/obo/HP_0012534: [dysaesthesia, dysesthesia]
+http://purl.obolibrary.org/obo/HP_0012583: [underdeveloped kidney on one side, small kidney on one side,
+  unilateral renal hypoplasia]
+http://purl.obolibrary.org/obo/HP_0009935: [ageneis of nasal septum, underdevelopment of nasal septum,
+  failure of development of nasal septum, aplasia/hypoplasia of the nasal septum]
+http://purl.obolibrary.org/obo/HP_0010306: [shorter than typical length between neck and abdomen,
+  short thorax]
+http://purl.obolibrary.org/obo/HP_0011234: [absent antihelix]
+http://purl.obolibrary.org/obo/HP_0500254: [abnormal urinary n-hexanoylglycine levels,
+  abnormal urine hexanoylglycine concentration]
+http://purl.obolibrary.org/obo/HP_0031914: [fluctuating]
+http://purl.obolibrary.org/obo/HP_0001067: [neurofibromatosis, neurofibromata, neurofibromas]
+http://purl.obolibrary.org/obo/HP_3000033: [abnormality of nasopharyngeal tonsil,
+  abnormality of adenoids, abnormality of pharyngeal tonsil, abnormality of nasopharyngeal adenoids]
+http://purl.obolibrary.org/obo/HP_0007936: [restrictive ophthalmoplegia, restrictive external ophthalmoplegia]
+http://purl.obolibrary.org/obo/HP_0012619: [multiple pouches in bladder wall, multiple bladder diverticula]
+http://purl.obolibrary.org/obo/HP_0000978: [bruise easily, bruisability, easy bruising,
+  easy bruisability, bruising susceptibility]
+http://purl.obolibrary.org/obo/HP_0009592: [astrocytoma]
+http://purl.obolibrary.org/obo/HP_0006606: [irregular costochondral margins, irregular chondrocostal junctions]
+http://purl.obolibrary.org/obo/HP_0030964: [abnormal aortic physiology]
+http://purl.obolibrary.org/obo/HP_0003149: [high urine uric acid level, hyperuricosuria]
+http://purl.obolibrary.org/obo/HP_0008651: [uric acid urolithiasis independent of gout]
+http://purl.obolibrary.org/obo/HP_0031459: [soft tissue neoplasm]
+http://purl.obolibrary.org/obo/HP_0020104: [unusual protozoan infection]
+http://purl.obolibrary.org/obo/HP_0025265: [toe stiffness, stiff toe]
+http://purl.obolibrary.org/obo/HP_0007266: [dysmyelination of the brain, areas of dysmyelination on mri,
+  cerebral dysmyelination]
+http://purl.obolibrary.org/obo/HP_0006456: [irregular innermost shinbone end part,
+  irregular innermost shankbone end part, irregular proximal tibial epiphyses]
+http://purl.obolibrary.org/obo/HP_0010437: [short innermost 2nd toe bone, hypoplastic/small proximal phalanx of the 2nd toe,
+  short proximal phalanx of the second toe, short proximal phalanx of the 2nd toe]
+http://purl.obolibrary.org/obo/HP_0008216: [dysplastic adrenal glands, adrenal gland dysplasia,
+  adrenal gland dysgenesis]
+http://purl.obolibrary.org/obo/HP_0001241: [fusion of hamate and capitate, fusion of capitate and hamate,
+  fused capitate and hamate, capitate-hamate fusion]
+http://purl.obolibrary.org/obo/HP_0000128: [renal k wasting, renal potassium wasting]
+http://purl.obolibrary.org/obo/HP_0008069: [skin cancer (non-melanoma), tumor of the skin,
+  skin tumors, dermatological tumors, neoplasm of the skin]
+http://purl.obolibrary.org/obo/HP_0030672: [asteroid hyalosis]
+http://purl.obolibrary.org/obo/HP_0007277: [paucity of anterior horn motor neurons]
+http://purl.obolibrary.org/obo/HP_0009967: [complete duplication of the innermost bone of the 3rd finger,
+  complete duplication of the proximal phalanx of the 3rd finger]
+http://purl.obolibrary.org/obo/HP_0030227: [accumulation of muscle fiber myotilin]
+http://purl.obolibrary.org/obo/HP_0002886: [vagal nerve tumors, glomus vagale tumor,
+  vagal paraganglioma]
+http://purl.obolibrary.org/obo/HP_0001257: ['involuntary muscle stiffness, contraction,
+    or spasm', spasticity]
+http://purl.obolibrary.org/obo/HP_0100013: [breast tumor, tumours of the breast, neoplasm of the breast]
+http://purl.obolibrary.org/obo/HP_0012630: [abnormality of the trabecular meshwork,
+  abnormal trabecular meshwork morphology]
+http://purl.obolibrary.org/obo/HP_0100214: [bracket shaped end part of the middle bone of the pinkie toe,
+  bracket shaped end part of the middle bone of the pinky toe, bracket shaped end part of the middle bone of the little toe,
+  bracket epiphysis of the middle phalanx of the 5th toe]
+http://purl.obolibrary.org/obo/HP_0011745: [non-secretory adrenal adenoma, non-secretory adrenocortical adenoma]
+http://purl.obolibrary.org/obo/HP_0031158: [widened atrophic scar]
+http://purl.obolibrary.org/obo/HP_0009580: [absent/small innermost index finger bone,
+  absent/underdeveloped innermost index finger bone, aplasia/hypoplasia of the proximal phalanx of the 2nd finger]
+http://purl.obolibrary.org/obo/HP_0010794: [impaired visuospatial constructive cognition]
+http://purl.obolibrary.org/obo/HP_0011520: [deuteranomoly, green-weak, deuteranomaly]
+http://purl.obolibrary.org/obo/HP_0500089: [optic nerve sheath meningioma]
+http://purl.obolibrary.org/obo/HP_0005201: [anomalous splenoportal venous system]
+http://purl.obolibrary.org/obo/HP_0009402: [speckled calcifications in end part of ring finger bone,
+  stippling of the epiphyses of the 4th finger]
+http://purl.obolibrary.org/obo/HP_0009834: [abnormality of the innermost finger bones of the hand,
+  abnormality of the proximal phalanges of the hand, abnormal proximal phalanx morphology of the hand]
+http://purl.obolibrary.org/obo/HP_0009908: [earlobe crease, transverse earlobe creases,
+  anterior creases of earlobe]
+http://purl.obolibrary.org/obo/HP_0100067: [bracket shaped end part of 4th toe bone,
+  bracket epiphyses of the 4th toe]
+http://purl.obolibrary.org/obo/HP_0030676: [devil ear, satyr ear]
+http://purl.obolibrary.org/obo/HP_0010024: [stippling of the epiphysis of the 1st metacarpal,
+  speckled calcifications in the end part of the first long bone of hand, epiphyseal stippling of the first metacarpal]
+http://purl.obolibrary.org/obo/HP_0000157: [lingual abnormality, glossal abnormality,
+  abnormal tongue, tongue abnormality, abnormality of the tongue]
+http://purl.obolibrary.org/obo/HP_0100840: [missing eyebrow, hypotrophic eyebrow,
+  agenesis of eyebrow, absence of eyebrow, lack of eyebrow, aplasia/hypoplasia of the eyebrow]
+http://purl.obolibrary.org/obo/HP_0100035: [vocal tics, verbal tics, phonic tics]
+http://purl.obolibrary.org/obo/HP_0032378: [immediate-type hypersensitivity drug reaction]
+http://purl.obolibrary.org/obo/HP_0011267: [abnormal shape/structure of ear, third-degree microtia,
+  'microtia, third degree']
+http://purl.obolibrary.org/obo/HP_0006638: [missing middle part of collarbone, midclavicular aplasia]
+http://purl.obolibrary.org/obo/HP_0011780: [thyroid hemiagenesis]
+http://purl.obolibrary.org/obo/HP_0100129: [pseudoepiphysis of the proximal phalanx of the 2nd toe]
+http://purl.obolibrary.org/obo/HP_0100135: [absent end part of the outermost bone of the 3rd toe,
+  absent epiphysis of the distal phalanx of the 3rd toe]
+http://purl.obolibrary.org/obo/HP_0009900: ['deafness, unilateral', deafness in one ear,
+  unilateral deafness]
+http://purl.obolibrary.org/obo/HP_0007165: [subependymal neuronal heterotopia, subependymal gray matter heterotopia,
+  periventricular gray matter heterotopia, periventricular neuronal heterotopia, periventricular heterotopia]
+http://purl.obolibrary.org/obo/HP_0005466: [decreased size of bone of forehead, hypoplastic frontal bones,
+  underdevelopment of bone of forehead, small bone of forehead, hypoplasia of the frontal bone]
+http://purl.obolibrary.org/obo/HP_0012842: [skin adnexal tumor, skin adnexal neoplasm,
+  skin appendage neoplasm]
 http://purl.obolibrary.org/obo/HP_0010357: [abnormality of the middle bone of the 2nd toe,
   abnormality of the middle phalanx of the 2nd toe]
-http://purl.obolibrary.org/obo/HP_0007450: [increased groin pigmentation with raindrop depigmentation]
-http://purl.obolibrary.org/obo/HP_0011171: [simple fever fit, simple febrile convulsion,
-  simple febrile seizures]
-http://purl.obolibrary.org/obo/HP_0031123: [recurrent gastroenteritis]
-http://purl.obolibrary.org/obo/HP_0040061: [osteosclerosis of the radius]
-http://purl.obolibrary.org/obo/HP_0007535: [hypopigmented streaks]
-http://purl.obolibrary.org/obo/HP_0008830: [hypoplastic pubic rami]
-http://purl.obolibrary.org/obo/HP_0002961: [dysgammaglobulinemia]
-http://purl.obolibrary.org/obo/HP_0100113: [cone-shaped end part of the middle bone of the 2nd toe,
-  cone-shaped epiphysis of the middle phalanx of the 2nd toe]
-http://purl.obolibrary.org/obo/HP_0011523: [iris cyst]
-http://purl.obolibrary.org/obo/HP_0410242: [abnormal igg level]
-http://purl.obolibrary.org/obo/HP_0006579: [prolonged yellowing of skin in newborn,
-  neonatal jaundice, prolonged neonatal jaundice]
-http://purl.obolibrary.org/obo/HP_0031640: [abnormal radial artery morphology]
-http://purl.obolibrary.org/obo/HP_0009994: [partial duplication of outermost little finger bone,
-  bifid terminal phalanx of the 5th finger, partial duplication of outermost pinkie finger bone,
-  notched outermost pinky finger bone, partial duplication of outermost pinky finger bone,
-  partial duplication of the distal phalanx of the 5th finger]
-http://purl.obolibrary.org/obo/HP_0006904: [late-onset spinocerebellar degeneration]
-http://purl.obolibrary.org/obo/HP_0009964: [duplication of the proximal bone of the middle finger,
-  duplication of the proximal phalanx of the 3rd finger]
-http://purl.obolibrary.org/obo/HP_0100115: [fragmentation of the end part of the middle bone of the 2nd toe,
-  fragmentation of the epiphysis of the middle phalanx of the 2nd toe]
-http://purl.obolibrary.org/obo/HP_0007436: [hair-nail ectodermal dysplasia]
-http://purl.obolibrary.org/obo/HP_0012724: [swelling of upper eyelid, cellulitis of upper eyelid,
-  puffiness of upper eyelid, fullness of upper eyelid, upper eyelid edema]
-http://purl.obolibrary.org/obo/HP_0030671: [abnormality of the common tendinous ring,
-  abnormal common tendinous ring morphology]
-http://purl.obolibrary.org/obo/HP_0040331: [focal hypointensity of cerebral white matter on mri]
-http://purl.obolibrary.org/obo/HP_0031132: [impaired annexin v binding to platelet phosphatidylserine]
-http://purl.obolibrary.org/obo/HP_0001983: [reduced lymphocyte surface expression of sialophorin,
-  cd43 defectively expressed on surface of blood cells, reduced lymphocyte surface expression of cd43]
-http://purl.obolibrary.org/obo/HP_0010576: [cerebral cystic malformation, intracranial cystic lesion]
-http://purl.obolibrary.org/obo/HP_0030583: [pinhole visual acuity 3.0 logmar]
-http://purl.obolibrary.org/obo/HP_0030134: [total absence von willebrand factor multimers]
-http://purl.obolibrary.org/obo/HP_0100226: [cone-shaped end part of the innermost bone of the pinky toe,
-  cone-shaped end part of the innermost bone of the little toe, cone-shaped end part of the innermost bone of the pinkie toe,
-  cone-shaped epiphysis of the proximal phalanx of the 5th toe]
-http://purl.obolibrary.org/obo/HP_0000484: [hyperopic astigmatism]
-http://purl.obolibrary.org/obo/HP_0500226: [abnormal serine levels in cerebrospinal fluid,
-  abnormal csf serine concentration]
-http://purl.obolibrary.org/obo/HP_0009798: [euthyroid goiter]
-http://purl.obolibrary.org/obo/HP_0002315: [headache]
-http://purl.obolibrary.org/obo/HP_0006895: [lower limb hypertonia]
-http://purl.obolibrary.org/obo/HP_0008625: [severe sensorineural hearing loss, severe sensorineural deafness,
-  severe sensorineural hearing impairment]
-http://purl.obolibrary.org/obo/HP_0009375: [bullet-shaped pinky finger bones, bullet-shaped pinkie finger bones,
-  bullet-shaped little finger bones, bullet-shaped phalanges of the 5th finger]
-http://purl.obolibrary.org/obo/HP_0030380: [decreased proportion of cd19+cd38+igm+ cells,
-  decreased proportion of transitional b cells]
-http://purl.obolibrary.org/obo/HP_0001067: [neurofibromatosis, neurofibromata, neurofibromas]
-http://purl.obolibrary.org/obo/HP_0003142: [excessive purine production]
+http://purl.obolibrary.org/obo/HP_0032345: [elevated cancer ag 19-9 level]
+http://purl.obolibrary.org/obo/HP_0004629: [small cervical vertebrae, small cervical vertebral bodies]
+http://purl.obolibrary.org/obo/HP_0100019: [cortical cataract]
+http://purl.obolibrary.org/obo/HP_0100386: [absent innermost bone of the little toe,
+  absent innermost bone of the pinkie toe, absent innermost bone of the pinky toe,
+  aplasia of the proximal phalanx of the 5th toe]
+http://purl.obolibrary.org/obo/HP_0100482: [fused innermost and middle little toe bones,
+  fused innermost and middle pinky toe bones, fused innermost and middle pinkie toe bones,
+  symphalangism of the middle and proximal phalanges of the 5th toe, proximal/middle symphalangism of 5th toe]
+http://purl.obolibrary.org/obo/HP_0003296: [high urine threonine levels, hyperthreoninuria]
+http://purl.obolibrary.org/obo/HP_0032174: [tree-in-bud pattern]
+http://purl.obolibrary.org/obo/HP_0410263: [abnormal brain imaging, brain imaging abnormality]
+http://purl.obolibrary.org/obo/HP_0007325: [generalized dystonia]
+http://purl.obolibrary.org/obo/HP_0012362: [abnormal sialylation of o-linked protein glycosylation]
+http://purl.obolibrary.org/obo/HP_0004885: ['respiratory distress, episodic', episodic difficulty breathing,
+  episodic respiratory distress]
+http://purl.obolibrary.org/obo/HP_0009980: [complete duplication of the proximal bone of the ring finger,
+  complete duplication of the proximal phalanx of the 4th finger]
+http://purl.obolibrary.org/obo/HP_0003752: [episodic flaccid weakness]
+http://purl.obolibrary.org/obo/HP_0012165: [oligodactyly]
+http://purl.obolibrary.org/obo/HP_0005528: [hypoplastic bone marrow, bone marrow failure,
+  bone marrow hypoplasia, bone marrow hypocellularity]
+http://purl.obolibrary.org/obo/HP_0005682: [fusion of the subtalar joint, fusion of foot joint,
+  talocalcaneal synostosis]

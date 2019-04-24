@@ -6,7 +6,6 @@ import org.yaml.snakeyaml.Yaml
 import groovy.transform.Field
 import groovy.util.XmlSlurper
 
-def medline = new HTTPBuilder('https://eutils.ncbi.nlm.nih.gov/')
 
 def allSyns = new Yaml().load(new File("all_syns.yaml").text).collect { k, v -> [ term: k, vals: v ] }
 def hpSyns = new Yaml().load(new File("hp_syns.yaml").text).collect { k, v -> [ term: k, vals: v ] }
@@ -20,6 +19,9 @@ def getMedlineCount(medline, terms, cb) {
   }
 }
 
+allSyns = allSyns.subList(0, 250)
+hpSyns = hpSyns.subList(0, 250)
+
 def allCount = 0
 allSyns.each { allCount += it.vals.size() }
 
@@ -29,21 +31,25 @@ hpSyns.each { hpCount += it.vals.size() }
 println 'All synonyms: ' + allCount
 println 'HP synonyms: ' + hpCount
 
-def doTheThing(i, collexion, medline, syns) {
+def doTheThing(i, collexion, syns) {
+    def medline = new HTTPBuilder('https://eutils.ncbi.nlm.nih.gov/')
   getMedlineCount(medline, syns[i].vals, {
     collexion[syns[i].term] = it.toInteger()
 
     println i + ': ' + it
 
-    sleep(1500)
-    if(i < syns.size()-1) { doTheThing(i+1, collexion, medline, syns) }
+    sleep(1200)
+    if(i < syns.size()-1) { doTheThing(i+1, collexion, syns) }
     collexion
   })
   collexion
 }
 
-def allCounts = doTheThing(0, [:], medline, allSyns)
-def hpCounts = doTheThing(0, [:], medline, hpSyns)
+def allCounts = doTheThing(0, [:], allSyns)
+new Yaml().dump(allCounts, new FileWriter("all_counts.yaml"))
+
+def hpCounts = doTheThing(0, [:], hpSyns)
+new Yaml().dump(hpCounts, new FileWriter("hp_counts.yaml"))
 
 def allQueryCount = 0
 allCounts.each { k, v -> allQueryCount += v }
