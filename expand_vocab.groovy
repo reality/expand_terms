@@ -10,7 +10,7 @@ import java.util.concurrent.atomic.*
 import groovyx.gpars.GParsPool
 
 def profile = new Yaml().load(new File("${args[0]}").text)
-@Field def BANNED_ONTOLOGIES = [ 'PhenomeNET', 'GO-PLUS', 'MONDO', 'CCONT', 'jp/bio', 'phenX', 'ontoparonmed' ]
+@Field def BANNED_ONTOLOGIES = [ 'GO-PLUS', 'MONDO', 'CCONT', 'jp/bio', 'phenX', 'ontoparonmed' ]
 @Field def BANNED_SYNONYMS = [
                     "europe pmc",
                     "kegg compound",
@@ -106,7 +106,7 @@ def finalTerms = terms.collectEntries { term, cls ->
               it.toLowerCase()// + " (${c})" //DEBUG
             } 
           }.flatten().unique(false).findAll { 
-            it.indexOf(term) == -1 && it.indexOf(':') == -1 && it.indexOf('_') == -1 && !BANNED_SYNONYMS.any{ s -> it.indexOf(s) != -1 }
+            it.indexOf(term) == -1 && it.replaceAll("\\P{InBasic_Latin}", "").size() > 2 && it.indexOf(':') == -1 && it.indexOf('_') == -1 && !BANNED_SYNONYMS.any{ s -> it.indexOf(s) != -1 }
           }
   ]
 }

@@ -1,176 +1,308 @@
-hypovolemia: [volume blood decreased, oligemia, volume plasma decreased, hypovolaemia,
-  hypovolémie, déplétion volumique, déplétion du volume du liquide organique, déplétion du volume du plasma ou du liquide extracellulaire,
-  depleted blood volume, decreased plasma volume]
-uterine arteriovenous malformation: []
-abnormal spleen morphology: [spleen abnormalities, abnormal splenic morphology, spleen dysplasia,
-  abnormal spleen structure]
-intestinal lymphangiectasia: [lymphangiectasie intestinale, linfangiectasia intestinal,
-  intestinale lymfangiëctasie, 'lymphangiektasie, intestinale']
-decreased heart rate variability: [decreased respiratory sinus arrhythmia, reduced heart rate variability]
-abnormal heart valve physiology: [abnormal cardiac valve physiology]
-nephrosclerosis: [nephropathy hypertensive, renal sclerosis, 'renal sclerosis, unspecified',
-  thickening of kidney artiries, scarring of kidney arteries, néphroangiosclérose,
-  néphrite artérioscléreuse interstitielle, néphrosclérose, artériosclérose rénale,
-  artériosclérose du rein, néphrite artérioscléreuse chronique]
-pr segment depression: [pta depression, pr interval depression, pr depression]
-adenoiditis: []
-prolonged pr interval: [prolonged pr-interval, electrocardiographic long pr interval,
-  lengthened pr interval on ekg, av block first degree by ecg finding, 1st degree av block,
-  av block first degree, first degree av block, first degree atrioventricular block,
-  pr prolongation, av block first degree by ekg finding, prolonged av conduction]
-purpura: [purpurique, red or purple spots on the skin, blood spots, purpuric disorder,
-  petechiae, ecchymoses, petechies, petechies buccales, meurtrissures ecchymotiques,
-  eruption petechique, peliosis, péliose]
-supraventricular arrhythmia: [arythmie supraventriculaire, arythmies supraventriculaires,
-  'arrhythmias, supraventricular']
-atrial fibrillation: [af, afib, fibrillation paroxysmal atrial, fibrillation atrial,
-  auricular fibrillation, 'fibrillations, atrial', 'fibrillation, auricular', 'fibrillations,
-    auricular', 'fibrillation, atrial', auricular fibrillations, a-fib, quivering upper heart chambers resulting in irregular heartbeat,
-  fibrillation auriculaire, atrium; fibrillation, a fib, fibrillation atriale, fibrillation; atrial or auricular]
-renovascular hypertension: ['hypertension, renovascular', hypertension due to renal artery hyperplasia]
-bacterial endocarditis: ['endocarditis, bacterial', 'endocarditis, infective nos',
-  rheumatic endocarditis, infective endocarditis]
-truncus arteriosus: [common arterial trunk, tac, common aorticopulmonary trunk, tronc artériel commun,
-  tronco arterioso, tronco aórtico-pulmonar común, tronco arterial común, gemeenschappelijke aortico-pulmonale stam,
-  gemeenschappelijke arteriële stam, malformação do tronco arterial, tronco arterioso comune,
-  common aortico-pulmonary trunk, persistent truncus arteriosis, single outflow tract,
-  pta, truncus arteriosis]
-right ventricular failure: ['failure, right ventricular', 'ventricular failure, right',
-  right-sided heart failure, right ventricular impairment, impaired right ventricular function,
-  'heart failure, right-sided', défaillance cardiaque droite, insuffisance cardiaque droite,
-  right heart failure, cardiac failure right, rvf, défaillance du coeur droit, right-sided heart failure syndrome]
-abnormal superior vena cava morphology: [abnormal precava morphology, abnormal superior caval vein morphology,
-  abnormal svc morphology]
-abnormal coronary artery morphology: [congenital coronary anomaly, coronary arterial dysplasia]
-left ventricular noncompaction: [noncompaction cardiomyopathy, left ventricular hypertrabeculation,
-  lvnc, spongy myocardium, linksventrikuläre noncompaction-kardiomyopathie, 'hypertrabekulierung,
-    linksventrikuläre', 'myokard, spongiöses', non-compaction van het linkerventrikel,
-  sponsachtig myocardium, linkerventrikelhypertrabeculatie, non-compaction ventriculaire gauche,
-  myocarde spongieux, hypertrabéculation ventriculaire gauche, ncvg, no compactación del ventrículo izquierdo,
-  hipertrabeculación del ventrículo izquierdo, miocardio esponjoso]
-abnormal carotid artery morphology: [abnormality of the carotid arteries]
-aortic valve prolapse: [aortic valvar prolapse]
-absent coronary sinus: [absent coronarius]
-shock: [vascular collapse, collapse vascular, circulatory collapse, collapse peripheral circulatory,
-  collapse cardiovascular, failure circulatory, circulatory failure, collapse circulatory,
-  circulatory failure neonatal, collapse peripheral vascular, cardiovascular collapse,
-  failure peripheral circulatory]
-celiac artery compression: [coeliac trunk compression, truncus coeliacus compression,
-  coeliaco-mesenteric trunk compression, celiac trunk compression, coeliac artery compression]
-right aortic arch: [rechter aortaboog, 'aortenbogen, rechter', arco aórtico derecho,
-  arc aortique droit, right-sided aortic arch, right sided aortic arch]
-wolff-parkinson-white syndrome: [wpw, anomalous atrioventricular excitation, wolff-parkinson-white pattern (finding),
-  anomalous a-v excitation, wolff-parkinson-white pattern, wpws, wpw syndrome, accessory atrioventricular pathways,
-  preexcitation syndrome, syndrome de wolff-parkinson-white, syndrome de pré-excitation avec arythmie,
-  syndrome de pré-excitation arythmogène, wolf parkinson white]
-conjunctivitis: [conjunctival discoloration, chemosis, eye irritation, congestion conjunctival,
-  eye blood shot, irritation eye, eye inflamed, conjunctival discolouration, discharge eye,
-  eye discharge, conjunctival deposit, conjonctivite, pink eye]
-cardiac teratoma: [heart teratoma]
-paroxysmal supraventricular tachycardia: [episodic supraventricular tachycardia, episodic rapid heart beat,
-  psvt]
-mitral valve calcification: [calcified mitral valve, bicuspid valve calcification]
-atrioventricular dissociation: [a-v dissociation]
-lymphadenopathy: [adenopathy, fibrosis lymph node, lymph nodes enlarged, lymphadenitis,
-  glands swollen, adenosis sclerosing, swollen lymph nodes, lymph node hyperplasia,
-  enlarged lymph nodes, increased lymph node size, hyperplastic lymph nodes, increased lymph node cellularity,
-  swollen glands, swollen gland, 'glands, swollen']
-av nodal tachycardia: [atrioventricular nodal tachycardia]
-diffuse alveolar hemorrhage: [hemorragia alveolar difusa, 'hämorrhagie, alveoläre
-    diffuse', emorragia alveolare diffusa, hémorragie alvéolaire diffuse, diffuse alveolar haemorrhage,
-  diffuse alveolaire hemorragie]
-cardiac hemangioma: [heart hemangioma]
-dextrocardia: [heart predominantly in right hemithorax, dextrokardie, dextrocardie,
-  thoracic situs inversus, dextroversion du coeur, heart tip and four chambers point towards right side of body]
-choroid plexus papilloma: [papilloma of the choroid plexus, pediatric papilloma of choroid plexus,
-  'papilloma, choroid plexus, benign', papilloma of choroid plexus]
-retinal vasculitis: []
-abnormal atrioventricular valve morphology: [atrioventricular valve dysplasia, abnormal atrioventricular valves morphology,
-  abnormality of the atrioventricular valves]
-physical urticaria: [inducible urticaria]
-hypokinesia: [responses voluntary reduced, motor activity retarded, activity motor retarded,
-  hypoactivity, movements reduced, decreased spontaneous movement, decreased spontaneous movements,
-  decreased muscle movement, hypocinésie, diminution de l'activité motrice, underactivity,
-  hypocinétique, hypoactive, decreased activity, hypoactif, reduced activity, behav shows reduced mot activ,
-  hypokinesis, behavior showing reduced motor activity, activité motrice ralentie,
-  activité motrice diminuée, diminution de l'activité, hypoactivité, diminution de la motrice,
-  retard d'activite motrice, hypokinesie, hypokinetic, hypoactivite motrice, hypoactif/ve,
-  sous-activité, lack of physical activity, 'decreased motor activity,']
-prolonged qt interval: [long qt syndrome, prolong qt interval on ekg, increased qt interval,
-  widened qt interval, prolonged qt, qt prolongation]
-retinal cavernous hemangioma: [retinal capillary malformation, retinale kapilläre fehlbildung,
-  retinale capillaire malformatie, malformation capillaire de la rétine, malformación capilar de la retina,
-  retinal cavernous haemangioma, hemangioma cavernoso retiniano, hemangioma cavernoso da retina,
-  emangioma retinico cavernoso, 'hämangiom, kavernöses retinales', hémangiome caverneux de la rétine,
-  cavernous angioma of the retina, retinal cavernous angioma, retina cavernous angioma,
-  cavernous hemangioma of the retina, cavernous angioma of retina, retina cavernous hemangioma,
-  cavernous hemangioma of retina]
-fasciculations: [fasciculation, muscle twitch, muscle fasciculation, muscle twitches,
-  muscular fasciculation, 'fasciculation, neural', flickering muscles, contractions fasciculaires,
-  muscle twitching, writhing muscles, fluttering muscles, spontaneous contraction of muscle,
-  fasciculation musculaire]
-gastric ulcer: [ulcère gastrique, stomach ulcer]
-optic nerve tram-track sign: [perineural enhancement of the optic nerve]
-coarctation of aorta: [aortic coarctation, coarctation de l'aorte, narrowing of the aorta,
-  coarctation of the aorta, narrowing of aorta, aortic valve stenosis, valvular aortic stenosis,
-  aortic stenosis, narrowing of aortic valve, aorta coarctation, aorta stenosis, aortic valvar stenosis]
-mediastinal teratoma: [teratoma of the mediastinum, thymic teratoma, teratoma of mediastinum]
-lymphedema: [lymphoedema, lymphatic edema (morphologic abnormality), lymphoedema nos,
-  lymphatic edema, linfedema, lymphödem, lymphoedème, lymfoedeem, lymphatic obstruction,
-  swelling caused by excess lymph fluid under skin]
+venous thromboembolism: []
 hypertension: [high blood pressure, 'blood pressure, high', 'blood pressure, increased',
   increased blood pressure, vascular hypertensive disorder, htn, 'pressure, high blood',
-  hyperpiesia, high blood pressures, '[x]hypertensive diseases', hypertensive disease nos (disorder),
-  hypertensive disease, '[x]hypertensive diseases (disorder)', 'blood pressures, high',
-  hypertensive disease nos, hypertensive disease (disorder), hipertensão, hipertensão arterial,
-  increased systemic arterial blood pressure, paradoxical pressor response, blood pressure high,
-  blood pressure increased, pressor response paradoxical, crisis hypertensive, pressure blood increased,
-  arterial pressure high, elevation tension arterielle, augmentation tension arterielle,
+  paradoxical pressor response, blood pressure high, blood pressure increased, pressor response paradoxical,
+  crisis hypertensive, pressure blood increased, arterial pressure high, hyperpiesia,
+  hipertensão, hipertensão arterial, high blood pressures, '[x]hypertensive diseases',
+  hypertensive disease nos (disorder), hypertensive disease, '[x]hypertensive diseases
+    (disorder)', 'blood pressures, high', hypertensive disease nos, hypertensive disease (disorder),
+  increased systemic arterial blood pressure, elevation tension arterielle, augmentation tension arterielle,
   pression sanguine augmentee, tension arterielle e]
-bradykinesia: [hypokinesia, reduced spontaneous movement, bradycinesia, slowness of movements,
-  slow movements, decreased spontaneous movement, decreased spontaneous movements,
-  decreased muscle movement, musculoskeletal movement decreased rate, bradycinésie,
-  lenteur anormale des mouvements volontaires, slow physical movement, bradykinesis,
-  bradykinesie]
-cerulean cataract: [blue-dot cataract, 'katarakt, zölinblaue', cataracta coerulea,
-  blauwe grijze staar, cataracta caerulea, catarata cerúlea, cataracte céruléenne,
-  cataracte de vogt, 'cataracts, congenital, cerulean']
-congenitally corrected transposition of the great arteries: [trasposizione congenitamente corretta delle grandi arterie,
-  'transposição das grandes artérias, corrigida congenitamente', transposition congénitalement corrigée des gros vaisseaux,
-  kongenital korrigierte transposition der großen arterien, transposición congénitamente corregida de las grandes arterias,
-  double discordance, levo-transposición de las grandes arterias, inversión ventricular,
-  levo-transposition of the great arteries, inversione ventricolare, l-transposition des gros vaisseaux,
-  kongenital korrigierte transposition der großen gefäße, doppelte diskordanz, doble discordancia,
-  trasposizione congenitamente corretta dei grandi vasi, l-transposición de las grandes arterias,
-  discordances ventriculo-artérielle et atrio-ventriculaire, l-transposition of the great arteries,
-  discordancia de la conexión atrioventricular y ventriculoarterial, levo-transposition des gros vaisseaux,
-  ventrikelinversion, congenitally corrected transposition of the great vessels, discordant ventriculoarterial and atrioventricular connections,
-  transposición congénitamente corregida de los grandes vasos, levo-trasposizione delle grandi arterie,
-  inversion ventriculaire, doppia discordanza, connessioni ventricoloarteriose e atrioventricolari discordanti,
-  ventricular inversion, transposition congénitalement corrigée des grosses artères,
-  ventriculoarterial and atrioventricular discordance, l-transposition der großen arterien,
-  discordanza ventricoloarteriosa e atrioventricolare, l-trasposizione delle grandi arterie,
-  atrioventrikuläre und ventrikuloarterielle diskordanz, discordancia ventriculoarterial y atrioventricular,
-  congenitaal gecorrigeerde transpositie van de grote slagaders, dubbele afwijking,
-  afwijkende ventriculoarteriële en atrioventriculaire verbindingen, l-transpositie van de grote slagaders,
-  ventriculoarteriële en atrioventriculaire afwijking, congenitale gecorrigeerde transpositie van de grote bloedvaten,
-  levo-transpositie van de grote slagaders, ventriculaire inversie, lévotransposition des gros vaisseaux]
-cardiac rhabdomyoma: [rhabdomyoma of heart, heart rhabdomyoma, rhabdomyoma of the heart]
-ectopic posterior pituitary: [ectopic neurohypophysis, ectopic pituitary posterior lobe,
-  ectopic neurophysis]
-syncope: [black-out (not amnesia), passed out, collapse transient, falling out, collapse fleeting,
-  vasovagal reaction, loss of consiousness, swooning, blackout spell, vasomotor collapse,
-  vagal reaction, collapse vasomotor, consciousness loss of, faint, fainting, loss of consciousness due to insuffiecient blood flow to the brain,
-  collapsus transitoire, deces, evanouissement, etat syncopal, reaction vagale vasculaire,
-  inconsc transit (pas d'amnesie), lipothymie, fainting spell, general; collapse,
-  tendance lipothymique, chutes fréquentes, collapse, loss of consciousness; attack,
-  evanouissements, death, évanoui, fainting episodes, faintness, fainting attacks,
-  unconsciousness; attack, syncopal attack, a faint, collapsus passager, pâmoison,
-  perte de connaissance, décès, fit; fainting, ivre mort]
-atrial flutter: ['flutter, auricular', 'flutter, atrial', 'flutters, atrial', 'flutters,
-    auricular', auricular flutters, auricular flutter, flutter atrial, flutter auriculaire,
-  flutter]
-pulmonary artery sling: [pulmonary arterial sling]
-abnormal vertebral artery morphology: [abnormality of the vertebral artery]
-descending thoracic aorta aneurysm: [dilatation of the descending thoracic aorta]
-pulmonary artery aneurysm: [pulmonary arterial aneurysm]
+renal colic: []
+heart disease: [doença cardíaca, cardiopathy, cardiopatia, cardiac disease, 'disease,
+    heart', 'diseases, heart', cardiac dis, heart dis, cardiac diseases, 'diseases,
+    cardiac', 'disease, cardiac']
+multiple myeloma: [myeloma, plasma cell myeloma, myelomatosis, mult myelm w/o remission,
+  骨髓瘤(myeloma)，nos, 骨髓瘤(myelomatosis), 浆细胞骨髓瘤(plasmacytic myeloma), kahler's disease,
+  '[m]plasma cell myeloma', 'myeloma, nos', 多发性骨髓瘤，无icd-o亚型, plasmacytic myeloma,
+  多发性骨髓瘤，无icd-o亚型（形态异常）, '[m]浆细胞骨髓瘤', 'disease, kahler', 'myeloma, multiple', 'myeloma,
+    plasma cell', 'myelomas, multiple', mult mye w/o achv rmson, 'myeloma, plasma-cell',
+  plasma-cell myelomas, myeloma-multiples, 'cell myelomas, plasma', myelomatoses,
+  myeloma multiple, 'myelomas, plasma cell', plasma cell myelomas, myeloma-multiple,
+  'myelomas, plasma-cell', plasma-cell myeloma, 'cell myeloma, plasma', kahler disease,
+  medullary plasmacytoma, 'myelom, multiples', kahler-krankheit, 'plasmozytom, medulläres',
+  myelomatose, plasmazellmyelom, meervoudig myeloom, plasmacelmyeloom, plasmacellenmyeloom,
+  medullair plasmacytoom, ziekte van kahler, multipel myeloom, myélome multiple, myélome à plasmocytes,
+  myélomatose, plasmacytome médullaire, maladie de kahler, mieloma múltiple, mielomatosis,
+  plasmocitoma medular, mieloma de células plasmáticas, enfermedad de kahler]
+atrial fibrillation: [afib, fibrillation paroxysmal atrial, fibrillation atrial, auricular fibrillation,
+  'fibrillations, atrial', 'fibrillation, auricular', 'fibrillations, auricular',
+  'fibrillation, atrial', auricular fibrillations, a-fib, quivering upper heart chambers resulting in irregular heartbeat,
+  fibrillation auriculaire, atrium; fibrillation, a fib, fibrillation atriale, fibrillation; atrial or auricular]
+hyperlipidaemia: [hyperlipidemias, hyperlipidemia, hyperlipemia, lipemia, lipaemia,
+  hyperlipaemia, elevated lipids in blood]
+osteoarthritis: [djd, degenerative joint disease, osteoarthrosis, 'arthritis, degenerative',
+  osteoarthroses, 'arthritides, degenerative', degenerative arthritides, osteoarthritides,
+  degenerative arthritis, osteoarthrosis deformans, hypertrophic arthritis, osteoarthrosis and allied disorder,
+  artrosi, arthrose, osteoartrite, artrosis]
+peripheral vascular disease: [peripheral angiopathy, 'angiopathy, peripheral', vascular dis peripheral,
+  peripheral vascular dis, dis peripheral vascular, 'vascular disease, peripheral',
+  'diseases, peripheral vascular', 'disease, peripheral vascular', peripheral angiopathies,
+  'angiopathies, peripheral', 'vascular diseases, peripheral', arterial occlusive disease]
+gout: [podagra, hyperuricemic arthritis, urate crystal arthropathy, urate deposition disease,
+  hyperuricemia, hyperuricaemia, high blood uric acid level, increased blood uric acid level]
+heart failure: [weak heart, cardiac failure, cardiac insufficiency, 'insufficiency,
+    cardiac', 'failure, heart', failure heart, decompensation cardiac, myocardial decompensation,
+  decompensation myocardial, insufficiency cardiac, heart insuffiency, chf, défaillance cardiaque,
+  heart; weakness, insuffisance coronarienne, cardiac function failed, défaillance du coeur,
+  'myocardial failure,', défaillances cardiaques, insuffisance myocardique, insuffisance cardiaque,
+  cardiac function failure, heart insufficiency, 'insuffisance cardiaque, sans précision',
+  decompensation cardiaque, insuffiance cardiaque, défaillance de la fonction cardiaque,
+  fonction cardiaque défaillante, heart weak, cardiac failures]
+myocardial infarction: [heart attack, 'infarction of heart, nos', 'infarction (mi),
+    myocardial', 'infarctions, myocardial', 'infarct, myocardial', myocardial infarcts,
+  'infarcts, myocardial', myocardial infarct, cardiac infarction, 'heart attack, nos',
+  'cardiac infarction, nos', infarction of heart, attack - heart, 'infarction, myocardial',
+  infarctus du myocarde, myocardial necrosis, crise coronaire, infarctus myocardique,
+  attack coronary, idm (infarctus du myocarde), mies, ami, crise cardiaque]
+rheumatoid arthritis: ['arthritis or polyarthritis, rheumatic', atrophic arthritis,
+  ankylosing spondylitis, chronic rheumatic arthritis, rheumatoid disease, rheumatic gout,
+  proliferative arthritis, 'arthritis, rheumatoid', arthritis rheumatoid aggravated,
+  arthritis rheumatoid, rheumatism (joints only), osteoarthrosis deformans, polyarthrire rhumatoïde,
+  polyarthrite chronique évolutive, polyarthrite rhumatismale chronique, arthrite rhumatoïde,
+  goutte asthénique primitive, polyarthrite rhumatoïde, 'arthritis or polyarthritis,
+    atrophic', r arthritis, arthrite rhumatoide, arthrite rhumatoïde systémique, pr (polyarthrite rhumatoïde),
+  rh arthritis, polyarthrite rh, pce (polyarthrite chronique évolutive), 'arthritis,
+    rheumatic', polyarthrite rhumatismale, 'polyarthrite rhumatoïde, sans précision
+    - siège non précisé', 'polyarthrite rhumatoïde, sans précision', arthrite d]
+cardiac pacemaker: [artificial pacemaker, pacemaker, cardiac conduction system, central conduction system,
+  conducting system of heart, cardionector, cardiac impulse conducting system, systema conducente cordis,
+  heart conduction system, cardiac conducting system, impulse conducting system, complexus stimulans cordis]
+psoriasis: [rash psoriaform, pustulosis of palms soles, psoriases, pustulosis of palms and soles,
+  palmoplantaris pustulosis, other and unspecified pityriasis, pustulosis palmaris et plantaris,
+  psorias related dis nec, pityriasis nec & nos, psoriasiform dermatitis]
+sle: [systemic lupus erythematosus ae, systemic lupus erythematosus syndrome ae, systemic lupus erythematosus]
+type 2 diabetes mellitus: [diabetes mellitus tipo 2, niddm, non-insulin-dependent diabetes mellitus,
+  diabetes  tipo 2, type ii diabetes mellitus, type ii diabetes, type 2 diabetes,
+  adult onset diabetes, noninsulin dependent diabetes, non-insulin dependent diabetes mellitus,
+  adult-onset diabetes, non-insulin dependent diabetes, 'diabetes, type 2']
+epilepsy: [epilepsia, epileptic syndrome, generalized seizure (finding), 'epileptic
+    seizures, nos', epilep nec w/o intr epil, generalised fit, epileptic convulsions,
+  generalised convulsion, 'epilectic attack, nos', epileptic fit, epileptic attack,
+  ef - epileptic fit, 'epileptic disorder, nos', 'epileptic convulsions, nos', 'epileptic
+    attack, nos', seizure disorder, generalized fit, generalized seizure, generalised seizure,
+  epileptic, 'epileptic fits, nos', epileptic seizure, epileptic seizure (finding),
+  generalized convulsion, epileptic disorder, epileptic seizures, seizure disorder (disorder),
+  epileptic fits, epilep nos w/o intr epil, lennox gastaut syndrome, lennox syndrome,
+  seizure, gastaut syndrome, unprovoked seizure, épilepsie, seizure syndrome, cerebral; epileptic,
+  epilepsie tous types, 'épilepsie, sans précision', crise épileptique, attaque épileptique,
+  epilepsis, syndrome; epileptic, 'epilectic attack,', seizure dis, clinical epileptic syndromes and seizures,
+  syndrome épileptique, convulsion épileptique, convulsions épileptiques, morbus; caducus,
+  ef  epileptic fit]
+type 1 diabetes mellitus: [diabetes mellitus tipo 1, diabetes tipo 1, insulin-dependent diabetes mellitus,
+  type i diabetes mellitus, iddm, insulin dependent diabetes mellitus, insulin dependent diabetes,
+  immune mediated diabetes, type i diabetes, juvenile diabetes, type 1 diabetes]
+parkinson's disease: [paralysis agitans, parkinson syndrome, parkinson's syndrome,
+  parkinsonian disorder, parkinsons, parkinson disease, idiopathic pd, parkinson's,
+  parkinson dis idiopathic, 'parkinsonism, primary', lewy body parkinson dis, parkinsons dis idiopathic,
+  primary parkinsonism, idiopathic parkinson dis, parkinsons dis lewy body, parkinsons dis,
+  parkinson dis, 'parkinson disease, idiopathic', parkinsons disease, lewy body parkinson disease,
+  idiopathic parkinson disease, idiopathic parkinsons dis]
+hypothyroidism: [thyroid insufficiency, thyroid deficiency, underactive thyroid, thyroxine decreased,
+  thyroid activity decreased, myxedema, myxoedema, low t4, decreased activity of thyroid,
+  reduced activity of thyroid, thyroid agenesis, absent thyroid gland, absence of thyroid gland]
+multiple sclerosis: [ms-like syndrome, sclerosis multiple, syndrome ms-like, ms aggravated,
+  insular sclerosis, disseminated sclerosis, 'sclerosis, multiple', 'sclerosis, disseminated',
+  sclerosi multipla, esclerose múltipla, esclerosis en placas, multiple sklerose,
+  sclérose en plaques, esclerosis múltiple, sep, sclerosis; insular, sclerosis; cerebrospinal,
+  sclérose multiple, sclérose disséminée, sclérose multiloculaire, ds  disseminated sclerosis,
+  sep (sclérose en plaques)]
+osteoporosis: [age-related bone loss, 'osteoporoses, age-related', age-related bone losses,
+  osteoporoses, 'bone loss, age related', 'bone losses, age-related', 'osteoporoses,
+    senile', bone loss age relat, 'bone loss, age-related', senile osteoporoses, age-related osteoporoses,
+  post-traumatic osteoporoses, age related bone loss, bone loss, postmenopausal bone loss,
+  osteop, bone mineral density quantitative trait locus, 'fracture, hip, susceptibility
+    to', bmnd, ostéoporose, 'ostéoporose, sans précision', 'ostéoporose, sans précision
+    - siège non précisé']
+tia: [transient ischemic attack]
+hyperthyroidism: [overactive thyroid, thyrotoxicosis, exophthalmic goitre, crisis thyroid,
+  thyroid storm, thyroid crisis, thyroxine increased, disease graves', thyrotoxicosis aggravated,
+  graves' disease, goiter exophthalmic, increased activity of thyroid]
+crohn's disease: [crohns dis, 'enteritis, regional', crohn's associated gastritis,
+  crohn disease, ileocolitis, 'ileitis, terminal', 'colitis, granulomatous', 'ileitis,
+    regional', crohns disease, 'enteritis, granulomatous', gastritis associated with crohn disease,
+  crohn dis, ileitis (regional), eleocolitis, colitis (granulomatous), enteritis (regional),
+  autoimmune inflammatory bowel disease, ileitis (terminal), granulomatous colitis,
+  regional ileocolitis, regional ileitis, regional enteritis of small intestine with large intestine,
+  regional enteritis of the large bowel, regional colitis, regional enteritis, granulomatous enteritis and colitis,
+  morbus crohn]
+stroke: ['cerebrovascular accident, (cva)', cva, 'cva, cerebrovascular accident',
+  cerebrovascular accident, cerebral infarction, cerebral vascular events, cerebrovascular accidents,
+  acute cerebrovascular accident, brain vascular accident, cva - cerebrovascular accident unspecified,
+  brain vascular accidents, cva (cerebral vascular accident), 'cerebrovascular accident
+    (disorder) [ambiguous]', acute cerebrovascular accidents, cvas (cerebrovascular accident),
+  cerebrovascular apoplexya, cerebrovascular apoplexy, cerebrovascular accident (disorder),
+  apoplexy, cva - cerebrovascular accident, 'apoplexy, cerebrovascular', 'vascular
+    accidents, brain', cva (cerebrovascular accident), 'cerebrovascular accidents,
+    acute', 'vascular accident, brain', 'cerebrovascular accident, acute', cerebral vascular accident,
+  cerebral vascular event, brain attack, cerebral accident]
+gastroesophageal reflux: [gastric reflux, esophageal reflux, reflux, acid reflux,
+  heartburn, gerd, acid reflux disease, ger]
+breast carcinoma: [carcinoma of breast, mammary carcinoma, 乳腺癌(carcinoma of breast),
+  乳腺癌(mammary carcinoma), breast cancer, breast neoplasm malignant female, carcinoma breast,
+  breast neoplasm malignant male, carcinoma of the breast, 乳腺癌nos, carcinoma of breast (disorder),
+  乳腺癌(cancer of the breast), carcinoma of breast nos, 乳腺癌(carcinoma of the breast),
+  ca-乳腺癌, 'cancer, breast', carcinoma of breast nos (disorder), 乳腺癌nos（紊乱）, 乳腺癌(cancer of breast),
+  ca - carcinoma of breast, cancer of the breast, cancer of breast, breast tumors,
+  'tumor, breast', 'neoplasms, human mammary', breast neoplasm, 'mammary carcinoma,
+    human', 'mammary carcinomas, human', 'carcinomas, human mammary', human mammary carcinoma,
+  human mammary neoplasms, human mammary carcinomas, breast neopl, 'tumors, breast',
+  breast neoplasms, 'mammary neoplasms, human', 'carcinoma, human mammary', 'neoplasm,
+    breast', 'mammary neoplasm, human', 'neoplasm, human mammary', breast tumor, neopl breast,
+  'neoplasms, breast', human mammary neoplasm, 'breast cancer, nos']
+ulcerative colitis: [ulceratve colitis unspcf, 'colitis, ulcerative', left-sided ulcerative (chronic) colitis,
+  autoimmune inflammatory bowel disease, ulcerative calcitis, colitis ulcerative aggravated,
+  colitis ulcerative, colitis ulcerosa]
+glaucoma: [intraocular pressure increased, ocular tension increased, hypertension ocular,
+  tension ocular increased, pressure intraocular increased, high intraocular pressure,
+  schlemm's canal occlusion, anterior chamber angle congestion, aqueous vein obstruction,
+  glaucome, 'glaucome, sans précision']
+diverticular disease: []
+depression: [depressed state, anhedonia, dysphoria, suicidal tendency, oppression,
+  depressed reaction, moroseness, melancholia, dejection emotional, dépression, depressed,
+  depressivity, accablement, reaction depressive, etat depressif, low mood, depressive symptoms]
+alcoholic liver disease: []
+bipolar affective disorder: [bipolar disorder]
+colonic carcinoma: []
+schizophrenia: [esquizofrenia, dementia praecox, schizoaffective disorder, schizo nec-chr/exacerb,
+  schizophrenic disorder, schizo nos-chr/exacerb, schizo nos-subchr/exacer, schizo nec-subchr/exacer,
+  schizophrenic disorders (disorder), schizophrenic disorders, 'disorders, schizophrenic',
+  schizophrenic dis, 'disorder, schizophrenic', sczd, 'esquizofrenia, tipos genéticos',
+  'esquizofrenia, formas genéticas', schizophrénie, 'schizophrenie, genetisch bedingte',
+  'schizofrenia, forme genetiche', 'schizophrénie, état', schizophrenie tous types,
+  troubles schizophréniques, démence précoce, 'schizophrénie, sans précision']
+peptic ulcer disease: [acute peptic ulcer without hemorrhage and without perforation,
+  acute peptic ulcer with hemorrhage and perforation, acute peptic ulcer without hemorrhage and without perforation (disorder),
+  acute peptic ulcer with hemorrhage]
+alcohol dependence: ['disorders, alcohol-related', 'disorder, alcohol-related', 'alcoholic
+    intoxication, chronic', 'intoxication, chronic alcoholic', 'abuse, alcohol', alcohol-related disorder,
+  alcoholism, alcohol related disorders, alcoholic intox chronic, alcohol related dis,
+  alcohol-related disorders, alcohol abuse, chronic alcoholic intoxication, dependência do álcool,
+  'dependência do álcoolica, etilismo, alcoolismo', '309.90 [dsm-iv code]', 'f10 [icd-10
+    code]', 'mental and behavioural disorders due to use of alcohol [icd-10]', alcohol addiction,
+  dépendance alcoolique, alcoolisme chronique]
+chronic renal failure: [chronic renal insufficiency, esrd (end stage renal disease),
+  end stage renal failure, end stage renal disease, crf, chronic renal disease, chronic kidney disease,
+  ckd - chronic kidney disease]
+irritable bowel syndrome: ['colon, irritable', 'colitides, mucous', ibs, nervous colitis,
+  irritable bowel - ibs, irritable colon syndrome, functional bowel disease, irritable colon,
+  colon spasm, adaptive colitis, 'syndromes, irritable bowel', spastic colitis, irritable colon (disorder),
+  'colitis, mucous', 'syndrome, irritable bowel', mucous colitis, '[x]psychogenic
+    ibs', membranous colitis, ic - irritable colon, irritable bowel, spastic colon,
+  mucous colitides, psychogenic ibs, ibd, mucus colitis, mucous colon, painful functional bowel disorder,
+  syndrome du côlon irritable, colopathie fonctionnelle, entérite mucomembraneuse,
+  irritable bowel disease (ibd), colite muco-membraneuse, côlon spastique, colon spasmodique,
+  ic  irritable colon, syndrome de l’intestin irritable, colite mucomembraneuse, sci,
+  syndrome de l'intestin irritable, entérite muco-membraneuse, côlon irritable, irritable bowel  ibs,
+  bowel disease irritable, sci (syndrome du côlon irritable), colite glaireuse, colite muqueuse,
+  colite membraneuse, functional bowel syndrome, colite mucoïde, colite spasmodique]
+renal cell carcinoma: [hypernephroma, hypernephroid carcinoma, rcc, adenocarcinoma of kidney,
+  renal carcinoma, 'carcinoma, renal cell', cancer starting in small tubes in kidneys,
+  'adenocarcinoma, renal cell', renal collecting duct carcinoma, 'carcinomas, nephroid',
+  renal cell cancer, 'tumor, grawitz', 'carcinoma, nephroid', renal cell cancers,
+  kidney adenocarcinoma, grawitz tumour, carcinoma of kidney, nephroid carcinoma,
+  hypernephroma (disorder), 'adenocarcinomas, renal cell', nephroid carcinomas, 'cancer,
+    renal cell', 'carcinomas, renal cell', adenocarcinoma of the kidney, hypernephroid carcinomas,
+  'carcinomas, hypernephroid', 'cancers, renal cell', hypernephromas, 'carcinoma,
+    hypernephroid', grawitz tumor, renal cell adenocarcinoma, renal cell adenocarcinomas,
+  'carcinoma, renal cell, malignant', nierenzellkarzinom, niercelcarcinoom, renale celcarcinoom,
+  carcinome rénal, carcinoma de células renales, ccr]
+celiac disease: [gluten enteropathy, celiac sprue, nontropical sprue, idiopathic steatorrhea,
+  sprue, 'enteropathies, gluten-sensitive', coeliac rickets, gluten-sensitive enteropathy,
+  gluten-sensitive enteropathies, 'enteropathies, gluten', idiopathic steatorrhoea,
+  'coeliac disease [ambiguous]', 'sprue, celiac', coeliac syndrome, wheat-sensitive enteropathy,
+  gse - gluten-sensitive enteropathy, non-tropical sprue, gluten sensitive enteropathy,
+  coeliac disease, 'sprue, nontropical', gluten enteropathies, gluten-responsive sprue,
+  'enteropathy, gluten', non tropical sprue, celiac rickets (disorder), cd - coeliac disease,
+  steatorrhoea - idiopathic, coeliac disease nos, celiac rickets, coeliac sprue, cs - coeliac sprue,
+  'disease, celiac', celiac syndrome, gluten-induced enteropathy, gluten-induced enteropathy syndrome,
+  celiac dis, cs - celiac sprue, 'enteropathy, gluten-sensitive', doença celíaca,
+  maladie coeliaque, intolérance au gluten, coeliakie, pathologie coeliaque, sprue non tropicale,
+  sprue coeliaque, stéatorrhée idiopathique, gluten intolerance]
+acute renal failure: [acute kidney injury, acute kidney failure, 'renal insufficiency,
+    acute', acute kidney insufficiency, aki, 'renal failure, acute', acute renal injury,
+  'kidney insufficiency, acute', 'kidney failure, acute', arf, acute renal insufficiency,
+  crush syndrome, tubular necrosis, lower nephron nephrosis, acute tubular necrosis]
+gastric ulcer: [ulcère gastrique, stomach ulcer]
+duodenal ulcer: [stress ulcer, curling ulcer, curling's ulcers, ulcer duodenal]
+iron deficiency anaemia: [iron deficiency anemia, 'anemia, iron-deficiency', ferropenic,
+  iron-deficiency anemia]
+sickle cell disease: [scd, sickle cell anemia, sickling disorder due to hemoglobin s,
+  hemoglobin ss disease]
+asthma: [bronchospasm, spasm bronchial, wheezing expiratory, wheezing, bronchospasm aggravated,
+  hyperreactive airways disease, pneumopathy due to inhalation of other dust nos,
+  'hyperreactivity, bronchial', bronchial hyperresponsiveness, bronchial hyperreactivities,
+  pneumopathy due to inhalation of other dust nos (disorder), hyperreactive airway disease,
+  bronchial hypersensitivity, pneumopathy due to inhalation of other dust (disorder),
+  pneumopathy due to inhalation of other dust, pneumonopathy due to inhalation of other dust,
+  bhr - bronchial hyperreactivity, dust pneumonopathy nec, airway hyperreactivity,
+  bronchial hyperreactivity, 'hyperreactivities, bronchial', asthme, 'asthme, sans
+    précision', asthme bronchitique, asthme bronchique, asthme br.]
+dementia: [deterioration mental (nos), amentias, amentia, cerebral atrophy diffuse,
+  pick's disease, démence, diagnostic de démence, démences, senile psychosis, amentie,
+  diagnostic de la démence, dementing neurological disease or syndrome, 'démence,
+    sans précision']
+copd: [chronic obstructive pulmonary disease]
+hiv: [vih (virus de l'immunodéficience humaine), virus associé à la lymphadénopathie,
+  human immunodeficiency virus, lymphadenopathy-associated virus, acquired immune deficiency syndrome virus,
+  vih, aids virus, virus du syndrome d'immunodéficience acquise, human immunodefic viruses,
+  virus de l'immunodéficience humaine, human t-cell leukemia virus type iii, human t-cell lymphotropic virus type iii,
+  htlv-iii, 'lymphadenopathy-associated virus, type i (lav-i)', virus de la leucémie t humaine de type iii,
+  lav-htlv-iii, acquired immunodeficiency syndrome virus, lav (lymphadenopathy-associated virus),
+  virus t-lymphotrope humain de type iii, virus de la leucémie humaine à cellules t de type iii,
+  human immunodeficiency viruses, lav, htlv wiii, human t-lymphotropic virus type iii,
+  lymphadenopathy-associated virus (lav), virus du sida, 'human t-lymphotropic virus,
+    type iii (htlv-iii)', human lymphotropic virus type iii a t]
+pulmonary embolism: [pulm embolism, 'embolisms, pulmonary', embolisms pulm, embolism pulm,
+  'thromboembolism, pulmonary', pulm thromboembolism, pulmonary thromboembolisms,
+  pulm embolisms, thromboembolisms pulm, 'embolism, pulmonary', pulmonary thromboembolism,
+  pulm thromboembolisms, 'thromboembolisms, pulmonary', pulmonary embolus, pulmonary artery embolism,
+  pulmonary artery thrombosis, pulmonary artery thromboembolism, embolie pulmonaire,
+  migration d'un thrombus intra pulmonaire, blood clot in artery of lung, pulmonary circulation obstruction,
+  pulmonary infarction]
+hepatitis c: [posttransfusion hepatitis, nanbh, hepatitis nona nonb, hcv, hcv infection,
+  'non-a, non-b hepatitis']
+chronic bronchitis: ['bronchitis, chronic']
+obesity: [fat tissue increased, obésité, adiposity, overweight, obese (finding), obese,
+  adiposis, having too much body fat, leanness, obésité exogène, adiposité, adipose,
+  'obésité, sans précision', obésité alimentaire, obésité simple]
+bronchiectasis: [permanent enlargement of the airways of the lungs, bronchiectasia]
+at risk of falls: []
+sleep apnea: [hypersomnia with periodic respiration, 'apnea syndromes, sleep', 'breathing,
+    sleep-disordered', 'apnea, sleep', sleep hypopneas, 'apnea syndrome, sleep', 'apneas,
+    sleep', sleep hypopnea, 'hypopnea, sleep', sleep disordered breathing, 'hypopneas,
+    sleep', sleep-disordered breathing, infantile apnea, sleep apnoea, pauses in breathing while sleeping]
+lung carcinoma: [cancer of lung, 肺癌(cancer of lung), neopl lung, 'neoplasms, pulmonary',
+  pulmonary cancers, 'cancer, lung', 'cancers, pulmonary', pulm neopl, cancer of the lung,
+  'neoplasms, lung', 'neoplasm, pulmonary', lung neoplasm, pulmonary cancer, 'neoplasm,
+    lung', neopl pulm, lung cancers, 'cancers, lung', carcinoma of the lung, 'cancer,
+    pulmonary', pulmonary neoplasms, lung neoplasms, pulmonary neoplasm, carcinoma of lung,
+  lung cancer, lung neopl, 'lung cancer, nos']
+pneumonia: [pneumonitis, alveolitis, pneumonitis (disorder), pneumonie, lung inflammation,
+  pulmonary inflammation, pneumopathie infectieuse, pneumopathie inflammatoire, 'pneumopathie,
+    sans précision', congestion pulmonaire, pneumonite, pneum]
+emphysema: []
+prostate carcinoma: [cancer of prostate, carcinoma of the prostate, prostate cancer,
+  cancer of the prostate, carcinoma of prostate, carcinoma of prostate (disorder),
+  前列腺癌(cancer of prostate), 前列腺癌(carcinoma of prostate), 'prostate cancer, nos']
+bladder carcinoma: [carcinoma bladder, carcinoma urinary bladder, carcinoma of bladder,
+  carcinoma of urinary bladder, carcinoma of bladder (disorder), 膀胱癌(carcinoma of urinary bladder),
+  膀胱癌(carcinoma of bladder), bladder neoplasms, cancer of the bladder, cancer of urinary bladder,
+  cancer of bladder, urinary bladder neoplasms, urinary bladder cancer, 'neoplasms,
+    bladder', carcinoma of the urinary bladder, carcinoma of the bladder, bladder cancer,
+  cancer of the urinary bladder]
+benign prostatic hyperplasia: [bep - benign enlargement of prostate, benign myoma of prostate,
+  'adenofibromatous hypertrophy of prostate, nos', bph - benign prostatic hypertrophy,
+  prostatic adenomas, hyperplasia of prostate (disorder), prostatic hyperplasia, 'glandular,
+    stromal and muscular hyperplasia of prostate gland', prostatic area hypertrophy,
+  lobular hyperplasia of prostate gland, nodular hyperplasia of prostate gland, benign enlargement of prostate,
+  benign fibroma of prostate, 'prostatic hyperplasia, benign', prostatic hyper -benign,
+  'hyperplasia of prostate, nos', benign adenoma of prostate, fibromuscular hyperplasia of prostate gland,
+  'prostatic hypertrophy, benign', 'adenoma, prostatic', benign hyperplasia of the prostate,
+  'benign enlargement of prostate, nos', hyperplasia of prostate, benign hyperplasia of prostate,
+  adenofibromatous hypertrophy of prostate, benign prostate hyperplasia, prostatic adenoma,
+  'hyperplasia, prostatic', prostatic hypertrophy, hypertrophy (benign) of prostate,
+  'hypertrophy, benign prostatic', bph, 'glandular, stromal and/or muscular hyperplasia
+    of prostate gland', 'adenomas, prostatic', benign prostatic hypertrophy, adenomyomatous hyperplasia of prostate gland,
+  enlarged prostate - benign, benign hypertrophy of prostate nos, prostatauxe, prostate gland hyperplasia,
+  hyperplastic prostate gland]
